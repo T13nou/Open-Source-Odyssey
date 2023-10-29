@@ -29,6 +29,8 @@ Aujourd'hui, j'applique ces principes d'ouverture et de collaboration dans ma vi
 
 # II. Pourquoi l'Open Source ?
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" width="1000" height="250">
+
 Lorsque j'ai entrepris mon voyage vers l'utilisation exclusive d'outils open source, j'ai été influencé par plusieurs facteurs clés qui ont façonné ma perspective sur la vie numérique. Ces influences ont renforcé ma conviction que l'open source est la voie à suivre pour un avenir numérique plus sûr, transparent et éthique.
 
 Larry Sanger's Insights on Privacy and Digital Hygiene
@@ -84,6 +86,9 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 
 # III. Mise en Place de l'Infrastructure Open Source
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
+
+
 ## Utiliser un Navigateur Web Open Source
 
     Objectif : Explorer les avantages d'un navigateur web open source par rapport aux navigateurs propriétaires.
@@ -131,6 +136,8 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 
 # IV. Systèmes d'Exploitation Open Source
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
+
 L'une des étapes les plus marquantes de mon voyage vers l'utilisation exclusive d'outils open source a été mon passage à un système d'exploitation open source pour mon poste de travail. Ce changement s'est produit grâce à un déclic, une révélation qui est venue sous la forme d'un appareil de jeu : le Steam Deck, une console de jeu portative basée sur Arch Linux.
 
 En tant que passionné de jeux vidéo, j'ai été impressionné par l'engagement de la société Valve pour rendre compatible un nombre impressionnant de jeux, à l'origine prévus pour Windows, avec Linux. Cette démarche audacieuse a attiré mon attention et a suscité ma curiosité.
@@ -166,6 +173,8 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
     Contenu : Utilisez les témoignages et l'approche de Cardiacman13 et Davius pour mettre en avant les performances exceptionnelles de votre système dans le gaming. Discutez de l'optimisation des pilotes graphiques, de la compatibilité croissante des jeux sous Linux, et comment cela a transformé votre expérience de jeu.
 
 # V. L'Open Collaboration et la Puissance de la Communauté
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/community.png" width="1000" height="250">
 
 L'un des aspects les plus inspirants de mon voyage vers l'utilisation exclusive d'outils open source est la découverte de l'open collaboration et de la formidable puissance de la communauté qui l'accompagne. Dans ce chapitre, nous explorerons les avantages de l'open collaboration, de l'innovation collective et de la solidité de la communauté, en mettant en lumière les principes de cette approche.
 
