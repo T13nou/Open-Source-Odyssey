@@ -14,10 +14,17 @@ Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir un
 
 ## Qui suis-je ?
 
+Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
 
-    Présentation brève de votre expérience personnelle en tant qu'utilisateur exclusif d'outils open source.
-    L'importance de l'open source, de la liberté numérique, de la vie privée et de l'hygiène numérique dans le monde numérique moderne.
-    Annonce de la structure de votre exposé.
+Profil LinkedIn : Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil LinkedIn : Etienne Blanchet.
+
+Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective à travers diverses initiatives.
+
+Ingénieur Électronicien/Informaticien : Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
+
+Ma passion pour l'open source et l'open collaboration trouve son origine dans une conviction profonde : la technologie peut servir à rapprocher les individus, à faciliter le partage des idées et à résoudre des problèmes complexes de manière collective. Mon parcours m'a amené à travailler sur des projets variés, de la conception de solutions électroniques à la mise en place de frameworks open source au sein de mon entreprise.
+
+Aujourd'hui, j'applique ces principes d'ouverture et de collaboration dans ma vie personnelle et professionnelle. Mon engagement en faveur de l'open source et de l'open collaboration repose sur la conviction que ces approches peuvent transformer notre manière de travailler, d'innover et de construire un avenir numérique meilleur pour tous.
 
 # II. Pourquoi l'Open Source ?
 
