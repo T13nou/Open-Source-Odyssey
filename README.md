@@ -1,5 +1,5 @@
 # Open-Source-Odyssey
-My 100% Open Source Journey: A Digital Odyssey Towards Freedom and Collaboration
+Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collaboration
 
 
 # I. Introduction
