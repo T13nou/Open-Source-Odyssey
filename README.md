@@ -1,6 +1,7 @@
 # Open-Source-Odyssey
 Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collaboration
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/banner.png" width="345" height="159">
 
 # I. Introduction
 
