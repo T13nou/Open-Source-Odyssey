@@ -14,7 +14,7 @@ Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir un
 
 ## Qui suis-je ?
 
-Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
+<img src="[https://github.com/Cardiacman13/Tuto-Arch/blob/main/assets/images/programming.png](https://avatars.githubusercontent.com/u/64090484?v=4)"> Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
 
 Profil LinkedIn : Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil LinkedIn : Etienne Blanchet.
 
