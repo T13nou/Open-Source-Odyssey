@@ -88,6 +88,23 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
 
+Le voyage vers la création d'une infrastructure entièrement open source a été marqué par la recherche de "quick wins", ces petites victoires initiales qui renforcent la conviction que l'approche choisie est la bonne. Mon parcours a débuté en m'inspirant d'un article de Larry Sanger, co-fondateur de Wikipédia, où il partageait ses réflexions sur la vie privée et l'hygiène numérique.
+
+Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces informations avec d'autres sources de confiance, afin de bâtir une base solide pour mon infrastructure open source. Parmi les ressources qui ont guidé mes choix, voici quelques-unes des plus influentes :
+
+1. PrivacyTools.io : Ce site web est devenu une référence en matière de protection de la vie privée en ligne. Régulièrement mis à jour, il propose une multitude d'outils et de recommandations pour répondre à divers cas d'usage, de la navigation web sécurisée à la gestion des mots de passe en passant par la confidentialité des courriels. C'est devenu un point de départ essentiel pour quiconque souhaite renforcer sa confidentialité en ligne.
+
+2. Chaînes dédiées au Homelabing sur YouTube :
+
+    Techno Tim : Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.
+
+    NetworkChuck : NetworkChuck explore un large éventail de sujets liés à la technologie, y compris les solutions open source pour les réseaux et les serveurs.
+
+    Wolfgang's Channel : Wolfgang se penche sur les aspects techniques du homelabing, en fournissant des informations détaillées sur l'utilisation d'outils open source.
+
+    Christian Lempa : La chaîne de Christian Lempa se concentre sur les infrastructures informatiques auto-hébergées, explorant des solutions open source pour améliorer la vie numérique personnelle.
+
+En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure open source et renforcer ma compréhension des outils et des pratiques qui garantissent ma vie privée et ma sécurité en ligne. Ces premières étapes m'ont aidé à construire une fondation solide pour la suite de mon voyage vers une utilisation exclusive d'outils open source, axée sur la confidentialité, la transparence et l'innovation."
 
 ## Utiliser un Navigateur Web Open Source
 
