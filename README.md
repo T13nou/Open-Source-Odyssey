@@ -231,6 +231,14 @@ Le DNS interne joue également un rôle clé dans la résolution des noms de dom
 
 Ainsi, la mise en place d'un réseau fiable et sécurisé est devenue un élément essentiel de mon voyage vers une expérience numérique basée sur l'open source, garantissant que mes services sont accessibles en toute sécurité, tant depuis l'intérieur que depuis l'extérieur de mon réseau domestique.
 
+J'aime beaucoup la manière dont TechnoTim a su très bien vulgariser et expliquer la sécurité pour le Homelabing. On y traite des sujets des firewalls, reverse proxy, segmentation des réseaux, etc...
+
+https://www.youtube.com/watch?v=Cs8yOmTJNYQ&t=185s
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165300.png" width="1000" height="516">
+
+
+https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png
+
 ## Veiller à l'Impact Écologique via une Approche de GreenLabing
 
 Lorsque l'on s'engage dans l'auto-hébergement de ses services, il est important de considérer l'impact écologique de cette démarche. En effet, la mise en place d'une infrastructure personnelle peut entraîner une consommation électrique et une dépense en matériel informatique, ce qui doit être équilibré avec une approche respectueuse de l'environnement.
