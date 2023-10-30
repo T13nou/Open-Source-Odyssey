@@ -263,14 +263,11 @@ Quelques formations existent et sont très enrichissantes. Je les ai suivi et es
 Je ne saurais que trop conseiller le travail de GitLab sur le sujet. Gitlab a développé à fond sa stratégie All-Remote et, comme ils appliquent bien leurs principes, tout est documenté sur le "GitLab's Guide to All-Remote"
 
 Les formations dispensées par GitLab sont excellentes. Cela demande de la mise en pratique et d'y revenir régulièrement pour se recentrer sur son application
-- https://www.coursera.org/learn/remote-team-management
-- https://about.gitlab.com/teamops/
-
 
 | Formation  | Contenu |
 | ------------- | ------------- |
 | [Remote Team Management](https://www.coursera.org/learn/remote-team-management#modules)| Diriger dans un environnement distant, Instaurer une culture et des pratiques organisationnelles à distance, Évaluer l'état de préparation des équipes et des responsables au travail à distance, Créer une stratégie de base pour la mise en œuvre d'une transformation à distance   |
-| TeamOps  | Se concentre sur trouver des solutions aux challenges suivants : les Retards dans la prise de décision, Fatigue des réunions, Mauvaise communication interne, Lenteur des transferts et retards dans le déroulement du travail Cell  |
+| [TeamOps](https://about.gitlab.com/teamops/) | Se concentre sur trouver des solutions aux challenges suivants : les Retards dans la prise de décision, Fatigue des réunions, Mauvaise communication interne, Lenteur des transferts et retards dans le déroulement du travail Cell  |
 
 
 ## Le Cadre Open Source dans le Monde Professionnel
