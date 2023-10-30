@@ -221,6 +221,10 @@ Auto-héberger ses services implique de les rendre disponibles sur Internet, tou
 
 Après avoir testé différents produits, dont des routeurs d'ASUS, Mikrotik, et pfSense, j'ai finalement opté pour OPNsense. OPNsense est une solution open source de routeur/firewall qui propose des packages additionnels pour activer les fonctionnalités dont j'avais besoin. Sa flexibilité et ses capacités de personnalisation m'ont convaincu.
 
+PhasedLogix a une excellente playlist pour prendre en main la solution. Le gars est clair et sait rendre accessible une solution relativement austère 🥇
+[Learn OPNSense Firewall](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" width="1000" height="408">
+
 Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque ProtectLI, qui propose des produits de qualité avec un BIOS open source, CoreBoot, en accord avec ma philosophie open source.
 
 L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy, qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
