@@ -255,6 +255,24 @@ L'un des aspects les plus stimulants de l'open collaboration est la possibilité
 
 L'un des atouts clés de l'open collaboration est la flexibilité qu'elle offre grâce au travail asynchrone. Travailler avec des individus répartis sur différentes zones horaires signifie que la collaboration peut se poursuivre 24 heures sur 24. Les contributions peuvent se faire en fonction des disponibilités de chacun, créant une dynamique de travail continue. Cela permet de tirer pleinement parti des talents disponibles, indépendamment de la localisation géographique.
 
+Quelques formations existent et sont très enrichissantes. Je les ai suivi et essaye d'intégrer les concepts clés dans mon quotidien.
+- Limiter l'utilisation des emails et favoriser l'utilisation d'un référentiel unique pour écrire, documenter et intérragir. Il s'agit d'une "single source of truth" qui facilite l'information, l'onboarding et évite de se disperser.
+- Utiliser des chats persistants pour que quelque soit la zone géographique d'un individu, il puisse prendre connaissance des échanges durant ses heures de travail. De nombreux outils existent : Discord, Teams, Slack, NextCloud Chat.
+- Développer son relationel à distance : les cafés virtuels, les projets cross-countries, les peer reviews entre zone géographiques, toutes ces solutions forment une base solide à la collaboration asynchrone.
+
+Je ne saurais que trop conseiller le travail de GitLab sur le sujet. Gitlab a développé à fond sa stratégie All-Remote et, comme ils appliquent bien leurs principes, tout est documenté sur le "GitLab's Guide to All-Remote"
+
+Les formations dispensées par GitLab sont excellentes. Cela demande de la mise en pratique et d'y revenir régulièrement pour se recentrer sur son application
+- https://www.coursera.org/learn/remote-team-management
+- https://about.gitlab.com/teamops/
+
+
+| Formation  | Contenu |
+| ------------- | ------------- |
+| [Remote Team Management](https://www.coursera.org/learn/remote-team-management#modules)| Diriger dans un environnement distant, Instaurer une culture et des pratiques organisationnelles à distance, Évaluer l'état de préparation des équipes et des responsables au travail à distance, Créer une stratégie de base pour la mise en œuvre d'une transformation à distance   |
+| TeamOps  | Se concentre sur trouver des solutions aux challenges suivants : les Retards dans la prise de décision, Fatigue des réunions, Mauvaise communication interne, Lenteur des transferts et retards dans le déroulement du travail Cell  |
+
+
 ## Le Cadre Open Source dans le Monde Professionnel
 
 Mon expérience dans le monde de l'open source m'a également conduit à appliquer ces principes dans mon travail professionnel. J'ai développé un framework open source au sein de mon entreprise, qui est accessible à tous les employés. Le partage des connaissances, la documentation exhaustive et l'accès ouvert à l'information sont des éléments clés de cette approche. Cela favorise la transparence, l'innovation et la collaboration, tout en éliminant les barrières à la communication au sein de l'entreprise.
