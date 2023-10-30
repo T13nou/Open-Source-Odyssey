@@ -232,6 +232,7 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
 
 ## Performances de Jeu au Top
 
+| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="150" height="75"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="150" height="75"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="150" height="75"> |
 
     Objectif : Expliquez comment votre expérience de jeu a été améliorée grâce à votre système open source.
     Contenu : Utilisez les témoignages et l'approche de Cardiacman13 et Davius pour mettre en avant les performances exceptionnelles de votre système dans le gaming. Discutez de l'optimisation des pilotes graphiques, de la compatibilité croissante des jeux sous Linux, et comment cela a transformé votre expérience de jeu.
