@@ -232,6 +232,7 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
 
 ## Performances de Jeu au Top
 
+
     Objectif : Expliquez comment votre expérience de jeu a été améliorée grâce à votre système open source.
     Contenu : Utilisez les témoignages et l'approche de Cardiacman13 et Davius pour mettre en avant les performances exceptionnelles de votre système dans le gaming. Discutez de l'optimisation des pilotes graphiques, de la compatibilité croissante des jeux sous Linux, et comment cela a transformé votre expérience de jeu.
 
