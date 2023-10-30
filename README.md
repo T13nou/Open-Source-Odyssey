@@ -280,6 +280,8 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
 
 ## Performances de Jeu au Top
 
+| CyberPunk 2077  | CS:GO | Forza Horizon 5 |
+| ------------- | ------------- | ------------- |
 | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="150" height="75"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="150" height="75"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="150" height="75"> |
 
 
