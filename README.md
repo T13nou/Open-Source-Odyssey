@@ -3,6 +3,7 @@ Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collabora
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/banner.png" width="1000" height="434">
 
+
 # I. Introduction
 
 Bienvenue sur ma page dédiée à mon aventure 100% open source. Ici, je partage mon voyage personnel vers l'utilisation exclusive d'outils open source dans ma vie quotidienne. Ma démarche s'articule autour de l'open collaboration, de la puissance de la communauté et de mon engagement en faveur de la vie privée informatique ainsi que de l'hygiène numérique.
@@ -29,6 +30,7 @@ Ingénieur Électronicien/Informaticien : Ma formation d'ingénieur électronici
 Ma passion pour l'open source et l'open collaboration trouve son origine dans une conviction profonde : la technologie peut servir à rapprocher les individus, à faciliter le partage des idées et à résoudre des problèmes complexes de manière collective. Mon parcours m'a amené à travailler sur des projets variés, de la conception de solutions électroniques à la mise en place de frameworks open source au sein de mon entreprise.
 
 Aujourd'hui, j'applique ces principes d'ouverture et de collaboration dans ma vie personnelle et professionnelle. Mon engagement en faveur de l'open source et de l'open collaboration repose sur la conviction que ces approches peuvent transformer notre manière de travailler, d'innover et de construire un avenir numérique meilleur pour tous.
+
 
 # II. Pourquoi l'Open Source ?
 
@@ -83,10 +85,6 @@ Avec la montée en puissance des préoccupations liées à la vie privée, l'ope
 Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus qu'une simple alternative aux logiciels propriétaires. Il incarne une philosophie de collaboration, de transparence et de respect de la liberté individuelle, tout en offrant des solutions technologiques puissantes et durables. Mon voyage vers l'open source m'a convaincu que ces avantages sont essentiels pour façonner un avenir numérique plus prometteur.
 
 
-    Expliquez les motivations qui vous ont poussé à passer à l'utilisation exclusive d'outils open source.
-    Discutez des avantages de l'open source par rapport aux logiciels propriétaires.
-    Mettez en avant les aspects de liberté, de transparence et de personnalisation offerts par l'open source.
-
 # III. Mise en Place de l'Infrastructure Open Source
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
@@ -119,8 +117,15 @@ En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure 
 
 ## Utiliser un Navigateur Web Open Source
 
-    Objectif : Explorer les avantages d'un navigateur web open source par rapport aux navigateurs propriétaires.
-    Contenu : Présentez des navigateurs web open source populaires, comme Mozilla Firefox, Brave, ou Chromium, et expliquez pourquoi vous avez fait ce choix. Discutez des fonctionnalités de confidentialité, de sécurité et de personnalisation disponibles.
+La première étape de mon voyage vers une expérience numérique basée sur l'open source a commencé avec la recherche d'une alternative à Google Chrome. Bien que Chrome soit un navigateur populaire et efficace, j'étais de plus en plus conscient des préoccupations liées à la vie privée et à la collecte de données. J'ai donc entrepris de trouver une solution open source qui pourrait répondre à mes besoins en matière de navigation web.
+
+Après des recherches approfondies, Mozilla Firefox est rapidement devenu la solution de prédilection. Mozilla, en tant qu'organisation à but non lucratif, s'engage fermement en faveur de la protection de la vie privée en ligne. Firefox est un navigateur open source qui incarne ces valeurs, offrant une transparence totale sur son code source et sa philosophie d'ouverture. C'est un choix qui correspondait parfaitement à ma démarche en faveur de l'open source.
+
+Pour la gestion de mes mots de passe, j'ai opté pour l'extension Bitwarden, un gestionnaire de mots de passe open source. L'avantage de Bitwarden est sa compatibilité avec mon installation auto-hébergée de Bitwarden sur mon serveur NAS. Cette intégration me permet de gérer mes mots de passe de manière sécurisée et de les stocker localement, renforçant ainsi ma sécurité en ligne.
+
+En ce qui concerne la gestion du filtrage des sites web, des publicités et des malwares, j'ai délégué cette tâche à mon routeur OPNsense. Ce routeur open source est équipé d'un module DNS basé sur des listes de filtrage, similaire à un Pi-Hole. Cette solution me permet de bloquer activement les publicités, les trackers, et les sites web malveillants à un niveau central, protégeant ainsi tous les appareils de mon réseau domestique. Cela renforce non seulement ma vie privée, mais aussi la sécurité de mes activités en ligne.
+
+En somme, l'utilisation d'un navigateur web open source, associée à des outils
 
 ## Utiliser un Service Mail Soucieux de la Vie Privée
 
@@ -277,8 +282,6 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
 
 | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="150" height="75"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="150" height="75"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="150" height="75"> |
 
-    Objectif : Expliquez comment votre expérience de jeu a été améliorée grâce à votre système open source.
-    Contenu : Utilisez les témoignages et l'approche de Cardiacman13 et Davius pour mettre en avant les performances exceptionnelles de votre système dans le gaming. Discutez de l'optimisation des pilotes graphiques, de la compatibilité croissante des jeux sous Linux, et comment cela a transformé votre expérience de jeu.
 
 # V. L'Open Collaboration et la Puissance de la Communauté
 
