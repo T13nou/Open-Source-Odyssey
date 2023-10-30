@@ -173,7 +173,7 @@ Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
 | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/23-10-30%2014-25-46%207881.jpg" width="500" height="375"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165231.png" width="500" height="375"> |
 
 Le dashboard
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165300.png" width="1000" height="390">
 
 
 
