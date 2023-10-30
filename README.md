@@ -88,21 +88,29 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
 
-Le voyage vers la création d'une infrastructure entièrement open source a été marqué par la recherche de "quick wins", ces petites victoires initiales qui renforcent la conviction que l'approche choisie est la bonne. Mon parcours a débuté en m'inspirant d'un article de Larry Sanger, co-fondateur de Wikipédia, où il partageait ses réflexions sur la vie privée et l'hygiène numérique.
+La création d'une infrastructure entièrement open source a été marqué par la recherche de "quick wins", ces petites victoires initiales qui renforcent la conviction que l'approche choisie est la bonne. Mon parcours a débuté en m'inspirant d'un article de Larry Sanger, co-fondateur de Wikipédia, où il partageait ses réflexions sur la vie privée et l'hygiène numérique.
 
 Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces informations avec d'autres sources de confiance, afin de bâtir une base solide pour mon infrastructure open source. Parmi les ressources qui ont guidé mes choix, voici quelques-unes des plus influentes :
 
-1. PrivacyTools.io : Ce site web est devenu une référence en matière de protection de la vie privée en ligne. Régulièrement mis à jour, il propose une multitude d'outils et de recommandations pour répondre à divers cas d'usage, de la navigation web sécurisée à la gestion des mots de passe en passant par la confidentialité des courriels. C'est devenu un point de départ essentiel pour quiconque souhaite renforcer sa confidentialité en ligne.
+## Sites de références pour le homelabing et outils orientés "Privacy"
 
-2. Chaînes dédiées au Homelabing sur YouTube :
+| Canal  | Contenu |
+| ------------- | ------------- |
+| PrivacyTools.io | Ce site web est devenu une référence en matière de protection de la vie privée en ligne. Régulièrement mis à jour, il propose une multitude d'outils et de recommandations pour répondre à divers cas d'usage, de la navigation web sécurisée à la gestion des mots de passe en passant par la confidentialité des courriels. C'est devenu un point de départ essentiel pour quiconque souhaite renforcer sa confidentialité en ligne. |
+| homelabing.com | Optimize your Homelab capabilities through self-hosting and utilizing open-source solutions |
+| servethehome.com | ServeTheHome est le guide des professionnels de l'informatique en matière de serveurs, de stockage, de réseaux et de matériel de station de travail haut de gamme, ainsi que d'excellents projets open source. |
+| homenetworkguy.com | Le site web vise à fournir une ressource conviviale avec des conseils, des astuces de dépannage et des expériences partagées pour aider les autres à construire leurs propres réseaux domestiques avancés.  |
 
-[![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) Techno Tim : Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.
+## Chaînes dédiées au Homelabing sur YouTube :
 
-    NetworkChuck : NetworkChuck explore un large éventail de sujets liés à la technologie, y compris les solutions open source pour les réseaux et les serveurs.
-
-    Wolfgang's Channel : Wolfgang se penche sur les aspects techniques du homelabing, en fournissant des informations détaillées sur l'utilisation d'outils open source.
-
-    Christian Lempa : La chaîne de Christian Lempa se concentre sur les infrastructures informatiques auto-hébergées, explorant des solutions open source pour améliorer la vie numérique personnelle.
+| Canal  | Contenu |
+| ------------- | ------------- |
+| Techno Tim [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) | Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.  |
+| NetworkChuck [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKb728FaC4SPqir0jCVxhY0NTgnHD-iP2MqbSIrj9g=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@NetworkChuck) | NetworkChuck explore un large éventail de sujets liés à la technologie, y compris les solutions open source pour les réseaux et les serveurs.  |
+| Wolfgang's Channel [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYVoDrnSDACycgSJNnTkac6M6HROYVgJIfxAu6-ug=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@WolfgangsChannel) | Wolfgang se penche sur les aspects techniques du homelabing, en fournissant des informations détaillées sur l'utilisation d'outils open source.  |
+| Christian Lempa [![Watch the video](https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@christianlempa) | La chaîne de Christian Lempa se concentre sur les infrastructures informatiques auto-hébergées, explorant des solutions open source pour améliorer la vie numérique personnelle.  |
+| Adrien Linuxtricks [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYE_aERPU37zbKhTQUpPLeX6wpntPDj-ftpJN6uww=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@AdrienLinuxtricks))  | AdrienLinuxtricks est une chaîne YouTube axée sur Linux et les logiciels open source. Vous y trouverez des tutoriels, des astuces, des critiques de distributions Linux, ainsi que des guides pour maximiser votre expérience avec les technologies open source. Cette chaîne est idéale pour les passionnés de Linux, qu'ils soient débutants ou utilisateurs expérimentés, cherchant à explorer et à maîtriser le monde de l'open source.  |
+| Chris Titus Tech [![Watch the video](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitusTech)  | ChrisTitusTech est une chaîne YouTube qui aborde un large éventail de sujets technologiques, de l'informatique aux logiciels, en passant par les astuces de productivité et les critiques de matériel. L'animateur, Chris, partage son expertise de manière accessible, en proposant des guides pratiques et des recommandations. Cette chaîne convient à tous ceux qui s'intéressent à la technologie et cherchent des conseils et des informations sur divers sujets informatiques.  |
 
 En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure open source et renforcer ma compréhension des outils et des pratiques qui garantissent ma vie privée et ma sécurité en ligne. Ces premières étapes m'ont aidé à construire une fondation solide pour la suite de mon voyage vers une utilisation exclusive d'outils open source, axée sur la confidentialité, la transparence et l'innovation."
 
