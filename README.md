@@ -96,7 +96,7 @@ Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces infor
 
 2. Chaînes dédiées au Homelabing sur YouTube :
 
-    Techno Tim : Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.
+[![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) Techno Tim : Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.
 
     NetworkChuck : NetworkChuck explore un large éventail de sujets liés à la technologie, y compris les solutions open source pour les réseaux et les serveurs.
 
@@ -113,18 +113,69 @@ En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure 
 
 ## Utiliser un Service Mail Soucieux de la Vie Privée
 
-    Objectif : Garantir la confidentialité de vos communications par e-mail.
-    Contenu : Explorez les services de messagerie open source axés sur la vie privée, tels que ProtonMail ou Tutanota. Discutez de l'importance du chiffrement de bout en bout et de la protection de la vie privée dans le choix de votre service de messagerie.
+L'un des premiers domaines que j'ai souhaité aborder était celui de la messagerie électronique. Le choix d'un service de messagerie adapté revêt une importance cruciale, car il touche à la confidentialité des communications et à la sécurité des données personnelles.
+
+J'ai été particulièrement attentif à plusieurs aspects dans ma quête d'un service mail soucieux de la vie privée :
+
+1. Monétisation du Contenu : L'une de mes préoccupations principales était d'éviter les fournisseurs de messagerie qui monétisent le contenu de leurs utilisateurs. De nombreuses grandes plates-formes de messagerie génèrent des revenus en analysant le contenu des e-mails et en affichant des publicités ciblées. Cette pratique est contraire à mes valeurs de vie privée et de respect de la confidentialité.
+
+2. Chiffrement à la Source : Le chiffrement des e-mails est essentiel pour empêcher toute interception non autorisée de messages. J'ai recherché un fournisseur qui chiffre les e-mails dès le départ, garantissant que seuls l'expéditeur et le destinataire ont accès au contenu. Le chiffrement à la source est un élément fondamental pour garantir la confidentialité des communications.
+
+3. Hébergé en Europe : En tant qu'utilisateur soucieux de la vie privée, le choix de l'emplacement des serveurs de messagerie revêt une importance cruciale. J'ai opté pour un service de messagerie hébergé en Europe, ce qui permet de respecter des normes strictes de protection des données et de vie privée. Cela ajoute une couche de sécurité supplémentaire à mes communications.
+
+4. Éviter le "Vendor Lock-In" : L'idée de rester lié à un seul fournisseur de messagerie était contraire à ma vision d'un environnement numérique ouvert et flexible. J'ai cherché un fournisseur qui n'impose pas de verrouillage à un écosystème propriétaire, offrant ainsi la possibilité de migrer vers d'autres services si nécessaire.
+
+Parmis les options qui s'offrent à moi
+- Auto héberger mon propre serveur de mail : délicat à configurer car reposant sur des technologies de sécurité et d'antispam que je maitrise peu :) Par ailleurs, la livraison des mails nécessite une connexion fiable et disponible 365 jours par an (ou utiliser une gateway le plus souvent payante).
+- Utiliser une solution payante d'un fournisseur tiers.
+
+Pour ma part je n'utilise que peu le mail et ce que je reçois n'est pas critique, j'ai décidé alors de faire un compromis en me facilitant la vie et choisissant un fournisseur qui parait fiable et réponds aux critères ci-dessus.
+
+Après avoir examiné de nombreuses options, j'ai finalement choisi Soverin.net comme mon fournisseur de messagerie. Bien que Soverin.net ne soit pas nécessairement parfait, il répond à plusieurs de mes préoccupations fondamentales. Il ne monétise pas le contenu de mes e-mails, propose un chiffrement robuste, est hébergé en Europe, et ne me "verrouille" pas dans un écosystème propriétaire.
+
+Cette approche de la messagerie électronique s'inscrit dans ma démarche globale de respect de la vie privée et de promotion de l'open source. Elle garantit que mes communications restent confidentielles, sécurisées et sous mon contrôle, tout en évitant les pratiques intrusives et les restrictions souvent associées aux fournisseurs de messagerie traditionnels. Dans le cadre de mon voyage vers une utilisation exclusive d'outils open source, cette décision reflète mon engagement en faveur de la vie privée informatique et de l'hygiène numérique.
+
+Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche. J'ai bien conscience que 
+
+## Maîtriser Mes Données en Hébergeant Mon Propre Serveur NAS - Le Début du HomeLabing
+
+Mon parcours vers une infrastructure entièrement open source m'a également conduit à repenser la manière dont je stocke et gère mes données. Initialement, j'utilisais une solution NAS propriétaire de Synology. Bien que cette option offrait une certaine stabilité, je me suis rapidement rendu compte de ses limites. L'environnement était peu performant, et l'ajout de services supplémentaires était souvent compliqué, voire impossible.
+
+J'ai donc entrepris de rechercher des alternatives, en considérant diverses solutions open source. J'ai exploré des options telles que TrueNAS Core, Open Media Vault, et Unraid, chacune avec ses avantages et inconvénients. Après une analyse approfondie, j'ai finalement opté pour TrueNAS Scale, une solution qui s'appuie sur une base Debian que je chéris pour son ouverture et sa stabilité.
+
+TrueNAS Scale m'a séduit avec son environnement de stockage basé sur ZFS. Ce système de fichiers offre de nombreux avantages, notamment la capacité à créer des snapshots, sa robustesse, la déduplication des données, et la compression. Ces fonctionnalités sont essentielles pour garantir l'intégrité de mes données tout en optimisant l'espace de stockage.
+
+L'un des points forts de TrueNAS Scale réside dans son catalogue d'applications, qui offre une variété de services, le tout dans un environnement de conteneurisation. J'ai le choix entre Docker et Kubernetes pour déployer et gérer mes applications. De plus, TrueNAS Scale dispose d'une fonctionnalité d'hyperviseur basée sur KVM, qui reste, à mon avis, une valeur sûre en matière de virtualisation.
+
+Grâce à TrueNAS Scale, mon serveur NAS héberge désormais un ensemble d'applications essentielles à ma vie numérique. NextCloud me permet de stocker et de synchroniser mes fichiers en toute sécurité, PhotoPrism gère ma collection de photos de manière organisée, PleX me donne accès à ma bibliothèque multimédia, et Bitwarden prend en charge la gestion de mes mots de passe de manière sécurisée.
+
+Cependant, j'ai pris la décision de ne pas tout centraliser sur mon serveur NAS. Les services IT critiques, tels que le routeur OPNsense, le reverse proxy HAProxy, la gestion des certificats Let's Encrypt, ainsi que tous les services de sécurisation de mon réseau et de l'accès aux applications, sont installés sur du matériel dédié. Cette approche garantit une gestion efficace de ces éléments cruciaux et renforce la sécurité de mon réseau. Dans les chapitres suivants, je détaillerai davantage la mise en place de ces services essentiels.
+
+Voici la configuration pour laquelle j'ai opté afin d'accomplir mon objectif
+Case : Kolink Satellite
+CPU : Intel 12100T
+Motherboard : Asrock Z690M-ITX/ax
+Ram : 2x 32GB Crucial
+Boot storage (boot-pool) : 2 x 500GB Crucial MX500 SSD
+Main storage (data) : 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
+Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
+
+Les photos du gros bébé
+
+Le dashboard
+
+
+
 
 ## Avoir une Hygiène de Mots de Passe et Héberger Ceux-ci sur Mon Infrastructure
 
     Objectif : Améliorer la gestion des mots de passe tout en garantissant leur sécurité.
     Contenu : Discutez des gestionnaires de mots de passe open source, tels que Bitwarden, et de leur utilisation pour stocker en toute sécurité vos mots de passe. Mettez en avant l'importance de mots de passe forts et de l'authentification à deux facteurs.
 
-## Maîtriser Mes Données en Hébergeant Mon Propre Serveur NAS - Le Début du HomeLabing
+## Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
 
-    Objectif : Mettre en place un serveur NAS open source pour stocker, gérer et sauvegarder vos données.
-    Contenu : Détaillez les étapes de la mise en place d'un serveur NAS, en utilisant des solutions open source telles que FreeNAS ou OpenMediaVault. Expliquez comment cette solution améliore le contrôle de vos données et garantit leur disponibilité.
+    Objectif : Gérer vos contacts et calendriers de manière sécurisée et privée.
+    Contenu : Introduisez des solutions open source telles que DAVx⁵ pour la synchronisation des contacts et calendriers, en soulignant l'importance de garder le contrôle de vos données personnelles.
 
 ## Utiliser des Services Hébergés sur Mon Infrastructure et Sécuriser Leur Accès
 
@@ -135,11 +186,6 @@ En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure 
 
     Objectif : Garantir la sécurité de vos données lorsque vous êtes en déplacement.
     Contenu : Parlez de la mise en place d'un VPN (Réseau Privé Virtuel) open source, comme OpenVPN, pour sécuriser votre connexion Internet lorsque vous êtes loin de chez vous. Expliquez comment configurer un accès VPN sécurisé à votre réseau domestique.
-
-## Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
-
-    Objectif : Gérer vos contacts et calendriers de manière sécurisée et privée.
-    Contenu : Introduisez des solutions open source telles que DAVx⁵ pour la synchronisation des contacts et calendriers, en soulignant l'importance de garder le contrôle de vos données personnelles.
 
 ## Mettre en Place un Réseau Fiable et Sécurisé
 
