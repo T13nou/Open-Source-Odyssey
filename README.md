@@ -15,10 +15,8 @@ Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir un
 
 ## Qui suis-je ?
 
-| Le serveur assemblé  | Les entrailles |
 | ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png" width="90" height="90"> | 
- Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif |
+| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png" width="90" height="90"> | Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif |
 
 
 Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
