@@ -177,33 +177,63 @@ Le dashboard
 
 ## Avoir une Hygiène de Mots de Passe et Héberger Ceux-ci sur Mon Infrastructure
 
-    Objectif : Améliorer la gestion des mots de passe tout en garantissant leur sécurité.
-    Contenu : Discutez des gestionnaires de mots de passe open source, tels que Bitwarden, et de leur utilisation pour stocker en toute sécurité vos mots de passe. Mettez en avant l'importance de mots de passe forts et de l'authentification à deux facteurs.
+Comme beaucoup d'entre nous, j'ai jadis utilisé un mot de passe commun pour la plupart des services en ligne auxquels je m'inscrivais. Cette pratique, bien que courante, comporte des risques considérables pour la sécurité en ligne. La prise de conscience de ces dangers m'a incité à chercher des moyens plus sécurisés et efficaces de gérer mes mots de passe.
+
+Ma première tentative pour remédier à cette situation a été d'utiliser les gestionnaires de mots de passe intégrés aux navigateurs web. Cependant, avec le temps, j'ai réalisé que je ne pouvais pas faire entièrement confiance à ces gestionnaires, en particulier en ce qui concerne la sécurité et le contrôle de mes données sensibles.
+
+J'ai donc adopté Keepass, un gestionnaire de mots de passe open source. Keepass m'a accompagné pendant des années, offrant une solution sécurisée pour stocker mes mots de passe. J'ai même opté pour un stockage en cloud de ma base de données Keepass, ce qui me permettait d'accéder à mes mots de passe depuis n'importe lequel de mes appareils.
+
+Cependant, au fil du temps, j'ai trouvé que l'approche de Keepass devenait de plus en plus fastidieuse. La gestion des bases de données locales et la synchronisation entre les appareils nécessitaient un effort considérable. C'est à ce moment-là que j'ai sérieusement envisagé Bitwarden, un gestionnaire de mots de passe open source, offrant une solution plus fluide et flexible.
+
+L'un des avantages clés de Bitwarden est la possibilité d'auto-héberger son propre serveur de mots de passe. Cette option m'a permis de garder le contrôle total de mes données sensibles, sans avoir à faire confiance à des tiers. Les applications Bitwarden sont disponibles pour une multitude de systèmes d'exploitation, de desktop à mobile, ce qui facilite grandement la gestion des mots de passe sur tous mes appareils. De plus, ces applications sont conçues de manière à garantir la sécurité même en cas de perte de connexion, en conservant en cache et cryptant ma base de données de mots de passe.
+
+Le catalogue d'applications de TrueNAS propose également VaultWarden, un équivalent open source de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
 
 ## Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
 
-    Objectif : Gérer vos contacts et calendriers de manière sécurisée et privée.
-    Contenu : Introduisez des solutions open source telles que DAVx⁵ pour la synchronisation des contacts et calendriers, en soulignant l'importance de garder le contrôle de vos données personnelles.
+Mon parcours professionnel m'a souvent conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
 
-## Utiliser des Services Hébergés sur Mon Infrastructure et Sécuriser Leur Accès
+Ma curiosité m'a poussé à explorer cette solution, même si dans ses premières versions, NextCloud pouvait être délicate à installer et à maintenir. Mon objectif était clair : reprendre le contrôle de ma liste de contacts, de mon calendrier, et de mes données, en me libérant des écosystèmes fermés tels que Google Drive et Google Docs.
 
-    Objectif : Déployer des services open source localement et sécuriser leur accès.
-    Contenu : Présentez des services courants, tels que Nextcloud (pour le stockage et la synchronisation de fichiers) et le gestionnaire de tâches Tasks (pour la gestion de vos tâches). Expliquez comment les configurer et sécuriser l'accès à ces services.
+Plusieurs années se sont écoulées depuis mes premiers pas avec NextCloud, et la plateforme a considérablement évolué. Elle offre aujourd'hui diverses méthodes d'installation, ce qui la rend plus accessible pour les utilisateurs résidentiels. Elle est compatible avec de nombreux NAS, qu'ils soient propriétaires ou open source. Pour ma part, j'ai opté pour une installation "All-in-one" sur une machine virtuelle, qui me fournit tous les services dont j'ai besoin.
 
-## Être en Sécurité lors de Mes Déplacements avec un VPN vers Mon Réseau de la Maison
+Mon NextCloud personnel inclut un client mail, un calendrier compatible CalDAV, une liste de contacts compatible CardDAV, des outils de prise de notes, un tableau Kanban, une fonctionnalité semblable à Doodle, et surtout, un gestionnaire de fichiers. Ce dernier point est essentiel, car il me permet d'accéder à mes informations, que ce soit depuis mon domicile, en déplacement, ou en collaborant avec d'autres personnes.
 
-    Objectif : Garantir la sécurité de vos données lorsque vous êtes en déplacement.
-    Contenu : Parlez de la mise en place d'un VPN (Réseau Privé Virtuel) open source, comme OpenVPN, pour sécuriser votre connexion Internet lorsque vous êtes loin de chez vous. Expliquez comment configurer un accès VPN sécurisé à votre réseau domestique.
+NextCloud propose également un client iOS, qui automatise le téléchargement de toutes mes photos vers mon serveur NextCloud. Cette fonctionnalité ajoute une couche de sécurité supplémentaire en m'assurant que mes souvenirs sont stockés de manière privée sur mon propre serveur.
+
+De plus, NextCloud est doté d'un traitement de texte, d'un tableur, et d'un outil de présentation intégrés, permettant de travailler simultanément sur un même document, tout en préservant la maîtrise de nos données. L'utilisation de NextCloud est devenue une habitude dans ma famille, chaque membre l'utilisant pour collaborer et accéder à ses fichiers à distance. Cette transition vers une solution open source auto-hébergée a renforcé ma confiance dans la gestion de mes données personnelles, tout en offrant une expérience de collaboration fluide et sécurisée.
 
 ## Mettre en Place un Réseau Fiable et Sécurisé
 
-    Objectif : Garantir la fiabilité et la sécurité de votre réseau domestique.
-    Contenu : Discutez des mesures de sécurité pour votre réseau local, telles que la segmentation du réseau, l'utilisation de pare-feu open source, et la configuration d'un DNS sécurisé, comme Pi-hole, pour bloquer les publicités et les traqueurs.
+Le réseau domestique, par défaut, est souvent peu sécurisé et ne propose que peu de fonctionnalités pour faciliter l'auto-hébergement. C'est pourquoi, lorsque j'ai décidé de m'engager dans l'auto-hébergement de mes services, j'ai rapidement compris qu'il fallait gérer tous les aspects liés à la connectivité, à la sécurité, et à la mise à disposition de mes services en ligne.
+
+Auto-héberger ses services implique de les rendre disponibles sur Internet, tout en garantissant leur sécurité. C'est à ce moment-là que je me suis lancé à la recherche d'une solution globale pour gérer l'ensemble de ces aspects, y compris le DNS, le DHCP, la sécurité, et la mise en place d'un VPN.
+
+Après avoir testé différents produits, dont des routeurs d'ASUS, Mikrotik, et pfSense, j'ai finalement opté pour OPNsense. OPNsense est une solution open source de routeur/firewall qui propose des packages additionnels pour activer les fonctionnalités dont j'avais besoin. Sa flexibilité et ses capacités de personnalisation m'ont convaincu.
+
+Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque ProtectLI, qui propose des produits de qualité avec un BIOS open source, CoreBoot, en accord avec ma philosophie open source.
+
+L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy, qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
+
+La gestion des certificats SSL/TLS est essentielle pour garantir la sécurité des connexions. Heureusement, il existe une autorité de certification gratuite, Let's Encrypt, qui permet d'obtenir des certificats SSL/TLS de manière automatisée. OPNsense facilite cette tâche en utilisant le plugin ACME, qui renouvelle automatiquement les certificats, qu'ils soient wildcard ou non, pour tous mes sous-domaines. Ainsi, chaque service, qu'il s'agisse de NextCloud, Bitwarden, Plex, et bien d'autres, est accessible via un sous-domaine sécurisé.
+
+Le DNS interne joue également un rôle clé dans la résolution des noms de domaine à l'intérieur de mon réseau. J'ai choisi d'utiliser le service unbound sur OPNsense, en utilisant des listes de filtrage de domaines indésirables, similaires à Pi-Hole. Le résultat est une expérience de navigation sans publicités ni fenêtres intrusives sur l'ensemble de mon réseau domestique.
+
+Ainsi, la mise en place d'un réseau fiable et sécurisé est devenue un élément essentiel de mon voyage vers une expérience numérique basée sur l'open source, garantissant que mes services sont accessibles en toute sécurité, tant depuis l'intérieur que depuis l'extérieur de mon réseau domestique.
 
 ## Veiller à l'Impact Écologique via une Approche de GreenLabing
 
-    Objectif : Adopter des pratiques respectueuses de l'environnement dans la gestion de votre infrastructure.
-    Contenu : Explorez des initiatives open source axées sur l'efficacité énergétique, telles que des projets de monitoring de l'énergie, pour minimiser l'impact environnemental de votre infrastructure.
+Lorsque l'on s'engage dans l'auto-hébergement de ses services, il est important de considérer l'impact écologique de cette démarche. En effet, la mise en place d'une infrastructure personnelle peut entraîner une consommation électrique et une dépense en matériel informatique, ce qui doit être équilibré avec une approche respectueuse de l'environnement.
+
+Dans cette optique, j'ai conçu mon approche d'auto-hébergement avec un souci d'efficacité énergétique et de durabilité. Chacun des appareils que j'utilise a été choisi pour sa faible consommation électrique et sa longévité. En combinant ces deux facteurs, j'ai pu réduire au maximum l'impact environnemental de mon infrastructure.
+
+L'ensemble de mes appareils, au nombre de trois, consomme un total de seulement 60 watts, soit l'équivalent de ce que consommerait une ampoule d'ancienne génération. Cette faible consommation est le résultat d'une sélection minutieuse du matériel et de son dimensionnement pour garantir des performances optimales tout en limitant la dépense énergétique.
+
+De plus, certains de mes appareils ont été délibérément surdimensionnés pour prolonger leur durée de vie et garantir leur compatibilité avec les technologies futures. Cette approche "agnostic" en termes de technologie permet d'éviter des remplacements fréquents d'appareils, réduisant ainsi la quantité de déchets électroniques.
+
+Un exemple concret de cette approche est la gestion de mon réseau filaire et Wi-Fi. J'ai délibérément séparé les deux appareils, le routeur et le point d'accès Wi-Fi, car les normes Wi-Fi évoluent rapidement. Ainsi, lorsque la prochaine génération de norme Wi-Fi sera disponible, je n'aurai besoin de remplacer que le point d'accès, préservant ainsi mon routeur et évitant un remplacement inutile de tout l'équipement.
+
+En veillant à l'impact écologique de mon approche d'auto-hébergement, je cherche à concilier les avantages de la maîtrise de mes données et de mes services avec un engagement en faveur de la durabilité et de la réduction de mon empreinte environnementale. Cette démarche s'inscrit dans la philosophie du GreenLabing, qui consiste à allier technologie et respect de la planète pour une informatique plus responsable.
 
 # IV. Systèmes d'Exploitation Open Source
 
