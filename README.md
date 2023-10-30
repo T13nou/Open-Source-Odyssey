@@ -234,7 +234,7 @@ Ainsi, la mise en place d'un réseau fiable et sécurisé est devenue un éléme
 J'aime beaucoup la manière dont TechnoTim a su très bien vulgariser et expliquer la sécurité pour le Homelabing. On y traite des sujets des firewalls, reverse proxy, segmentation des réseaux, etc...
 
 https://www.youtube.com/watch?v=Cs8yOmTJNYQ&t=185s
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165300.png" width="1000" height="516">
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png" width="1000" height="516">
 
 
 https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png
