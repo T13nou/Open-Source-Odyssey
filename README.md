@@ -168,6 +168,8 @@ Boot storage (boot-pool) : 2 x 500GB Crucial MX500 SSD
 Main storage (data) : 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
 Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
 
+| Le serveur assemblé  | Les entrailles |
+| ------------- | ------------- |
 | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/23-10-30%2014-25-46%207881.jpg" width="500" height="375"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165231.png" width="500" height="375"> |
 
 Le dashboard
