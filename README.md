@@ -233,6 +233,10 @@ PhasedLogix a une excellente playlist pour prendre en main la solution. Le gars 
 
 Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque ProtectLI, qui propose des produits de qualité avec un BIOS open source, CoreBoot, en accord avec ma philosophie open source.
 
+| La vue front  | La vue back |
+| ------------- | ------------- |
+| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_back_1600x1600-600x600.jpg" width="500" height="500"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_angle-1-600x600.jpg" width="500" height="500"> |
+
 L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy, qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
 
 La gestion des certificats SSL/TLS est essentielle pour garantir la sécurité des connexions. Heureusement, il existe une autorité de certification gratuite, Let's Encrypt, qui permet d'obtenir des certificats SSL/TLS de manière automatisée. OPNsense facilite cette tâche en utilisant le plugin ACME, qui renouvelle automatiquement les certificats, qu'ils soient wildcard ou non, pour tous mes sous-domaines. Ainsi, chaque service, qu'il s'agisse de NextCloud, Bitwarden, Plex, et bien d'autres, est accessible via un sous-domaine sécurisé.
