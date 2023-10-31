@@ -12,6 +12,8 @@ Au cœur de mon périple, j'ai mis en place une infrastructure à la maison, com
 
 Par ailleurs j'ai fait le choix de mettre cet article sur GitHub qui me parait être un endroit approprié pour partager mon approche avec la communauté et permettre à chacun d'y contribuer.
 
+Cet article n'a pas pour vocation d'être un guide technique, d'autres le font déjà, mais je vous orienterais vers des ressources très pointues et pertinentes sur les différents sujets que j'aborde.
+
 Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir une alternative aux logiciels propriétaires, mais également favoriser la liberté numérique, la sécurité de nos données, et l'innovation collective. Ensemble, nous explorerons les avantages de l'open source, son potentiel de transformation, et les joies de vivre une vie numérique plus transparente et respectueuse de nos droits individuels. Bienvenue dans mon monde 100% open source !
 
 ## Qui suis-je ?
