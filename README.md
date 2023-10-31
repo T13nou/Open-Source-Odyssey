@@ -56,6 +56,8 @@ Toutes ces influences ont convergé pour me convaincre de faire le saut vers l'o
 
 L'un des principaux avantages de l'open source réside dans la liberté et le contrôle qu'il offre aux utilisateurs. Contrairement aux logiciels propriétaires, les logiciels open source permettent aux utilisateurs d'accéder au code source, de le modifier et de l'adapter à leurs besoins spécifiques. Cette flexibilité est précieuse, que vous soyez un utilisateur expérimenté cherchant à personnaliser une solution ou un novice souhaitant comprendre le fonctionnement interne d'une application.
 
+Par ailleurs, la réutilisabilité du code est possible et courante. On emploie le terme de *fork* pour désigner un nouveau logiciel créé à partir du code source d'un logiciel existant.
+
 ### Transparence et Sécurité
 
 La transparence est un autre pilier de l'open source. Étant donné que le code source est accessible publiquement, les utilisateurs peuvent inspecter, auditer et vérifier la sécurité des logiciels open source. Cela réduit les risques de failles de sécurité cachées ou de portes dérobées. En outre, la communauté open source est prompte à corriger les vulnérabilités dès leur découverte, ce qui contribue à maintenir un environnement numérique plus sûr.
@@ -63,6 +65,8 @@ La transparence est un autre pilier de l'open source. Étant donné que le code 
 ### Coût Réduit
 
 Les logiciels open source sont souvent disponibles gratuitement, ce qui peut considérablement réduire les coûts pour les utilisateurs et les organisations. Vous pouvez utiliser des logiciels puissants sans avoir à payer de licences coûteuses. Cela permet d'accéder à des outils de haute qualité, même avec un budget limité.
+
+C'est un terrain fertile pour des ONG, le secteur de l'éducation ou simplement pour des association qui visent à redonner une seconde jeunesse à du matériel vieillissant. Jetez un oeil aux distributions Linux telles que [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) ou [Edubuntu](https://www.edubuntu.org/).
 
 ### Communauté et Support Actif
 
