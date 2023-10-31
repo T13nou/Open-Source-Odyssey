@@ -88,6 +88,8 @@ Avec la montée en puissance des préoccupations liées à la vie privée, l'ope
 
 Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus qu'une simple alternative aux logiciels propriétaires. Il incarne une philosophie de collaboration, de transparence et de respect de la liberté individuelle, tout en offrant des solutions technologiques puissantes et durables. Mon voyage vers l'open source m'a convaincu que ces avantages sont essentiels pour façonner un avenir numérique plus prometteur.
 
+Je vous invite à aller creuser le sujet avec la chaine de Rob Braxman, se définissant lui même comme un *Internet Privacy Evangelist*, soit un évangéliste du respect de la vie privée sur Internet. Sa proposition est assumée comme étant jusqu'au boutiste : il utilise un appareil par cas d'usage (publique, privé), vis sur un bateau et alerte régulièrement sur les dangers de notre environnement technologique. Il s'applique à lui même le principe de vie *off the grid*. A prendre avec des pincettes mais je suis d'accord avec la plupart de ses articles.
+
 
 # III. Mise en Place de l'Infrastructure Open Source
 
