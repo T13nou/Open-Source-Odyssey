@@ -76,6 +76,8 @@ L'open source favorise une communauté active et collaborative d'utilisateurs et
 
 Les logiciels open source sont moins susceptibles de devenir obsolètes ou d'être abandonnés par leur éditeur, car la responsabilité de leur développement repose sur la communauté plutôt que sur une seule entreprise. Cela garantit la pérennité des solutions open source, ce qui est crucial pour les projets à long terme.
 
+En écrivant cet article je me suis posé la question des *fork* et savoir si les projets les plus populaires ou ceux qui ne sont plus maintenus étaient régulièrement dérivés. GitHub maintient son [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) des projets les plus *forkés* et surprise, certains l'ont été plus de 100000 fois. La communauté est active ! ⚙️
+
 ### Innovation Continue
 
 L'open source encourage l'innovation continue. En permettant à n'importe qui de contribuer et d'améliorer un logiciel, l'open source favorise un cycle d'innovation rapide. De nombreux projets open source sont à l'origine de nouvelles idées et technologies qui ont un impact sur l'ensemble de l'industrie.
