@@ -264,17 +264,17 @@ En veillant à l'impact écologique de mon approche d'auto-hébergement, je cher
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
-L'une des étapes les plus marquantes de mon voyage vers l'utilisation exclusive d'outils open source a été mon passage à un système d'exploitation open source pour mon poste de travail. Ce changement s'est produit grâce à un déclic, une révélation qui est venue sous la forme d'un appareil de jeu : le Steam Deck, une console de jeu portative basée sur Arch Linux.
+L'une des étapes les plus marquantes de mon voyage vers l'utilisation exclusive d'outils open source a été mon passage à un système d'exploitation open source pour mon poste de travail. Ce changement s'est produit grâce à un déclic, une révélation qui est venue sous la forme d'un appareil de jeu : le [Steam Deck](https://www.steamdeck.com/fr), une console de jeu portative basée sur Arch Linux.
 
-En tant que passionné de jeux vidéo, j'ai été impressionné par l'engagement de la société Valve pour rendre compatible un nombre impressionnant de jeux, à l'origine prévus pour Windows, avec Linux. Cette démarche audacieuse a attiré mon attention et a suscité ma curiosité.
+En tant que passionné de jeux vidéo, j'ai été impressionné par l'engagement de la société [Valve](https://fr.wikipedia.org/wiki/Valve_(entreprise)) pour rendre compatible un nombre impressionnant de jeux, à l'origine prévus pour Windows, avec Linux. Cette démarche audacieuse a attiré mon attention et a suscité ma curiosité.
 
-C'est ainsi que j'ai ressenti le désir d'en apprendre davantage sur ce système d'exploitation, de plonger dans le monde de Linux, et de voir s'il pouvait répondre à mes besoins au-delà du jeu. Mon parcours m'a naturellement conduit à rejoindre la communauté Gaming Linux FR, où j'ai pu trouver de l'aide et des conseils pour faciliter ma transition de Windows à Linux.
+C'est ainsi que j'ai ressenti le désir d'en apprendre davantage sur ce système d'exploitation, de plonger dans le monde de Linux, et de voir s'il pouvait répondre à mes besoins au-delà du jeu. Mon parcours m'a naturellement conduit à rejoindre la communauté [Gaming Linux FR](https://www.gaminglinux.fr/), où j'ai pu trouver de l'aide et des conseils pour faciliter ma transition de Windows à Linux.
 
 Ce qui m'a le plus marqué dans cette expérience, c'est l'ouverture d'esprit, la volonté de partage et le dévouement de la communauté open source à aider le plus grand nombre à opérer cette transition. J'ai rapidement réalisé que la philosophie de l'open source était ancrée dans l'ADN de cette communauté. Chacun était prêt à partager ses connaissances, à résoudre des problèmes et à faire en sorte que Linux devienne accessible à tous.
 
 Après avoir testé différentes distributions Linux, notamment Debian, Fedora et OpenSUSE, j'ai finalement trouvé mon point de chute avec Arch Linux. Ce système d'exploitation open source correspondait à 100% à mes besoins. Il m'offrait la flexibilité et la personnalisation dont j'avais besoin pour adapter mon environnement de travail à mes préférences.
 
-Avec Arch Linux, j'ai pu travailler efficacement en utilisant uniquement des applications open source, tout en conservant certaines Progressive Web Apps (PWA) des applications Microsoft qui s'avéraient incontournables. Cette transition m'a montré que l'open source n'était pas seulement une option viable, mais qu'il pouvait également répondre à tous les besoins, qu'il s'agisse de productivité, de divertissement ou de tout autre aspect de la vie numérique.
+Avec Arch Linux, j'ai pu travailler efficacement en utilisant uniquement des applications open source, tout en conservant certaines [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) des applications Microsoft qui s'avéraient incontournables. Cette transition m'a montré que l'open source n'était pas seulement une option viable, mais qu'il pouvait également répondre à tous les besoins, qu'il s'agisse de productivité, de divertissement ou de tout autre aspect de la vie numérique.
 
 Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bien plus qu'une alternative aux logiciels propriétaires. C'est une communauté ouverte, collaborative et dévouée, prête à accompagner les utilisateurs dans leur exploration d'un avenir numérique plus libre et transparent.
 
@@ -289,6 +289,9 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
     Contenu : Expliquez en quoi Flatpak facilite l'installation et la gestion d'applications, offre un environnement isolé pour la sécurité, et garantit que les applications restent à jour indépendamment de la distribution Linux. Mettez en évidence la flexibilité que cela apporte à votre expérience.
 
 ## La Modularité d'Arch Linux et son Accès au Repository AUR
+
+J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux](https://www.youtube.com/watch?v=qXvzGRm9iFs) où j'ai pu me faire une idée plus précise du soin aporté par la communauté à livrer une expérience satisfaisante à ses utilisateurs et minimisant les instabilités et autres bugs.
+
 
     Objectif : Explorez les avantages de la modularité d'Arch Linux et de l'accès au repository AUR.
     Contenu : Détaillez comment la structure modulaire d'Arch Linux vous a permis de personnaliser votre système à un niveau extrême, en installant uniquement ce dont vous avez besoin. Parlez de la richesse du repository AUR, qui facilite l'installation de logiciels non officiels. Montrez comment ces éléments vous offrent un contrôle total sur votre environnement.
