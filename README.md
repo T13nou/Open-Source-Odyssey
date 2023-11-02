@@ -400,7 +400,7 @@ Si une transformation de cette ampleur vous intéresse, gardez à l'esprit que l
 
 N'hésitez pas à me poser des questions sous formes d'Issues sur GitHub ou Reddit, je me ferais un plaisir d'y répondre et de publier nos échanges au sein de cet article.
 
-# X. La progression
+# X. Ma progression
 
 - [x] Utiliser un navigateur web open-source
 - [x] Utiliser un moteur de recherche soucieux de la vie privée
