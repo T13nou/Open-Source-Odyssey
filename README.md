@@ -386,16 +386,16 @@ Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions 
 
 Mon engagement en faveur de l'open source ne se limite pas à une utilisation personnelle ou professionnelle, il va bien au-delà. Il s'agit d'une conviction profonde que je porte avec passion, et l'une de mes missions est d'informer, partager et éduquer autour des avantages de l'open source et de la philosophie qui l'accompagne.
 
-## Informations au lieu de conversion 📖
+## 📖 Informations au lieu de conversion 
 Il est essentiel de préciser que mon objectif n'est pas de convertir, mais avant tout d'informer. Je crois que l'open source est une approche qui mérite d'être mieux comprise et appréciée. C'est pourquoi je m'efforce de partager des informations, d'expliquer les avantages, et de mettre en lumière la philosophie qui sous-tend cette démarche. Je souhaite que chacun puisse prendre des décisions éclairées en matière de technologie.
 
-## La Communauté Open Source 🐧
+## 🐧 La Communauté Open Source 
 La communauté open source est l'un des joyaux de cette approche. Elle est composée de personnes passionnées, curieuses et accueillantes, prêtes à partager leurs connaissances et à accueillir de nouveaux venus chaque jour. Cette communauté dynamique est une source inestimable de connaissances et d'inspiration. Elle incarne les valeurs de l'open source, telles que la collaboration, la transparence et la générosité.
 
-## Plus qu'une question d'outils 🧠
+## 🧠 Plus qu'une question d'outils 
 L'open source n'est pas uniquement une question d'outils techniques ou technologiques, c'est aussi une question d'état  d'esprit. Cela englobe la transparence, le goût de la transmission et le partage des connaissances. J'estime que l'open source est une invitation à l'apprentissage continu, à la création collaborative et à l'amélioration constante.
 
-## De la pédagogie pour les kids 👨‍👨‍👧‍👦
+## 👨‍👨‍👧‍👦 De la pédagogie pour les kids 
 L'une de mes priorités est d'informer les plus jeunes sur le côté sombre des réseaux sociaux et de les sensibiliser à l'importance de la prudence en ligne. Je m'efforce de transmettre des valeurs de vigilance, de ne pas trop s'exposer sur Internet et de ne rien partager de trop important. Ces leçons fondamentales sont essentielles pour protéger la vie privée et la sécurité numérique. Mes propres enfants en sont les premiers bénéficiaires, et il est gratifiant de les voir comprendre l'importance de ces messages à leur manière, comme le simple "C'est cool Linux" prononcé par mon plus grand.
 
 LinkedIn comme Vecteur de Communication : LinkedIn, la plateforme professionnelle, joue également un rôle clé dans ma démarche d'évangélisation de l'open source. C'est un espace où je peux interagir avec des convaincus, des souvenairistes et des Linuxiens de tous horizons. J'observe avec satisfaction la croissance de cette communauté jour après jour. C'est un vecteur idéal pour communiquer et informer. Je suis conscient que mon métier impose une certaine réserve, mais je considère que la curiosité n'a jamais fait de mal à personne. Partager des connaissances et encourager les discussions constructives sur l'open source est une démarche qui contribue à élargir les horizons et à promouvoir une utilisation plus éclairée de la technologie.
