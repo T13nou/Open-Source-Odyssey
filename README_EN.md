@@ -339,7 +339,7 @@ During the year 2023, I have modestly made around 200 contributions to these dif
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-#VII.  Let's spread the message!  <a name="message"/>
+# VI.  Let's spread the message!  <a name="message"/>
 
 My commitment to open source is not limited to personal or professional use, it goes well beyond.  This is a deep conviction that I hold with passion, and one of my missions is to inform, share and educate around the benefits of open source and the philosophy that accompanies it.
 
@@ -359,7 +359,7 @@ LinkedIn as a Vector of Communication: LinkedIn, the professional platform, also
 
 Ultimately, open source evangelism is a mission close to my heart.  It is a way of contributing to the dissemination of essential values ​​such as freedom, transparency and collaboration, and of ensuring that open source finds its place in a constantly evolving digital world.
 
-# VIII.  This is not a conclusion <a name="continue"/>
+# VII.  This is not a conclusion <a name="continue"/>
 
 This article was an opportunity to share my journey towards exclusively using open source tools and taking a deep approach to open source in my daily life.  It is essential to remember that my approach and this article are above all informative.  I'm not here to impose dogma, but to encourage thought and discussion about the benefits of open source, transparency, and the philosophy behind them.
 
@@ -369,7 +369,7 @@ There are many ways to get involved in the world of open source, whether through
 
 If you're interested in a transformation of this magnitude, keep in mind that the learning curve can be steep at first.  However, with perseverance, it becomes smoother and smoother as you progress.  Today, I continue to learn, but maintaining my open source environment requires little time.  This journey to open source is an invitation to continuous learning, innovation and collaboration.  It’s a journey that can bring both personal and professional benefits, and I encourage you to discover it in your own way.  The open source philosophy is an invaluable resource, and it is within reach of anyone who wishes to embark on this rewarding path.
 
-#IX.  Questions/Answers <a name="q&a"/>
+# VIII.  Questions/Answers <a name="q&a"/>
 
 Do not hesitate to ask me questions in the form of Issues on GitHub or Reddit, I would be happy to answer them and publish our discussions in this article.
 
@@ -387,194 +387,3 @@ Do not hesitate to ask me questions in the form of Issues on GitHub or Reddit, I
 - [x] Host my VPN to ensure a secure connection when I'm traveling/on vacation
 - [ ] Use free applications on my mobile - In progress
 - [ ] Lists my uses and services on the Internet, find free alternatives - Not started
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# IV. Systèmes d'exploitation Open Source <a name="os"/>
-
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
-
-L'une des étapes les plus marquantes de mon voyage vers l'utilisation exclusive d'outils open source a été mon passage à un système d'exploitation open source pour mon poste de travail. Ce changement s'est produit grâce à un déclic, une révélation qui est venue sous la forme d'un appareil de jeu : le [Steam Deck](https://www.steamdeck.com/fr), une console de jeu portative basée sur Arch Linux.
-
-En tant que passionné de jeux vidéo, j'ai été impressionné par l'engagement de la société [Valve](https://fr.wikipedia.org/wiki/Valve_(entreprise)) pour rendre compatible un nombre impressionnant de jeux, à l'origine prévus pour Windows, avec Linux. Cette démarche audacieuse a attiré mon attention et a suscité ma curiosité.
-
-C'est ainsi que j'ai ressenti le désir d'en apprendre davantage sur ce système d'exploitation, de plonger dans le monde de Linux, et de voir s'il pouvait répondre à mes besoins au-delà du jeu. Mon parcours m'a naturellement conduit à rejoindre la communauté [Gaming Linux FR](https://www.gaminglinux.fr/), où j'ai pu trouver de l'aide et des conseils pour faciliter ma transition de Windows à Linux.
-
-Ce qui m'a le plus marqué dans cette expérience, c'est l'ouverture d'esprit, la volonté de partage et le dévouement de la communauté open source à aider le plus grand nombre à opérer cette transition. J'ai rapidement réalisé que la philosophie de l'open source était ancrée dans l'ADN de cette communauté. Chacun était prêt à partager ses connaissances, à résoudre des problèmes et à faire en sorte que Linux devienne accessible à tous.
-
-Après avoir testé différentes distributions Linux, notamment Debian, Fedora et OpenSUSE, j'ai finalement trouvé mon point de chute avec [Arch Linux](https://archlinux.org/). Ce système d'exploitation open source correspondait à 100% à mes besoins. Il m'offrait la flexibilité et la personnalisation dont j'avais besoin pour adapter mon environnement de travail à mes préférences.
-
-Vous voulez un panorama des distributions existantes,la référence reste [DistroWatch](https://distrowatch.com/) !
-Vous voulez essayer les distributions sans pour autant les installer (ni même booter sur une ISO Live) [DistroSea](https://distrosea.com/) vous permettra de tester dans une VM au sein de votre navigateur :)
-
-Avec Arch Linux, j'ai pu travailler efficacement en utilisant uniquement des applications open source, tout en conservant certaines [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) des applications Microsoft qui s'avéraient incontournables. Cette transition m'a montré que l'open source n'était pas seulement une option viable, mais qu'il pouvait également répondre à tous les besoins, qu'il s'agisse de productivité, de divertissement ou de tout autre aspect de la vie numérique.
-
-Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bien plus qu'une alternative aux logiciels propriétaires. C'est une communauté ouverte, collaborative et dévouée, prête à accompagner les utilisateurs dans leur exploration d'un avenir numérique plus libre et transparent.
-
-J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux](https://www.youtube.com/watch?v=qXvzGRm9iFs) où j'ai pu me faire une idée plus précise du soin aporté par la communauté à livrer une expérience satisfaisante à ses utilisateurs et minimisant les instabilités et autres bugs.
-
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Desktop.png" width="1000" height="562">
-
-
-## Performances de Jeu au Top
-
-| CyberPunk 2077  | CS:GO | Forza Horizon 5 |
-| ------------- | ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="320" height="177"> |
-
-
-# V. L'Open Collaboration et la Puissance de la Communauté <a name="collab"/>
-
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/community.png" width="1000" height="250">
-
-L'un des aspects les plus inspirants de mon voyage vers l'utilisation exclusive d'outils open source est la découverte de l'open collaboration et de la formidable puissance de la communauté qui l'accompagne. Dans ce chapitre, nous explorerons les avantages de l'open collaboration, de l'innovation collective et de la solidité de la communauté, en mettant en lumière les principes de cette approche.
-
-Les Fondements de l'Open Collaboration
-
-L'open collaboration est une philosophie qui repose sur le partage, la coopération et l'ouverture. Elle favorise la collaboration entre individus et groupes de manière transparente, libre et souvent décentralisée. Cette approche a des implications profondes, non seulement dans le monde de l'open source, mais aussi dans le monde professionnel.
-
-## La collaboration décentralisée et la richesse des perspectives multiculturelles
-
-L'un des aspects les plus stimulants de l'open collaboration est la possibilité de travailler avec des personnes de divers pays, de cultures et de langues différentes. En tant qu'adepte de cette philosophie, j'ai eu l'opportunité de collaborer avec des individus de partout dans le monde, en utilisant des langues que je maîtrise telles que le français, l'anglais et l'espagnol. Cette diversité culturelle apporte une richesse infinie de points de vue, d'expériences et d'expertises. Elle renforce l'idée que l'innovation naît de la diversité.
-
-« La collaboration, c'est l'occasion de découvrir de nouvelles perspectives, de repousser les limites de la créativité et d'enrichir nos idées grâce à la diversité des contributeurs. » - [Citation de Linus Torvalds, créateur de Linux]
-
-## Le pouvoir de la collaboration asynchrone
-
-L'un des atouts clés de l'open collaboration est la flexibilité qu'elle offre grâce au travail asynchrone. Travailler avec des individus répartis sur différentes zones horaires signifie que la collaboration peut se poursuivre 24 heures sur 24. Les contributions peuvent se faire en fonction des disponibilités de chacun, créant une dynamique de travail continue. Cela permet de tirer pleinement parti des talents disponibles, indépendamment de la localisation géographique.
-
-Quelques formations existent et sont très enrichissantes. Je les ai suivi et essaye d'intégrer les concepts clés dans mon quotidien.
-- Limiter l'utilisation des emails et favoriser l'utilisation d'un référentiel unique pour écrire, documenter et intérragir. Il s'agit d'une "single source of truth" qui facilite l'information, l'onboarding et évite de se disperser.
-- Utiliser des chats persistants pour que quelque soit la zone géographique d'un individu, il puisse prendre connaissance des échanges durant ses heures de travail. De nombreux outils existent : Discord, Teams, Slack, NextCloud Chat.
-- Développer son relationel à distance : les cafés virtuels, les projets cross-countries, les peer reviews entre zone géographiques, toutes ces solutions forment une base solide à la collaboration asynchrone.
-
-Je ne saurais que trop conseiller le travail de GitLab sur le sujet. Gitlab a développé à fond sa stratégie All-Remote et, comme ils appliquent bien leurs principes, tout est documenté sur le ["*GitLab's Guide to All-Remote*https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/)
-
-Les formations dispensées par GitLab sont excellentes. Cela demande de la mise en pratique et d'y revenir régulièrement pour se recentrer sur son application
-
-| Formation  | Contenu |
-| ------------- | ------------- |
-| [Remote Team Management](https://www.coursera.org/learn/remote-team-management#modules)| Diriger dans un environnement distant, Instaurer une culture et des pratiques organisationnelles à distance, Évaluer l'état de préparation des équipes et des responsables au travail à distance, Créer une stratégie de base pour la mise en œuvre d'une transformation à distance   |
-| [TeamOps](https://about.gitlab.com/teamops/) | Se concentre sur trouver des solutions aux challenges suivants : les Retards dans la prise de décision, Fatigue des réunions, Mauvaise communication interne, Lenteur des transferts et retards dans le déroulement du travail Cell  |
-
-
-## Le libre dans le monde professionnel
-
-Mon expérience dans le monde de l'open source m'a également conduit à appliquer ces principes dans mon travail professionnel. J'ai développé un framework open source au sein de mon entreprise, qui est accessible à tous les employés. Le partage des connaissances, la documentation exhaustive et l'accès ouvert à l'information sont des éléments clés de cette approche. Cela favorise la transparence, l'innovation et la collaboration, tout en éliminant les barrières à la communication au sein de l'entreprise.
-
-« L'open source au sein des entreprises permet de créer un écosystème d'innovation où chaque individu peut contribuer à l'amélioration des processus et à la croissance de l'entreprise. » - [Citation d'Eric S. Raymond, penseur de l'open source]
-
-## L'exemple d'Arch Linux : une communauté Solide
-
-Ma transition vers Arch Linux m'a permis de vivre pleinement la force de la communauté open source. Arch Linux est non seulement une distribution Linux, mais aussi une communauté active et dédiée. Les utilisateurs et les développeurs collaborent pour maintenir un système d'exploitation robuste et flexible.
-
-« L'open source ne consiste pas seulement à partager du code, mais à partager des connaissances, des compétences et à construire des relations durables dans une communauté solide. » - [Citation de Linus Torvalds]
-
-Avantages de l'Open Collaboration et de la Puissance de la Communauté
-
-L'open collaboration et la solidité de la communauté ouvrent la porte à de multiples avantages :
-- Innovation Collective : La diversité des contributeurs et des perspectives stimule l'innovation constante.
-- Partage de Connaissances : L'open source favorise le partage des connaissances, encourageant l'apprentissage continu.
-- Transparence et Confiance : La collaboration ouverte construit la confiance et la transparence au sein de la communauté.
-- Flexibilité et Agilité : La collaboration asynchrone et décentralisée permet une plus grande flexibilité dans le travail.
-
-## Contributions Open-Source
-
-L'interaction avec la communauté open source est une composante essentielle de ma démarche. Ce qui rend cette interaction d'autant plus enrichissante, c'est qu'elle est bi-directionnelle. En effet, tout comme la communauté open source me fournit des outils et des solutions exceptionnelles, je m'efforce de contribuer à cette même communauté, dans la mesure de mes compétences et de mes moyens, afin de donner en retour.
-
-Les façons de participer à la communauté du logiciel libre sont variées, et chacun peut trouver sa propre manière de contribuer. Les contributions peuvent prendre de nombreuses formes :
-- Signalement de bogues
-- Suggestions d'améliorations ou nouvelles fonctionnalités
-- Rédaction de code
-- Revue des participations des autres contributeurs,
-- Traduction
-- Présentation
-- La  pédagogie (Vidéos, Articles, participations à des associations)
-- L'entraide via les forums, reddit, les channels discord
-
-Personnellement, je m'engage activement dans plusieurs projets open source, en fonction de mes compétences et de mes centres d'intérêt. Mes contributions incluent le signalement de bogues et la proposition d'améliorations pour des solutions telles qu'OPNsense et NextCloud. J'ai également contribué en créant des descripteurs YAML pour TrueNAS, en effectuant des traductions pour Arch Linux et le projet [Architect](https://github.com/Cardiacman13/Architect) de Cardiac, ainsi qu'en travaillant sur la mise en forme pour développer le projet Architect, qui vise à simplifier l'utilisation d'Arch Linux pour les utilisateurs desktop.
-
-Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions à ces différents projets open source. Mon engagement dans la communauté du logiciel libre est une manière de remercier et de soutenir les développeurs et les contributeurs qui ont permis la création des outils sur lesquels je compte au quotidien. C'est aussi une façon de participer à l'amélioration continue de ces logiciels et de rendre à la communauté ce qu'elle m'a offert en termes de liberté, de transparence, et de fiabilité.
-
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
-
-# VII. Passons le message ! <a name="message"/>
-
-Mon engagement en faveur de l'open source ne se limite pas à une utilisation personnelle ou professionnelle, il va bien au-delà. Il s'agit d'une conviction profonde que je porte avec passion, et l'une de mes missions est d'informer, partager et éduquer autour des avantages de l'open source et de la philosophie qui l'accompagne.
-
-## 📖 Informations au lieu de conversion 
-Il est essentiel de préciser que mon objectif n'est pas de convertir, mais avant tout d'informer. Je crois que l'open source est une approche qui mérite d'être mieux comprise et appréciée. C'est pourquoi je m'efforce de partager des informations, d'expliquer les avantages, et de mettre en lumière la philosophie qui sous-tend cette démarche. Je souhaite que chacun puisse prendre des décisions éclairées en matière de technologie.
-
-## 🐧 La Communauté Open Source 
-La communauté open source est l'un des joyaux de cette approche. Elle est composée de personnes passionnées, curieuses et accueillantes, prêtes à partager leurs connaissances et à accueillir de nouveaux venus chaque jour. Cette communauté dynamique est une source inestimable de connaissances et d'inspiration. Elle incarne les valeurs de l'open source, telles que la collaboration, la transparence et la générosité.
-
-## 🧠 Plus qu'une question d'outils 
-L'open source n'est pas uniquement une question d'outils techniques ou technologiques, c'est aussi une question d'état  d'esprit. Cela englobe la transparence, le goût de la transmission et le partage des connaissances. J'estime que l'open source est une invitation à l'apprentissage continu, à la création collaborative et à l'amélioration constante.
-
-## 👨‍👨‍👧‍👦 De la pédagogie pour les kids 
-L'une de mes priorités est d'informer les plus jeunes sur le côté sombre des réseaux sociaux et de les sensibiliser à l'importance de la prudence en ligne. Je m'efforce de transmettre des valeurs de vigilance, de ne pas trop s'exposer sur Internet et de ne rien partager de trop important. Ces leçons fondamentales sont essentielles pour protéger la vie privée et la sécurité numérique. Mes propres enfants en sont les premiers bénéficiaires, et il est gratifiant de les voir comprendre l'importance de ces messages à leur manière, comme le simple "C'est cool Linux" prononcé par mon plus grand.
-
-LinkedIn comme Vecteur de Communication : LinkedIn, la plateforme professionnelle, joue également un rôle clé dans ma démarche d'évangélisation de l'open source. C'est un espace où je peux interagir avec des convaincus, des souvenairistes et des Linuxiens de tous horizons. J'observe avec satisfaction la croissance de cette communauté jour après jour. C'est un vecteur idéal pour communiquer et informer. Je suis conscient que mon métier impose une certaine réserve, mais je considère que la curiosité n'a jamais fait de mal à personne. Partager des connaissances et encourager les discussions constructives sur l'open source est une démarche qui contribue à élargir les horizons et à promouvoir une utilisation plus éclairée de la technologie.
-
-En fin de compte, l'évangélisation de l'open source est une mission qui me tient à cœur. C'est une façon de contribuer à la diffusion de valeurs essentielles telles que la liberté, la transparence et la collaboration, et de s'assurer que l'open source trouve sa place dans un monde numérique en constante évolution.
-
-# VIII. Ceci n'est pas une conclusion <a name="continue"/>
-
-Cet article a été une opportunité de partager mon voyage vers une utilisation exclusive d'outils open source et une approche profonde de l'open source dans ma vie quotidienne. Il est essentiel de rappeler que mon approche et cet article sont avant tout informatifs. Je ne suis pas ici pour imposer un dogme, mais pour encourager la réflexion et la discussion sur les avantages de l'open source, de la transparence et de la philosophie qui les sous-tendent.
-
-Mon parcours m'a apporté une compréhension plus profonde de l'open source et de ses avantages. C'est une démarche qui peut être gratifiante, même si elle ne nécessite pas une transformation aussi profonde que la mienne. Appliquer quelques concepts clés de la philosophie open source dans sa vie quotidienne peut être une expérience intéressante. Si vous êtes habitués aux silos, au manque d'information, et à l'approche du "pré carré", faites l'expérience de la transparence. Vous serez surpris de la manière dont vos proches, pairs et collègues peuvent vous le rendre.
-
-Il existe de nombreuses façons de s'impliquer dans le monde de l'open source, que ce soit par la QA (assurance qualité), la traduction, le partage d'expériences, le partage de découvertes, les tests, les échecs, les retours d'expérience, la collaboration sur des projets ou l'innovation en solitaire ou en groupe. Ces dernières années, j'ai pris plaisir à contribuer aux projets et aux outils que j'utilise au quotidien. Cela se manifeste par des rapports de bugs, des traductions, ou même par ma participation active à des projets tels qu'"Architect", qui vise à rendre Arch Linux plus convivial pour une expérience de bureau complète.
-
-Si une transformation de cette ampleur vous intéresse, gardez à l'esprit que la courbe d'apprentissage peut être abrupte au début. Cependant, avec persévérance, elle devient de plus en plus douce au fur et à mesure de votre progression. Aujourd'hui, je continue d'apprendre, mais la maintenance de mon environnement open source nécessite peu de temps. Ce voyage vers l'open source est une invitation à l'apprentissage continu, à l'innovation et à la collaboration. C'est un voyage qui peut apporter des avantages tant personnels que professionnels, et je vous encourage à le découvrir à votre manière. La philosophie open source est une ressource inestimable, et elle est à la portée de tous ceux qui souhaitent s'engager sur cette voie enrichissante.
-
-Pour ma part, dans une logique d'aprentissage et d'innovation continue, l'aventure continue et vos commentaires sont les bienvenus pour faire progresser ce petit monde 🤟
-
-# IX. Questions/Réponses <a name="q&a"/>
-
-N'hésitez pas à me poser des questions sous formes d'Issues sur GitHub ou Reddit, je me ferais un plaisir d'y répondre et de publier nos échanges au sein de cet article.
-
-# X. Ma progression <a name="progress"/>
-
-- [x] Utiliser un navigateur web open-source
-- [x] Utiliser un moteur de recherche soucieux de la vie privée
-- [x] Utiliser un Service Mail Soucieux de la Vie Privée
-- [x] Maîtriser mes données en hébergeant mon propre serveur NAS
-- [x] Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
-- [x] Reprendre le contrôle de ma liste de contacts et de mon calendrier
-- [x] Mettre en place un réseau fiable et sécurisé
-- [ ] Veiller à l'impact écologique via une approche de greenLabing - En cours
-- [x] Basculer mon PC principal sous Linux
-- [x] Héberger mon VPN pour assurer une connexion sécurisée lorsque je suis en déplacement/vacances
-- [ ] Utiliser des applications libres sur mon mobile - En cours
-- [ ] Listes mes usages et services sur Internet, trouver des alternatives libres - Pas démarré
-
