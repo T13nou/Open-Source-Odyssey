@@ -18,16 +18,13 @@ Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir un
 
 ## Qui suis-je ?
 
-| Mon portrait...  | ...en bref |
-| ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png" width="90" height="90"> | Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif. |
+Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png" width="90" height="90">
+
+Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective à travers diverses initiatives. Ingénieur Électronicien/Informaticien : Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
 
 Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
-
-Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective à travers diverses initiatives.
-
-Ingénieur Électronicien/Informaticien : Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
 
 Ma passion pour l'open source et l'open collaboration trouve son origine dans une conviction profonde : la technologie peut servir à rapprocher les individus, à faciliter le partage des idées et à résoudre des problèmes complexes de manière collective. Mon parcours m'a amené à travailler sur des projets variés, de la conception de solutions électroniques à la mise en place de frameworks open source au sein de mon entreprise.
 
@@ -156,7 +153,7 @@ Cette approche de la messagerie électronique s'inscrit dans ma démarche global
 
 Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche.
 
-## 🚧 Maîtriser Mes Données en Hébergeant Mon Propre Serveur NAS - Le Début du HomeLabing
+## 🚧 Maîtriser mes données en hébergeant mon propre serveur NAS - Le Début du HomeLabing
 
 Mon parcours vers une infrastructure entièrement open source m'a également conduit à repenser la manière dont je stocke et gère mes données. Initialement, j'utilisais une solution NAS propriétaire de Synology. Bien que cette option offrait une certaine stabilité, je me suis rapidement rendu compte de ses limites. L'environnement était peu performant, et l'ajout de services supplémentaires était souvent compliqué, voire impossible.
 
@@ -200,7 +197,7 @@ L'un des avantages clés de Bitwarden est la possibilité d'auto-héberger son p
 
 Le catalogue d'applications de TrueNAS propose également [VaultWarden](https://github.com/dani-garcia/vaultwarden), un implémentation alternative de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
 
-## 📆 Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
+## 📆 Reprendre le contrôle de ma liste de contacts et de mon calendrier
 
 Mon parcours professionnel m'a conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
 
@@ -214,7 +211,7 @@ NextCloud propose également un client iOS, qui automatise le téléchargement d
 
 De plus, NextCloud est doté d'un traitement de texte, d'un tableur, et d'un outil de présentation intégrés, permettant de travailler simultanément sur un même document, tout en préservant la maîtrise de nos données. L'utilisation de NextCloud est devenue une habitude dans ma famille, chaque membre l'utilisant pour collaborer et accéder à ses fichiers à distance. Cette transition vers une solution open source auto-hébergée a renforcé ma confiance dans la gestion de mes données personnelles, tout en offrant une expérience de collaboration fluide et sécurisée.
 
-## 🛂 Mettre en Place un Réseau Fiable et Sécurisé
+## 🛂 Mettre en place un réseau fiable et sécurisé
 
 Le réseau domestique, par défaut, est souvent peu sécurisé et ne propose que peu de fonctionnalités pour faciliter l'auto-hébergement. C'est pourquoi, lorsque j'ai décidé de m'engager dans l'auto-hébergement de mes services, j'ai rapidement compris qu'il fallait gérer tous les aspects liés à la connectivité, à la sécurité, et à la mise à disposition de mes services en ligne.
 
@@ -226,7 +223,7 @@ PhasedLogix a une excellente playlist pour prendre en main la solution. Le gars 
 [Learn OPNSense Firewall](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" width="1000" height="408">
 
-Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque ProtectLI, qui propose des produits de qualité avec un BIOS open source, CoreBoot, en accord avec ma philosophie open source.
+Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque [ProtectLI](https://eu.protectli.com/), qui propose des produits de qualité avec un BIOS open source, [CoreBoot](https://www.coreboot.org/), en accord avec ma philosophie open source.
 
 | La vue front  | La vue back |
 | ------------- | ------------- |
@@ -363,7 +360,7 @@ Les façons de participer à la communauté du logiciel libre sont variées, et 
 - La  pédagogie (Vidéos, Articles, participations à des associations)
 - L'entraide via les forums, reddit, les channels discord
 
-Personnellement, je m'engage activement dans plusieurs projets open source, en fonction de mes compétences et de mes centres d'intérêt. Mes contributions incluent le signalement de bogues et la proposition d'améliorations pour des solutions telles qu'OPNsense et NextCloud. J'ai également contribué en créant des descripteurs YAML pour TrueNAS, en effectuant des traductions pour Arch Linux et le projet "Architect", ainsi qu'en travaillant sur la mise en forme pour développer le projet Architect, qui vise à simplifier l'utilisation d'Arch Linux pour les utilisateurs desktop.
+Personnellement, je m'engage activement dans plusieurs projets open source, en fonction de mes compétences et de mes centres d'intérêt. Mes contributions incluent le signalement de bogues et la proposition d'améliorations pour des solutions telles qu'OPNsense et NextCloud. J'ai également contribué en créant des descripteurs YAML pour TrueNAS, en effectuant des traductions pour Arch Linux et le projet [Architect](https://github.com/Cardiacman13/Architect) de Cardiac, ainsi qu'en travaillant sur la mise en forme pour développer le projet Architect, qui vise à simplifier l'utilisation d'Arch Linux pour les utilisateurs desktop.
 
 Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions à ces différents projets open source. Mon engagement dans la communauté du logiciel libre est une manière de remercier et de soutenir les développeurs et les contributeurs qui ont permis la création des outils sur lesquels je compte au quotidien. C'est aussi une façon de participer à l'amélioration continue de ces logiciels et de rendre à la communauté ce qu'elle m'a offert en termes de liberté, de transparence, et de fiabilité.
 
@@ -403,5 +400,18 @@ Si une transformation de cette ampleur vous intéresse, gardez à l'esprit que l
 
 N'hésitez pas à me poser des questions sous formes d'Issues sur GitHub ou Reddit, je me ferais un plaisir d'y répondre et de publier nos échanges au sein de cet article.
 
-# X. Sources et références
+# X. La progression
+
+[x] Utiliser un navigateur web open-source
+[x] Utiliser un moteur de recherche soucieux de la vie privée
+[x] Utiliser un Service Mail Soucieux de la Vie Privée
+[x] Maîtriser mes données en hébergeant mon propre serveur NAS
+[x] Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
+[x] Reprendre le contrôle de ma liste de contacts et de mon calendrier
+[x] Mettre en place un réseau fiable et sécurisé
+[ ] Veiller à l'impact écologique via une approche de greenLabing - En cours
+[x] Basculer mon PC principal sous Linux
+[x] Héberger mon VPN pour assurer une connexion sécurisée lorsque je suis en déplacement/vacances
+[ ] Utiliser des applications libres sur mon mobile - En cours
+[ ] Listes mes usages et services sur Internet, trouver des alternatives libres - Pas démarré
 
