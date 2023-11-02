@@ -8,11 +8,11 @@ Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collabora
 
 Bienvenue sur ma page dédiée à mon aventure 100% open source. Ici, je partage mon voyage personnel vers l'utilisation exclusive d'outils open source dans ma vie quotidienne. Ma démarche s'articule autour de l'open collaboration, de la puissance de la communauté et de mon engagement en faveur de la vie privée informatique ainsi que de l'hygiène numérique.
 
-Au cœur de mon périple, j'ai mis en place une infrastructure à la maison, comprenant un routeur open source, un serveur NAS dédié uniquement aux outils de productivité open source, et j'ai même converti mon PC gaming en utilisant Arch Linux, ainsi qu'une console de jeu portable fonctionnant sous la même distribution. J'ai fait le choix de ne plus utiliser aucun produit propriétaire, et je m'efforce de partager mon expérience et d'encourager mon entourage à embrasser cette philosophie.
+Au cœur de mon périple, j'ai mis en place une infrastructure à la maison, comprenant un routeur open source, un serveur NAS dédié uniquement aux outils de productivité open source, et j'ai même converti mon PC gaming en utilisant Arch Linux, ainsi qu'une console de jeu portable fonctionnant sous la même distribution. J'ai fait le choix de ne plus utiliser aucun produit propriétaire, et je m'efforce de partager mon expérience et d'encourager mon entourage à comprendre cette philosophie.
 
 Par ailleurs j'ai fait le choix de mettre cet article sur GitHub qui me parait être un endroit approprié pour partager mon approche avec la communauté et permettre à chacun d'y contribuer.
 
-Cet article n'a pas pour vocation d'être un guide technique, d'autres le font déjà, mais je vous orienterais vers des ressources très pointues et pertinentes sur les différents sujets que j'aborde.
+Ce que cet article n'est pas un guide technique, d'autres le font déjà, mais je vous orienterais vers des ressources très pointues et pertinentes sur les différents sujets que j'aborde.
 
 Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir une alternative aux logiciels propriétaires, mais également favoriser la liberté numérique, la sécurité de nos données, et l'innovation collective. Ensemble, nous explorerons les avantages de l'open source, son potentiel de transformation, et les joies de vivre une vie numérique plus transparente et respectueuse de nos droits individuels. Bienvenue dans mon monde 100% open source !
 
@@ -361,6 +361,26 @@ L'open collaboration et la solidité de la communauté ouvrent la porte à de mu
 - Partage de Connaissances : L'open source favorise le partage des connaissances, encourageant l'apprentissage continu.
 - Transparence et Confiance : La collaboration ouverte construit la confiance et la transparence au sein de la communauté.
 - Flexibilité et Agilité : La collaboration asynchrone et décentralisée permet une plus grande flexibilité dans le travail.
+
+## Contributions Open-Source
+
+L'interaction avec la communauté open source est une composante essentielle de ma démarche. Ce qui rend cette interaction d'autant plus enrichissante, c'est qu'elle est bi-directionnelle. En effet, tout comme la communauté open source me fournit des outils et des solutions exceptionnelles, je m'efforce de contribuer à cette même communauté, dans la mesure de mes compétences et de mes moyens, afin de donner en retour.
+
+Les façons de participer à la communauté du logiciel libre sont variées, et chacun peut trouver sa propre manière de contribuer. Les contributions peuvent prendre de nombreuses formes :
+- Signalement de bogues
+- Suggestions d'améliorations ou nouvelles fonctionnalités
+- Rédaction de code
+- Revue des participations des autres contributeurs,
+- Traduction
+- Présentation
+- La  pédagogie (Vidéos, Articles, participations à des associations)
+- L'entraide via les forums, reddit, les channels discord
+
+Personnellement, je m'engage activement dans plusieurs projets open source, en fonction de mes compétences et de mes centres d'intérêt. Mes contributions incluent le signalement de bogues et la proposition d'améliorations pour des solutions telles qu'OPNsense et NextCloud. J'ai également contribué en créant des descripteurs YAML pour TrueNAS, en effectuant des traductions pour Arch Linux et le projet "Architect", ainsi qu'en travaillant sur la mise en forme pour développer le projet Architect, qui vise à simplifier l'utilisation d'Arch Linux pour les utilisateurs desktop.
+
+Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions à ces différents projets open source. Mon engagement dans la communauté du logiciel libre est une manière de remercier et de soutenir les développeurs et les contributeurs qui ont permis la création des outils sur lesquels je compte au quotidien. C'est aussi une façon de participer à l'amélioration continue de ces logiciels et de rendre à la communauté ce qu'elle m'a offert en termes de liberté, de transparence, et de fiabilité.
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
 # VII. Évangélisation de l'Open Source
 
