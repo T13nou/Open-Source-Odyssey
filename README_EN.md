@@ -1,276 +1,422 @@
 # Open-Source-Odyssey
-Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collaboration
+My 100% Open Source Life: A Digital Odyssey towards Freedom and Collaboration
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/banner.png" width="1000" height="434">
 
-## Sommaire
+## Summary
 1. [Introduction](#introduction)
-2. [Pourquoi l'Open Source ?](#why)
-3. [Mise en Place de l'infrastructure Open Source](#infra)
-4. [Systèmes d'exploitation Open Source](#os)
-5. [L'Open Collaboration et la Puissance de la Communauté](#collab)
-6. [Passons le message !](#message)
-7. [Ceci n'est pas une conclusion](#continue)
-8. [Questions/Réponses](#q&a)
-9. [Ma progression](#progress)
+2. [Why Open Source?](#why)
+3. [Setting up the Open Source infrastructure](#infra)
+4. [Open Source Operating Systems](#os)
+5. [Open Collaboration and the Power of Community](#collab)
+6. [Let's spread the message!](#message)
+7. [This is not a conclusion](#continue)
+8. [Questions/Answers](#q&a)
+9. [My progress](#progress)
 
 # I. Introduction <a name="introduction"/>
 
-Bienvenue sur ma page dédiée à mon aventure 100% open source. Ici, je partage mon voyage personnel vers l'utilisation exclusive d'outils open source dans ma vie quotidienne. Ma démarche s'articule autour de l'open collaboration, de la puissance de la communauté et de mon engagement en faveur de la vie privée informatique ainsi que de l'hygiène numérique.
+Welcome to my page dedicated to my 100% open source adventure.  Here I share my personal journey towards exclusively using open source tools in my daily life.  My approach revolves around open collaboration, the power of community and my commitment to computer privacy and digital hygiene.
 
-Au cœur de mon périple, j'ai mis en place une infrastructure à la maison, comprenant un routeur open source, un serveur NAS dédié uniquement aux outils de productivité open source, et j'ai même converti mon PC gaming en utilisant Arch Linux, ainsi qu'une console de jeu portable fonctionnant sous la même distribution. J'ai fait le choix de ne plus utiliser aucun produit propriétaire, et je m'efforce de partager mon expérience et d'encourager mon entourage à comprendre cette philosophie.
+At the heart of my journey, I set up an infrastructure at home, including an open source router, a NAS server dedicated solely to open source productivity tools, and even converted my gaming PC using Arch Linux, as well as a portable game console running under the same distribution.  I have chosen to no longer use any proprietary products, and I strive to share my experience and encourage those around me to understand this philosophy.
 
-Par ailleurs j'ai fait le choix de mettre cet article sur GitHub qui me parait être un endroit approprié pour partager mon approche avec la communauté et permettre à chacun d'y contribuer.
+Furthermore, I chose to put this article on GitHub which seems to me to be an appropriate place to share my approach with the community and allow everyone to contribute to it.
 
-Ce que cet article n'est pas un guide technique, d'autres le font déjà, mais je vous orienterais vers des ressources très pointues et pertinentes sur les différents sujets que j'aborde.
+What this article is not a technical guide, others already do, but I would direct you to very specialized and relevant resources on the different subjects that I address.
 
-Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir une alternative aux logiciels propriétaires, mais également favoriser la liberté numérique, la sécurité de nos données, et l'innovation collective. Ensemble, nous explorerons les avantages de l'open source, son potentiel de transformation, et les joies de vivre une vie numérique plus transparente et respectueuse de nos droits individuels. Bienvenue dans mon monde 100% open source !
+Join me to discover how open source can not only offer an alternative to proprietary software, but also promote digital freedom, the security of our data, and collective innovation.  Together, we will explore the benefits of open source, its transformative potential, and the joys of living a more transparent digital life that respects our individual rights.  Welcome to my 100% open source world!
 
-## Qui suis-je ?
+## Who am I ?
 
-Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
+As I journey towards exclusively using open source tools and explore open collaboration, it is essential to understand the context and experience that led me to this journey.  Here is an overview of who I am, my professional journey, and what drives me in this adventure towards a more open and collaborative digital world.
 
-| Mon profil ...  | ... en bref |
-| --- | --- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png"> | Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective |
+|  My profile... |  ... in brief |
+|  --- |  --- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png"> |  A Journey Focused on Collaboration: For more than 15 years, I have devoted myself to collaborative topics, whether within my professional career or my personal projects.  My journey has been built on the conviction that collaboration is a key to innovation and progress.  I sought to promote cooperation, knowledge sharing and collective creation |
 
-Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
+My training as an electronics/computer engineer gave me solid technical skills, while allowing me to understand the complex aspects of technology and computing.  This combination of skills inspired me to explore how technology can be used to foster collaboration and openness.
 
-Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
+You can learn more about my professional background by consulting my profile [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
 
-Ma passion pour l'open source et l'open collaboration trouve son origine dans une conviction profonde : la technologie peut servir à rapprocher les individus, à faciliter le partage des idées et à résoudre des problèmes complexes de manière collective. Mon parcours m'a amené à travailler sur des projets variés, de la conception de solutions électroniques à la mise en place de frameworks open source au sein de mon entreprise.
+My passion for open source and open collaboration is rooted in a deep conviction: technology can be used to bring people together, facilitate the sharing of ideas and solve complex problems collectively.  My career has led me to work on various projects, from the design of electronic solutions to the implementation of open source frameworks within my company.
 
-Aujourd'hui, j'applique ces principes d'ouverture et de collaboration dans ma vie personnelle et professionnelle. Mon engagement en faveur de l'open source et de l'open collaboration repose sur la conviction que ces approches peuvent transformer notre manière de travailler, d'innover et de construire un avenir numérique meilleur pour tous.
+Today, I apply these principles of openness and collaboration in my personal and professional life.  My commitment to open source and open collaboration is based on the belief that these approaches can transform the way we work, innovate and build a better digital future for all.
 
+# II.  Why Open Source?  <a name="why"/>
 
-# II. Pourquoi l'Open Source ? <a name="why"/>
+Open source software is less likely to become obsolete or abandoned by its publisher because the responsibility for its development rests with the community rather than a single company.  This ensures the sustainability of open source solutions, which is crucial for long-term projects.
 
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" width="1000" height="250">
+While writing this article I asked myself the question of *forks* and whether the most popular projects or those which are no longer maintained were regularly forked.  GitHub maintains its [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) of the most *forked* projects and surprise, some do have been more than 100,000 times.  The community is active!  ⚙️
 
-Lorsque j'ai entrepris mon voyage vers l'utilisation exclusive d'outils open source, j'ai été influencé par plusieurs facteurs clés qui ont façonné ma perspective sur la vie numérique. Ces influences ont renforcé ma conviction que l'open source est la voie à suivre pour un avenir numérique plus sûr, transparent et éthique.
+### 💡Continuous Innovation
 
-L'une de mes premières influences majeures a été l'article de Larry Sanger, le co-fondateur de Wikipedia, intitulé ["*The Challenges of Locking Down My Cyber Life*"](https://larrysanger.org/2019/07/the-challenges-of-locking-down-my-cyber-life/) (Les Défis de Sécuriser Ma Vie Numérique), publié en 2019. Dans cet article, Sanger partage ses réflexions sur la vie privée et les enjeux de l'hygiène numérique. Il met en évidence les menaces qui pèsent sur nos données personnelles et la nécessité de prendre des mesures pour les protéger. Cette réflexion a été un catalyseur majeur pour moi, m'incitant à reconsidérer la manière dont je gérais ma propre vie numérique.
+Open source encourages continuous innovation.  By allowing anyone to contribute to and improve software, open source promotes a rapid cycle of innovation.  Many open source projects are driving new ideas and technologies that impact the entire industry.
 
-Une autre influence cruciale a été la prise de conscience croissante de la monétisation des services numériques par les géants de la technologie (GAFAM - Google, Apple, Facebook, Amazon, Microsoft). De nombreuses entreprises tirent des revenus en exploitant nos données personnelles, ce qui soulève des préoccupations majeures en matière de vie privée. Des experts et défenseurs de la vie privée, tels que Shoshana Zuboff, dans son livre ["*The Age of Surveillance Capitalism*"](https://www.zulma.fr/livre/lage-du-capitalisme-de-surveillance-3/) ont exploré en profondeur ces problématiques (livre que je recommande chaudement !). Leurs travaux démontrent l'importance de protéger nos données et de chercher des alternatives éthiques.
+### 🔒 Respect for Privacy
 
-Un aspect qui a renforcé ma détermination à adopter des solutions open source a été la préoccupation pour la vie privée de ma famille, y compris mes enfants. Je ne souhaite pas les voir exposés sur Internet, que ce soit de manière volontaire ou involontaire. Les répercussions potentielles sur la vie de nos proches sont un puissant moteur pour adopter une approche plus sécurisée et respectueuse de la vie privée.
+With privacy concerns on the rise, open source offers a way to keep data confidential.  You have greater control over what is collected and shared, which is essential to protect your personal and sensitive information.
 
-Enfin, en tant qu'ingénieur, ma foi dans l'avenir de la technologie repose sur l'open source. Je crois profondément que l'open source offre une voie vers un avenir numérique plus prometteur. Il permet la collaboration massive et la transparence, deux piliers essentiels de l'innovation et du progrès technologique.
+These cumulative benefits illustrate why open source has become much more than just an alternative to proprietary software.  It embodies a philosophy of collaboration, transparency and respect for individual freedom, while offering powerful and sustainable technological solutions.  My journey to open source has convinced me that these benefits are essential to shaping a more promising digital future.
 
-Toutes ces influences ont convergé pour me convaincre de faire le saut vers l'open source, de mettre l'accent sur la protection de la vie privée et de promouvoir une approche numérique plus éthique. En embrassant l'open source, je suis convaincu que nous pouvons créer un monde numérique plus sécurisé, transparent et collaboratif pour tous.
+I invite you to explore the subject with the channel of [Rob Braxman](https://www.youtube.com/@robbraxmantech), defining himself as an *Internet Privacy Evangelist*, an evangelist for respect for privacy. privacy on the Internet.  His proposal is assumed to be extreme: he uses one device per use case (public, private), lives on a boat and regularly warns of the dangers of our technological environment.  He applies the *off the grid* principle of life to himself.  To be taken with a grain of salt but I agree with most of his articles.
 
-## Les avantages de l'open-source
-
-### 🆓 Liberté et Contrôle
-
-L'un des principaux avantages de l'open source réside dans la liberté et le contrôle qu'il offre aux utilisateurs. Contrairement aux logiciels propriétaires, les logiciels open source permettent aux utilisateurs d'accéder au code source, de le modifier et de l'adapter à leurs besoins spécifiques. Cette flexibilité est précieuse, que vous soyez un utilisateur expérimenté cherchant à personnaliser une solution ou un novice souhaitant comprendre le fonctionnement interne d'une application.
-
-Par ailleurs, la réutilisabilité du code est possible et courante. On emploie le terme de *fork* pour désigner un nouveau logiciel créé à partir du code source d'un logiciel existant.
-
-### 🔎 Transparence et Sécurité
-
-La transparence est un autre pilier de l'open source. Étant donné que le code source est accessible publiquement, les utilisateurs peuvent inspecter, auditer et vérifier la sécurité des logiciels open source. Cela réduit les risques de failles de sécurité cachées ou de portes dérobées. En outre, la communauté open source est prompte à corriger les vulnérabilités dès leur découverte, ce qui contribue à maintenir un environnement numérique plus sûr.
-
-### 🤑 Coût
-
-Les logiciels open source sont souvent disponibles gratuitement, ce qui peut considérablement réduire les coûts pour les utilisateurs et les organisations. Vous pouvez utiliser des logiciels puissants sans avoir à payer de licences coûteuses. Cela permet d'accéder à des outils de haute qualité, même avec un budget limité.
-
-C'est un terrain fertile pour des ONG, le secteur de l'éducation ou simplement pour des association qui visent à redonner une seconde jeunesse à du matériel vieillissant. Jetez un oeil aux distributions Linux telles que [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) ou [Edubuntu](https://www.edubuntu.org/).
-
-### 🦸 Communauté et Support Actif
-
-L'open source favorise une communauté active et collaborative d'utilisateurs et de développeurs. Vous pouvez bénéficier de l'expertise d'une communauté mondiale pour résoudre des problèmes, obtenir des conseils et découvrir de nouvelles fonctionnalités. Des forums, des groupes de discussion et des contributeurs dévoués sont prêts à vous aider.
-
-### 🌳 Durabilité à Long Terme
-
-Les logiciels open source sont moins susceptibles de devenir obsolètes ou d'être abandonnés par leur éditeur, car la responsabilité de leur développement repose sur la communauté plutôt que sur une seule entreprise. Cela garantit la pérennité des solutions open source, ce qui est crucial pour les projets à long terme.
-
-En écrivant cet article je me suis posé la question des *fork* et savoir si les projets les plus populaires ou ceux qui ne sont plus maintenus étaient régulièrement dérivés. GitHub maintient son [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) des projets les plus *forkés* et surprise, certains l'ont été plus de 100000 fois. La communauté est active ! ⚙️
-
-### 💡 Innovation Continue
-
-L'open source encourage l'innovation continue. En permettant à n'importe qui de contribuer et d'améliorer un logiciel, l'open source favorise un cycle d'innovation rapide. De nombreux projets open source sont à l'origine de nouvelles idées et technologies qui ont un impact sur l'ensemble de l'industrie.
-
-### 🔒 Respect de la Vie Privée
-
-Avec la montée en puissance des préoccupations liées à la vie privée, l'open source offre un moyen de préserver la confidentialité des données. Vous avez un meilleur contrôle sur ce qui est collecté et partagé, ce qui est essentiel pour protéger vos informations personnelles et sensibles.
-
-Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus qu'une simple alternative aux logiciels propriétaires. Il incarne une philosophie de collaboration, de transparence et de respect de la liberté individuelle, tout en offrant des solutions technologiques puissantes et durables. Mon voyage vers l'open source m'a convaincu que ces avantages sont essentiels pour façonner un avenir numérique plus prometteur.
-
-Je vous invite à aller creuser le sujet avec la chaine de [Rob Braxman](https://www.youtube.com/@robbraxmantech), se définissant lui même comme un *Internet Privacy Evangelist*, soit un évangéliste du respect de la vie privée sur Internet. Sa proposition est assumée comme étant jusqu'au boutiste : il utilise un appareil par cas d'usage (publique, privé), vis sur un bateau et alerte régulièrement sur les dangers de notre environnement technologique. Il s'applique à lui même le principe de vie *off the grid*. A prendre avec des pincettes mais je suis d'accord avec la plupart de ses articles.
-
-# III. Mise en Place de l'infrastructure Open Source <a name="infra"/>
+# III.  Setting up the Open Source infrastructure <a name="infra"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
 
-La création d'une infrastructure entièrement open source a été marqué par la recherche de "quick wins", ces petites victoires initiales qui renforcent la conviction que l'approche choisie est la bonne. Mon parcours a débuté en m'inspirant d'un article de Larry Sanger, co-fondateur de Wikipédia, où il partageait ses réflexions sur la vie privée et l'hygiène numérique.
+The creation of a fully open source infrastructure was marked by the search for "quick wins", these small initial victories which reinforce the conviction that the chosen approach is the right one.  My journey began with inspiration from an article by Larry Sanger, co-founder of Wikipedia, where he shared his thoughts on privacy and digital hygiene.
 
-Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces informations avec d'autres sources de confiance, afin de bâtir une base solide pour mon infrastructure open source. Parmi les ressources qui ont guidé mes choix, voici quelques-unes des plus influentes :
+However, to consolidate my first steps, I sought to cross-check this information with other trusted sources, in order to build a solid foundation for my open source infrastructure.  Among the resources that guided my choices, here are some of the most influential:
 
-## 🥼 Sites de références pour le homelabing et outils orientés "Privacy"
+## 🥼 Reference sites for homelabing and “Privacy” oriented tools
 
-| Canal  | Contenu |
-| ------------- | ------------- |
-| PrivacyTools.io <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/th-2200279595.jpg" width="140" height="140"> | Ce site web est devenu une référence en matière de protection de la vie privée en ligne. Régulièrement mis à jour, il propose une multitude d'outils et de recommandations pour répondre à divers cas d'usage, de la navigation web sécurisée à la gestion des mots de passe en passant par la confidentialité des courriels. C'est devenu un point de départ essentiel pour quiconque souhaite renforcer sa confidentialité en ligne. |
-| homelabing.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/homelabing_icon-1.png" width="140" height="140"> | Optimize your Homelab capabilities through self-hosting and utilizing open-source solutions |
-| servethehome.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/STH-Logo-180px.png" width="140" height="140"> | ServeTheHome est le guide des professionnels de l'informatique en matière de serveurs, de stockage, de réseaux et de matériel de station de travail haut de gamme, ainsi que d'excellents projets open source. |
-| homenetworkguy.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/m53vjCup_400x400-2937981742.jpg" width="140" height="140"> | Le site web vise à fournir une ressource conviviale avec des conseils, des astuces de dépannage et des expériences partagées pour aider les autres à construire leurs propres réseaux domestiques avancés.  |
+|  Channel |  Content |
+|  ------------- |  ------------- |
+|  PrivacyTools.io <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/th-2200279595.jpg" width="140" height="140"> |  This website has become a benchmark for online privacy protection.  Regularly updated, it offers a multitude of tools and recommendations to meet various use cases, from secure web browsing to password management and email confidentiality.  It has become an essential starting point for anyone looking to boost their online privacy.  |
+|  homelabing.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/homelabing_icon-1.png" width="140" height="140"> |  Optimize your Homelab capabilities through self-hosting and utilizing open-source solutions |
+|  servethehome.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/STH-Logo-180px.png" width="140" height="140" > |  ServeTheHome is the IT professional's guide to high-end servers, storage, networking, and workstation hardware, as well as great open source projects.  |
+|  homenetworkguy.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/m53vjCup_400x400-2937981742.jpg" width="140" height="140"> |  The website aims to provide a user-friendly resource with advice, troubleshooting tips and shared experiences to help others build their own advanced home networks.  |
 
-## 📹 Chaînes dédiées au Homelabing sur YouTube :
+## 📹 Channels dedicated to Homelabing on YouTube:
 
-| Canal  | Contenu |
-| ------------- | ------------- |
-| Techno Tim [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) | Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.  |
-| NetworkChuck [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKb728FaC4SPqir0jCVxhY0NTgnHD-iP2MqbSIrj9g=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@NetworkChuck) | NetworkChuck explore un large éventail de sujets liés à la technologie, y compris les solutions open source pour les réseaux et les serveurs.  |
-| Wolfgang's Channel [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYVoDrnSDACycgSJNnTkac6M6HROYVgJIfxAu6-ug=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@WolfgangsChannel) | Wolfgang se penche sur les aspects techniques du homelabing, en fournissant des informations détaillées sur l'utilisation d'outils open source.  |
-| Christian Lempa [![Watch the video](https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@christianlempa) | La chaîne de Christian Lempa se concentre sur les infrastructures informatiques auto-hébergées, explorant des solutions open source pour améliorer la vie numérique personnelle.  |
-| Adrien Linuxtricks [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYE_aERPU37zbKhTQUpPLeX6wpntPDj-ftpJN6uww=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@AdrienLinuxtricks) | AdrienLinuxtricks est une chaîne YouTube axée sur Linux et les logiciels open source. Vous y trouverez des tutoriels, des astuces, des critiques de distributions Linux, ainsi que des guides pour maximiser votre expérience avec les technologies open source. Cette chaîne est idéale pour les passionnés de Linux, qu'ils soient débutants ou utilisateurs expérimentés, cherchant à explorer et à maîtriser le monde de l'open source.  |
-| Chris Titus Tech [![Watch the video](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitusTech)  | ChrisTitusTech est une chaîne YouTube qui aborde un large éventail de sujets technologiques, de l'informatique aux logiciels, en passant par les astuces de productivité et les critiques de matériel. L'animateur, Chris, partage son expertise de manière accessible, en proposant des guides pratiques et des recommandations. Cette chaîne convient à tous ceux qui s'intéressent à la technologie et cherchent des conseils et des informations sur divers sujets informatiques.  |
+|  Channel |  Content |
+|  ------------- |  ------------- |
+|  Techno Tim [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) |  Techno Tim has become an invaluable source of information on building a homelab, offering how-to guides and demonstrations of open source technologies.  |
+|  NetworkChuck [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKb728FaC4SPqir0jCVxhY0NTgnHD-iP2MqbSIrj9g=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@NetworkChuck) |  NetworkChuck explores a wide range of technology topics, including open source solutions for networks and servers.  |
+|  Wolfgang's Channel [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYVoDrnSDACycgSJNnTkac6M6HROYVgJIfxAu6-ug=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@WolfgangsChannel ) |  Wolfgang delves into the technical aspects of homelabing, providing detailed information on using open source tools.  |
+|  Christian Lempa [![Watch the video](https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@christ ianlempa ) |  Christian Lempa's channel focuses on self-hosted IT infrastructures, exploring open source solutions to improve personal digital lives.  |
+|  Adrien Linuxtricks [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYE_aERPU37zbKhTQUpPLeX6wpntPDj-ftpJN6uww=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@AdrienLinuxtricks ) |  AdrienLinuxtricks is a YouTube channel focused on Linux and open source software.  You'll find tutorials, tips, reviews of Linux distributions, and guides to maximize your experience with open source technologies.  This channel is ideal for Linux enthusiasts, whether beginners or experienced users, looking to explore and master the world of open source.  |
+|  Chris Titus Tech [![Watch the video](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitus Tech) |  ChrisTitusTech is a YouTube channel that covers a wide range of technology topics, from computing and software to productivity tips and hardware reviews.  Host Chris shares his expertise in an accessible way, offering practical guides and recommendations.  This channel is suitable for everyone who is interested in technology and looking for advice and information on various IT topics.  |
 
-En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure open source et renforcer ma compréhension des outils et des pratiques qui garantissent ma vie privée et ma sécurité en ligne. Ces premières étapes m'ont aidé à construire une fondation solide pour la suite de mon voyage vers une utilisation exclusive d'outils open source, axée sur la confidentialité, la transparence et l'innovation."
+By drawing on these resources, I was able to lay the foundation for my open source infrastructure and strengthen my understanding of the tools and practices that ensure my privacy and security online.  These first steps helped me build a solid foundation for the rest of my journey towards exclusively using open source tools, focused on privacy, transparency and innovation."
 
-## 🌐 Utiliser un navigateur web open-source
+## 🌐 Use an open-source web browser
 
-La première étape de mon voyage vers une expérience numérique basée sur l'open source a commencé avec la recherche d'une alternative à Google Chrome. Bien que Chrome soit un navigateur populaire et efficace, j'étais de plus en plus conscient des préoccupations liées à la vie privée et à la collecte de données. J'ai donc entrepris de trouver une solution open source qui pourrait répondre à mes besoins en matière de navigation web.
+The first step in my journey to an open source digital experience began with searching for an alternative to Google Chrome.  Although Chrome is a popular and efficient browser, I was increasingly aware of concerns around privacy and data collection.  So I set out to find an open source solution that could meet my web browsing needs.
 
-Après des recherches approfondies, Mozilla Firefox est rapidement devenu la solution de prédilection. Mozilla, en tant qu'organisation à but non lucratif, s'engage fermement en faveur de la protection de la vie privée en ligne. Firefox est un navigateur open source qui incarne ces valeurs, offrant une transparence totale sur son code source et sa philosophie d'ouverture. C'est un choix qui correspondait parfaitement à ma démarche en faveur de l'open source.
+After extensive research, Mozilla Firefox quickly became the solution of choice.  Mozilla, as a nonprofit organization, is strongly committed to online privacy.  Firefox is an open source browser that embodies these values, offering full transparency over its source code and open philosophy.  It’s a choice that perfectly suited my approach in favor of open source.
 
-Pour la gestion de mes mots de passe, j'ai opté pour l'extension Bitwarden, un gestionnaire de mots de passe open source. L'avantage de Bitwarden est sa compatibilité avec mon installation auto-hébergée de Bitwarden sur mon serveur NAS. Cette intégration me permet de gérer mes mots de passe de manière sécurisée et de les stocker localement, renforçant ainsi ma sécurité en ligne.
+For managing my passwords, I opted for the Bitwarden extension, an open source password manager.  The advantage of Bitwarden is its compatibility with my self-hosted installation of Bitwarden on my NAS server.  This integration allows me to manage my passwords securely and store them locally, strengthening my online security.
 
-En ce qui concerne la gestion du filtrage des sites web, des publicités et des malwares, j'ai délégué cette tâche à mon routeur OPNsense. Ce routeur open source est équipé d'un module DNS basé sur des listes de filtrage, similaire à un Pi-Hole. Cette solution me permet de bloquer activement les publicités, les trackers, et les sites web malveillants à un niveau central, protégeant ainsi tous les appareils de mon réseau domestique. Cela renforce non seulement ma vie privée, mais aussi la sécurité de mes activités en ligne.
+When it comes to managing website, ad and malware filtering, I delegated this task to my OPNsense router.  This open source router is equipped with a DNS module based on filtering lists, similar to a Pi-Hole.  This solution allows me to actively block ads, trackers, and malicious websites at a central level, protecting all devices on my home network.  This not only enhances my privacy, but also the security of my online activities.
 
-## 📫 Utiliser un Service Mail Soucieux de la Vie Privée
+## 📫 Use a Privacy-Concerned Email Service
 
-L'un des premiers domaines que j'ai souhaité aborder était celui de la messagerie électronique. Le choix d'un service de messagerie adapté revêt une importance cruciale, car il touche à la confidentialité des communications et à la sécurité des données personnelles.
+One of the first areas I wanted to address was email.  Choosing a suitable messaging service is of crucial importance as it affects the confidentiality of communications and the security of personal data.
 
-J'ai été particulièrement attentif à plusieurs aspects dans ma quête d'un service mail soucieux de la vie privée :
+I was particularly attentive to several aspects in my quest for an email service concerned with privacy:
 
-1. Monétisation du Contenu : L'une de mes préoccupations principales était d'éviter les fournisseurs de messagerie qui monétisent le contenu de leurs utilisateurs. De nombreuses grandes plates-formes de messagerie génèrent des revenus en analysant le contenu des e-mails et en affichant des publicités ciblées. Cette pratique est contraire à mes valeurs de vie privée et de respect de la confidentialité.
+1. Content Monetization: One of my main concerns was to avoid email providers that monetize their users' content.  Many large email platforms generate revenue by analyzing email content and displaying targeted advertisements.  This practice is contrary to my values ​​of privacy and respect for confidentiality.
 
-2. Chiffrement à la Source : Le chiffrement des e-mails est essentiel pour empêcher toute interception non autorisée de messages. J'ai recherché un fournisseur qui chiffre les e-mails dès le départ, garantissant que seuls l'expéditeur et le destinataire ont accès au contenu. Le chiffrement à la source est un élément fondamental pour garantir la confidentialité des communications.
+2. Encryption at the Source: Email encryption is essential to prevent unauthorized interception of messages.  I looked for a provider that encrypts emails from the start, ensuring that only the sender and recipient have access to the content.  Encryption at the source is a fundamental element in guaranteeing the confidentiality of communications.
 
-3. Hébergé en Europe : En tant qu'utilisateur soucieux de la vie privée, le choix de l'emplacement des serveurs de messagerie revêt une importance cruciale. J'ai opté pour un service de messagerie hébergé en Europe, ce qui permet de respecter des normes strictes de protection des données et de vie privée. Cela ajoute une couche de sécurité supplémentaire à mes communications.
+3. Hosted in Europe: As a privacy-conscious user, choosing the location of email servers is of crucial importance.  I opted for an email service hosted in Europe, which allows for strict data protection and privacy standards.  This adds an extra layer of security to my communications.
 
-4. Éviter le "Vendor Lock-In" : L'idée de rester lié à un seul fournisseur de messagerie était contraire à ma vision d'un environnement numérique ouvert et flexible. J'ai cherché un fournisseur qui n'impose pas de verrouillage à un écosystème propriétaire, offrant ainsi la possibilité de migrer vers d'autres services si nécessaire.
+4. Avoiding “Vendor Lock-In”: The idea of ​​remaining tied to a single email provider was contrary to my vision of an open and flexible digital environment.  I looked for a provider that didn't impose lock-in on a proprietary ecosystem, providing the ability to migrate to other services if necessary.
 
-Parmis les options qui s'offrent à moi
-- Auto héberger mon propre serveur de mail : délicat à configurer car reposant sur des technologies de sécurité et d'antispam que je maitrise peu :) Par ailleurs, la livraison des mails nécessite une connexion fiable et disponible 365 jours par an (ou utiliser une gateway le plus souvent payante).
-- Utiliser une solution payante d'un fournisseur tiers.
+Among the options available to me
+- Self-host my own email server: tricky to configure because it relies on security and antispam technologies that I have little control over :) Furthermore, email delivery requires a reliable connection available 365 days a year (or use a gateway most often paid).
+- Use a paid solution from a third-party provider.
 
-Pour ma part je n'utilise que peu le mail et ce que je reçois n'est pas critique, j'ai décidé alors de faire un compromis en me facilitant la vie et choisissant un fournisseur qui parait fiable et réponds aux critères ci-dessus.
+For my part, I only use email a little and what I receive is not critical, so I decided to make a compromise by making my life easier and choosing a provider who seems reliable and meets the above criteria. .
 
-Après avoir examiné de nombreuses options, j'ai finalement choisi Soverin.net comme mon fournisseur de messagerie. Bien que Soverin.net ne soit pas nécessairement parfait, il répond à plusieurs de mes préoccupations fondamentales. Il ne monétise pas le contenu de mes e-mails, propose un chiffrement robuste, est hébergé en Europe, et ne me "verrouille" pas dans un écosystème propriétaire.
+After looking at many options, I finally chose Soverin.net as my email provider.  While Soverin.net isn't necessarily perfect, it addresses several of my core concerns.  It does not monetize the content of my emails, offers robust encryption, is hosted in Europe, and does not "lock" me into a proprietary ecosystem.
 
-Cette approche de la messagerie électronique s'inscrit dans ma démarche globale de respect de la vie privée et de promotion de l'open source. Elle garantit que mes communications restent confidentielles, sécurisées et sous mon contrôle, tout en évitant les pratiques intrusives et les restrictions souvent associées aux fournisseurs de messagerie traditionnels. Dans le cadre de mon voyage vers une utilisation exclusive d'outils open source, cette décision reflète mon engagement en faveur de la vie privée informatique et de l'hygiène numérique.
+This approach to electronic messaging is part of my overall approach to respecting privacy and promoting open source.  It ensures that my communications remain confidential, secure and under my control, while avoiding the intrusive practices and restrictions often associated with traditional email providers.  As part of my journey towards exclusively using open source tools, this decision reflects my commitment to computer privacy and digital hygiene.
 
-Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche.
+The service is paid (~25€/$ per year) but it is an easy first step in my approach.
 
-## 🚧 Maîtriser mes données en hébergeant mon propre serveur NAS - Le Début du HomeLabing
+## 🚧 Control my data by hosting my own NAS server - The Beginning of HomeLabing
 
-Mon parcours vers une infrastructure entièrement open source m'a également conduit à repenser la manière dont je stocke et gère mes données. Initialement, j'utilisais une solution NAS propriétaire de Synology. Bien que cette option offrait une certaine stabilité, je me suis rapidement rendu compte de ses limites. L'environnement était peu performant, et l'ajout de services supplémentaires était souvent compliqué, voire impossible.
+My journey to a fully open source infrastructure has also led me to rethink how I store and manage my data.  Initially, I used a proprietary NAS solution from Synology.  Although this option offered some stability, I quickly realized its limitations.  The environment was underperforming, and adding additional services was often complicated or impossible.
 
-J'ai donc entrepris de rechercher des alternatives, en considérant diverses solutions open source. J'ai exploré des options telles que TrueNAS Core, Open Media Vault, et Unraid, chacune avec ses avantages et inconvénients. Après une analyse approfondie, j'ai finalement opté pour TrueNAS Scale, une solution qui s'appuie sur une base Debian que je chéris pour son ouverture et sa stabilité.
+So I set out to research alternatives, considering various open source solutions.  I explored options like TrueNAS Core, Open Media Vault, and Unraid, each with their pros and cons.  After careful analysis, I finally opted for TrueNAS Scale, a solution based on a Debian base that I cherish for its openness and stability.
 
-[TrueNAS Scale](https://www.truenas.com/truenas-scale/) m'a séduit avec son environnement de stockage basé sur ZFS. Ce système de fichiers offre de nombreux avantages, notamment la capacité à créer des snapshots, sa robustesse, la déduplication des données, et la compression. Ces fonctionnalités sont essentielles pour garantir l'intégrité de mes données tout en optimisant l'espace de stockage.
+[TrueNAS Scale](https://www.truenas.com/truenas-scale/) won me over with its ZFS-based storage environment.  This file system offers many advantages, including the ability to create snapshots, its robustness, data deduplication, and compression.  These features are essential to guarantee the integrity of my data while optimizing storage space.
 
-L'un des points forts de TrueNAS Scale réside dans son catalogue d'applications, qui offre une variété de services, le tout dans un environnement de conteneurisation. J'ai le choix entre Docker et Kubernetes pour déployer et gérer mes applications. De plus, TrueNAS Scale dispose d'une fonctionnalité d'hyperviseur basée sur KVM, qui reste, à mon avis, une valeur sûre en matière de virtualisation.
+One of the strengths of TrueNAS Scale is its application catalog, which offers a variety of services, all in a containerized environment.  I have the choice between Docker and Kubernetes to deploy and manage my applications.  Additionally, TrueNAS Scale has KVM-based hypervisor functionality, which in my opinion remains a safe bet when it comes to virtualization.
 
-Grâce à TrueNAS Scale, mon serveur NAS héberge désormais un ensemble d'applications essentielles à ma vie numérique. NextCloud me permet de stocker et de synchroniser mes fichiers en toute sécurité, PhotoPrism gère ma collection de photos de manière organisée, PleX me donne accès à ma bibliothèque multimédia, et Bitwarden prend en charge la gestion de mes mots de passe de manière sécurisée.
+Thanks to TrueNAS Scale, my NAS server now hosts a set of applications essential to my digital life.  NextCloud lets me store and sync my files securely, PhotoPrism manages my photo collection in an organized way, PleX gives me access to my media library, and Bitwarden takes care of managing my passwords securely.
 
-Cependant, j'ai pris la décision de ne pas tout centraliser sur mon serveur NAS. Les services IT critiques, tels que le routeur OPNsense, le reverse proxy HAProxy, la gestion des certificats Let's Encrypt, ainsi que tous les services de sécurisation de mon réseau et de l'accès aux applications, sont installés sur du matériel dédié. Cette approche garantit une gestion efficace de ces éléments cruciaux et renforce la sécurité de mon réseau. Dans les chapitres suivants, je détaillerai davantage la mise en place de ces services essentiels.
+However, I made the decision not to centralize everything on my NAS server.  Critical IT services, such as the OPNsense router, HAProxy reverse proxy, Let's Encrypt certificate management, as well as all services for securing my network and access to applications, are installed on dedicated hardware.  This approach ensures effective management of these crucial elements and strengthens the security of my network.  In the following chapters, I will detail the implementation of these essential services in more detail.
 
-Voici la configuration pour laquelle j'ai opté afin d'accomplir mon objectif
-- Case : Kolink Satellite
-- CPU : Intel 12100T
-- Motherboard : Asrock Z690M-ITX/ax
-- Ram : 2x 32GB Crucial
-- Boot storage (boot-pool) : 2 x 500GB Crucial MX500 SSD
-- Main storage (data) : 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
-- Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
+Here is the configuration I opted for in order to accomplish my goal
+- Box: Kolink Satellite
+- CPU: Intel 12100T
+- Motherboard: Asrock Z690M-ITX/ax
+- Ram: 2x 32GB Crucial
+- Boot storage (boot-pool): 2 x 500GB Crucial MX500 SSD
+- Main storage (data): 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
+- Secondary storage (applications): 2 x 1TB Crucial P5 Nvme SSD
 
-| Le serveur assemblé  | Les entrailles |
-| ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/23-10-30%2014-25-46%207881.jpg" width="500" height="375"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165231.png" width="500" height="375"> |
+|  The assembled server |  The entrails |
+|  ------------- |  ------------- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/23-10-30%2014-25-46%207881.jpg" width="500" height="375"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165231.png" width="500" height="375"> |
 
-Le dashboard
+The dashboard
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165300.png" width="1000" height="390">
 
-## 🔑 Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
+## 🔑 Have password hygiene and host them on my infrastructure
 
-Comme beaucoup d'entre nous, j'ai jadis utilisé un mot de passe commun pour la plupart des services en ligne auxquels je m'inscrivais. Cette pratique, bien que courante, comporte des risques considérables pour la sécurité en ligne. La prise de conscience de ces dangers m'a incité à chercher des moyens plus sécurisés et efficaces de gérer mes mots de passe.
+Like many of us, I once used a common password for most online services I signed up for.  This practice, although common, carries considerable online security risks.  Realizing these dangers prompted me to look for more secure and effective ways to manage my passwords.
 
-Ma première tentative pour remédier à cette situation a été d'utiliser les gestionnaires de mots de passe intégrés aux navigateurs web. Cependant, avec le temps, j'ai réalisé que je ne pouvais pas faire entièrement confiance à ces gestionnaires, en particulier en ce qui concerne la sécurité et le contrôle de mes données sensibles.
+My first attempt to remedy this situation was to use the password managers built into web browsers.  However, over time, I realized that I could not completely trust these managers, especially when it came to the security and control of my sensitive data.
 
-J'ai donc adopté [Keepass](https://keepass.info/), un gestionnaire de mots de passe open source. Keepass m'a accompagné pendant des années, offrant une solution sécurisée pour stocker mes mots de passe. J'ai même opté pour un stockage en cloud de ma base de données Keepass, ce qui me permettait d'accéder à mes mots de passe depuis n'importe lequel de mes appareils.
+So I adopted Keepass, an open source password manager.  Keepass has been with me for years, providing a secure solution for storing my passwords.  I even opted for cloud storage of my Keepass database, which allowed me to access my passwords from any of my devices.
 
-Cependant, au fil du temps, j'ai trouvé que l'approche de Keepass devenait de plus en plus fastidieuse. La gestion des bases de données locales et la synchronisation entre les appareils nécessitaient un effort considérable. C'est à ce moment-là que j'ai sérieusement envisagé [Bitwarden](https://bitwarden.com/), un gestionnaire de mots de passe open source, offrant une solution plus fluide et flexible.
+However, over time I found that Keepass's approach became more and more tedious.  Managing local databases and synchronizing between devices required considerable effort.  That's when I seriously considered [Bitwarden](https://bitwarden.com/), an open source password manager, offering a more fluid and flexible solution.
 
-L'un des avantages clés de Bitwarden est la possibilité d'auto-héberger son propre serveur de mots de passe. Cette option m'a permis de garder le contrôle total de mes données sensibles, sans avoir à faire confiance à des tiers. Les applications Bitwarden sont disponibles pour une multitude de systèmes d'exploitation, de desktop à mobile, ce qui facilite grandement la gestion des mots de passe sur tous mes appareils. De plus, ces applications sont conçues de manière à garantir la sécurité même en cas de perte de connexion, en conservant en cache et cryptant ma base de données de mots de passe.
+One of the key advantages of Bitwarden is the ability to self-host your own password server.  This option allowed me to maintain full control of my sensitive data, without having to trust third parties.  Bitwarden apps are available for a multitude of operating systems, from desktop to mobile, making it much easier to manage passwords across all my devices.  In addition, these applications are designed to guarantee security even in the event of a connection loss, by caching and encrypting my password database.
 
-Le catalogue d'applications de TrueNAS propose également [VaultWarden](https://github.com/dani-garcia/vaultwarden), un implémentation alternative de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
+The TrueNAS App Catalog also offers [VaultWarden](https://github.com/dani-garcia/vaultwarden), a community-run alternative implementation of Bitwarden.  Since 2019, I have used this service smoothly and without major concerns.  My passwords are stored securely and easily accessible.  This approach to password hygiene and self-hosting has been an essential component of my journey to a more secure and transparent digital experience.  It shows that open source solutions can offer robust and flexible alternatives for online security needs, which evolve over the years.
 
-## 📆 Reprendre le contrôle de ma liste de contacts et de mon calendrier
+## 📆 Take back control of my contact list and calendar
 
-Mon parcours professionnel m'a conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
+My professional journey has led me to work in the field of Digital Workplace, where collaboration, the adoption of tools and means of communication are essential pillars of collective success.  In this context, I had the opportunity to work with systems such as Google Workspace and Microsoft 365, which offer a range of productivity and collaboration tools.  However, alongside these giants of the sector, I also discovered a more modest player, NextCloud, which aims to compete with the behemoths by offering an open source and self-hosted alternative.
 
-Ma curiosité m'a poussé à explorer cette solution, même si dans ses premières versions, NextCloud pouvait être délicate à installer et à maintenir. Mon objectif était clair : reprendre le contrôle de ma liste de contacts, de mon calendrier, et de mes données, en me libérant des écosystèmes fermés tels que Google Drive et Google Docs.
+My curiosity led me to explore this solution, even though in its first versions, NextCloud could be tricky to install and maintain.  My goal was clear: regain control of my contact list, my calendar, and my data, freeing myself from closed ecosystems such as Google Drive and Google Docs.
 
-Plusieurs années se sont écoulées depuis mes premiers pas avec NextCloud, et la plateforme a considérablement évolué. Elle offre aujourd'hui diverses méthodes d'installation, ce qui la rend plus accessible pour les utilisateurs résidentiels. Elle est compatible avec de nombreux NAS, qu'ils soient propriétaires ou open source. Pour ma part, j'ai opté pour une installation [NextCloud All-in-one](https://github.com/nextcloud/all-in-one) sur une machine virtuelle, qui me fournit tous les services dont j'ai besoin.
+Several years have passed since my first steps with NextCloud, and the platform has evolved considerably.  It now offers various installation methods, making it more accessible for residential users.  It is compatible with many NAS, whether proprietary or open source.  For my part, I opted for a [NextCloud All-in-one](https://github.com/nextcloud/all-in-one) installation on a virtual machine, which provides me with all the services I need. I need.
 
-Mon NextCloud personnel inclut un client mail, un calendrier compatible CalDAV, une liste de contacts compatible CardDAV, des outils de prise de notes, un tableau Kanban, une fonctionnalité semblable à Doodle, et surtout, un gestionnaire de fichiers. Ce dernier point est essentiel, car il me permet d'accéder à mes informations, que ce soit depuis mon domicile, en déplacement, ou en collaborant avec d'autres personnes.
+My personal NextCloud includes an email client, a CalDAV-enabled calendar, a CardDAV-enabled contact list, note-taking tools, a Kanban board, Doodle-like functionality, and most importantly, a file manager.  This last point is essential, because it allows me to access my information, whether from home, on the move, or by collaborating with other people.
 
-NextCloud propose également un client iOS, qui automatise le téléchargement de toutes mes photos vers mon serveur NextCloud. Cette fonctionnalité ajoute une couche de sécurité supplémentaire en m'assurant que mes souvenirs sont stockés de manière privée sur mon propre serveur.
+NextCloud also offers an iOS client, which automates the upload of all my photos to my NextCloud server.  This feature adds an extra layer of security by ensuring that my memories are stored privately on my own server.
 
-De plus, NextCloud est doté d'un traitement de texte, d'un tableur, et d'un outil de présentation intégrés, permettant de travailler simultanément sur un même document, tout en préservant la maîtrise de nos données. L'utilisation de NextCloud est devenue une habitude dans ma famille, chaque membre l'utilisant pour collaborer et accéder à ses fichiers à distance. Cette transition vers une solution open source auto-hébergée a renforcé ma confiance dans la gestion de mes données personnelles, tout en offrant une expérience de collaboration fluide et sécurisée.
+In addition, NextCloud has an integrated word processor, spreadsheet, and presentation tool, allowing us to work simultaneously on the same document, while preserving control of our data. Using NextCloud has become a habit in my family, with each member using it to collaborate and access their files remotely.  This transition to a self-hosted open source solution has increased my confidence in managing my personal data, while providing a smooth and secure collaboration experience.
 
-## 🛂 Mettre en place un réseau fiable et sécurisé
+## 🛂 Establish a reliable and secure network
 
-Le réseau domestique, par défaut, est souvent peu sécurisé et ne propose que peu de fonctionnalités pour faciliter l'auto-hébergement. C'est pourquoi, lorsque j'ai décidé de m'engager dans l'auto-hébergement de mes services, j'ai rapidement compris qu'il fallait gérer tous les aspects liés à la connectivité, à la sécurité, et à la mise à disposition de mes services en ligne.
+The home network, by default, is often insecure and offers few features to facilitate self-hosting.  This is why, when I decided to commit to self-hosting my services, I quickly understood that I had to manage all aspects related to connectivity, security, and implementation. available to my online services.
 
-Auto-héberger ses services implique de les rendre disponibles sur Internet, tout en garantissant leur sécurité. C'est à ce moment-là que je me suis lancé à la recherche d'une solution globale pour gérer l'ensemble de ces aspects, y compris le DNS, le DHCP, la sécurité, et la mise en place d'un VPN.
+Self-hosting your services involves making them available on the Internet, while guaranteeing their security.  That's when I started looking for a comprehensive solution to manage all of these aspects, including DNS, DHCP, security, and setting up a VPN. .
 
-Après avoir testé différents produits, dont des routeurs d'ASUS, Mikrotik, et pfSense, j'ai finalement opté pour [OPNsense](https://opnsense.org/). OPNsense est une solution open source de routeur/firewall qui propose des packages additionnels pour activer les fonctionnalités dont j'avais besoin. Sa flexibilité et ses capacités de personnalisation m'ont convaincu.
+After testing different products, including routers from ASUS, Mikrotik, and pfSense, I finally settled on [OPNsense](https://opnsense.org/).  OPNsense is an open source router/firewall solution that offers additional packages to enable the features I needed.  Its flexibility and customization capabilities convinced me.
 
-PhasedLogix a une excellente playlist pour prendre en main la solution. Le gars est clair et sait rendre accessible une solution relativement austère 🥇
+PhasedLogix has an excellent playlist to get started with the solution.  The guy is clear and knows how to make a relatively austere solution accessible 🥇
 [Learn OPNSense Firewall](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" width="1000" height="408">
 
-Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque [ProtectLI](https://eu.protectli.com/), qui propose des produits de qualité avec un BIOS open source, [CoreBoot](https://www.coreboot.org/), en accord avec ma philosophie open source.
+To ensure the reliability and security of my network, I chose to install OPNsense on bare metal hardware, meaning the software runs directly on dedicated hardware rather than in a virtual machine.  This decision was crucial, because the router/firewall plays an essential role in the security of my network.  Among the available options, I opted for hardware from the [ProtectLI](https://eu.protectli.com/) brand, which offers quality products with an open source BIOS, [CoreBoot](https:/ /www.coreboot.org/), in line with my open source philosophy.
 
-| La vue front  | La vue back |
-| ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_back_1600x1600-600x600.jpg" width="500" height="500"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_angle-1-600x600.jpg" width="500" height="500"> |
+|  The front view |  The back view |
+|  ------------- |  ------------- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_back_1600x1600-600x600.jpg" width="500" height="500"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_angle-1-600x600.jpg" width="500" height="500"> |
 
-L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy [HAProxy](https://www.haproxy.com/fr), qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
+Exposing my services on the Internet requires the use of a domain name, as well as subdomains to make each service individually accessible.  To manage this, I set up a reverse proxy [HAProxy](https://www.haproxy.com/fr), which redirects requests based on the subdomain to the corresponding service.
 
-La gestion des certificats SSL/TLS est essentielle pour garantir la sécurité des connexions. Heureusement, il existe une autorité de certification gratuite, Let's Encrypt, qui permet d'obtenir des certificats SSL/TLS de manière automatisée. OPNsense facilite cette tâche en utilisant le plugin ACME, qui renouvelle automatiquement les certificats, qu'ils soient wildcard ou non, pour tous mes sous-domaines. Ainsi, chaque service, qu'il s'agisse de NextCloud, Bitwarden, Plex, et bien d'autres, est accessible via un sous-domaine sécurisé.
+Managing SSL/TLS certificates is essential to ensure secure connections.  Fortunately, there is a free certificate authority, Let's Encrypt, that allows you to obtain SSL/TLS certificates in an automated way.  OPNsense makes this easy by using the ACME plugin, which automatically renews certificates, whether wildcard or not, for all my subdomains.  So each service, whether it's NextCloud, Bitwarden, Plex, and many others, is accessible via a secure subdomain.
 
-Le DNS interne joue également un rôle clé dans la résolution des noms de domaine à l'intérieur de mon réseau. J'ai choisi d'utiliser le service unbound sur OPNsense, en utilisant des listes de filtrage de domaines indésirables, similaires à Pi-Hole. Le résultat est une expérience de navigation sans publicités ni fenêtres intrusives sur l'ensemble de mon réseau domestique.
+Internal DNS also plays a key role in resolving domain names inside my network.  I chose to use the unbound service on OPNsense, using spam domain filtering lists, similar to Pi-Hole.  The result is a browsing experience free of ads and intrusive windows across my entire home network.
 
-Ainsi, la mise en place d'un réseau fiable et sécurisé est devenue un élément essentiel de mon voyage vers une expérience numérique basée sur l'open source, garantissant que mes services sont accessibles en toute sécurité, tant depuis l'intérieur que depuis l'extérieur de mon réseau domestique.
+So, establishing a reliable and secure network has become an essential part of my journey towards an open source-based digital experience, ensuring that my services are securely accessible, both from within and from outside. outside my home network.
 
-J'aime beaucoup la manière dont TechnoTim a su très bien vulgariser et expliquer la sécurité pour le Homelabing. On y traite des sujets des firewalls, reverse proxy, segmentation des réseaux, etc...
+I really like the way in which TechnoTim was able to popularize and explain security for Homelabing very well.  We cover the subjects of firewalls, reverse proxy, network segmentation, etc.
 
 [Self-Hosting Security Guide for your HomeLab](https://www.youtube.com/watch?v=Cs8yOmTJNYQ&t=185s)
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png" width="1000" height="516">
 
-## 🌳 Veiller à l'impact écologique via une approche de greenLabing
+## 🌳 Ensuring ecological impact via a greenLabing approach
 
-Lorsque l'on s'engage dans l'auto-hébergement de ses services, il est important de considérer l'impact écologique de cette démarche. En effet, la mise en place d'une infrastructure personnelle peut entraîner une consommation électrique et une dépense en matériel informatique, ce qui doit être équilibré avec une approche respectueuse de l'environnement.
+When committing to self-hosting your services, it is important to consider the ecological impact of this approach.  Indeed, the establishment of a personal infrastructure can lead to electricity consumption and expenditure on IT equipment, which must be balanced with an environmentally friendly approach.
 
-Dans cette optique, j'ai conçu mon approche d'auto-hébergement avec un souci d'efficacité énergétique et de durabilité. Chacun des appareils que j'utilise a été choisi pour sa faible consommation électrique et sa longévité. En combinant ces deux facteurs, j'ai pu réduire au maximum l'impact environnemental de mon infrastructure.
+With this in mind, I designed my self-hosting approach with energy efficiency and sustainability in mind.  Each of the devices I use was chosen for its low power consumption and longevity.  By combining these two factors, I was able to reduce the environmental impact of my infrastructure as much as possible.
 
-L'ensemble de mes appareils, au nombre de trois, consomme un total de seulement 60 watts, soit l'équivalent de ce que consommerait une ampoule d'ancienne génération. Cette faible consommation est le résultat d'une sélection minutieuse du matériel et de son dimensionnement pour garantir des performances optimales tout en limitant la dépense énergétique.
+All of my devices, three in number, consume a total of only 60 watts, the equivalent of what an older generation bulb would consume.  This low consumption is the result of careful selection of equipment and its sizing to guarantee optimal performance while limiting energy expenditure.
 
-De plus, certains de mes appareils ont été délibérément surdimensionnés pour prolonger leur durée de vie et garantir leur compatibilité avec les technologies futures. Cette approche "agnostic" en termes de technologie permet d'éviter des remplacements fréquents d'appareils, réduisant ainsi la quantité de déchets électroniques.
+Additionally, some of my devices have been deliberately oversized to extend their lifespan and ensure compatibility with future technologies.  This technology-agnostic approach avoids frequent device replacements, thereby reducing the amount of electronic waste.
 
-Un exemple concret de cette approche est la gestion de mon réseau filaire et Wi-Fi. J'ai délibérément séparé les deux appareils, le routeur et le point d'accès Wi-Fi, car les normes Wi-Fi évoluent rapidement. Ainsi, lorsque la prochaine génération de norme Wi-Fi sera disponible, je n'aurai besoin de remplacer que le point d'accès, préservant ainsi mon routeur et évitant un remplacement inutile de tout l'équipement.
+A real-world example of this approach is managing my wired and Wi-Fi network. I have deliberately separated the two devices, the router and the Wi-Fi access point, because Wi-Fi standards are evolving rapidly.  So when the next generation of Wi-Fi standard becomes available, I will only need to replace the access point, thereby preserving my router and avoiding unnecessary replacement of all equipment.
 
-En veillant à l'impact écologique de mon approche d'auto-hébergement, je cherche à concilier les avantages de la maîtrise de mes données et de mes services avec un engagement en faveur de la durabilité et de la réduction de mon empreinte environnementale. Cette démarche s'inscrit dans la philosophie du GreenLabing, qui consiste à allier technologie et respect de la planète pour une informatique plus responsable.
+By ensuring the ecological impact of my self-hosting approach, I seek to reconcile the benefits of controlling my data and services with a commitment to sustainability and reducing my environmental footprint.  This approach is part of the GreenLabing philosophy, which consists of combining technology and respect for the planet for more responsible IT.
 
-Des ressources intéressantes sur le sujet
-[How to save power in a Homelab? 5 Tips!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
-[Answering Your Power Efficiency Questions! | Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
+Interesting resources on the subject
+[How to save power in a Homelab?  5 Tips!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
+[Answering Your Power Efficiency Questions!  |  Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
+
+
+#IV.  Open Source Operating Systems <a name="os"/>
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
+
+One of the biggest milestones in my journey to exclusively using open source tools was my move to an open source operating system for my workstation.  This change happened thanks to a click, a revelation that came in the form of a gaming device: the [Steam Deck](https://www.steamdeck.com/fr), a portable gaming console based on Arch Linux.
+
+As a video game enthusiast, I was impressed by the commitment of the company [Valve](https://fr.wikipedia.org/wiki/Valve_(company)) to make an impressive number of games compatible, originally intended for Windows, with Linux.  This bold move caught my attention and aroused my curiosity.
+
+This is how I felt the desire to learn more about this operating system, to dive into the world of Linux, and to see if it could meet my needs beyond gaming. My journey naturally led me to join the [Gaming Linux FR](https://www.gaminglinux.fr/) community, where I was able to find help and advice to ease my transition from Windows to Linux.
+
+What struck me most about this experience was the open-mindedness, the willingness to share and the dedication of the open source community to helping as many people as possible make this transition.  I quickly realized that the open source philosophy was ingrained in the DNA of this community.  Everyone was ready to share their knowledge, solve problems and make Linux accessible to everyone.
+
+After testing different Linux distributions, including Debian, Fedora and OpenSUSE, I finally found my sweet spot with [Arch Linux](https://archlinux.org/).  This open source operating system matched my needs 100%.  It offered me the flexibility and customization I needed to tailor my work environment to my preferences.
+
+* You want an overview of existing distributions, the reference remains [DistroWatch](https://distrowatch.com/)!
+* You want to try the distributions without installing them (or even booting from a Live ISO) [DistroSea](https://distrosea.com/) will allow you to test in a VM within your browser :)
+
+With Arch Linux, I was able to work efficiently using only open source applications, while retaining some [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) of the Microsoft applications that were essential.  This transition showed me that open source was not only a viable option, but could also meet any need, whether it was productivity, entertainment, or any other aspect of digital life.
+
+My adventure with Arch Linux has reinforced my belief that open source is much more than an alternative to proprietary software.  It is an open, collaborative and dedicated community, ready to support users in their exploration of a freer and more transparent digital future.
+
+I attended with great interest the [Interview with an Arch Linux packager](https://www.youtube.com/watch?v=qXvzGRm9iFs) where I was able to get a more precise idea of ​​the care taken by the community to deliver a satisfactory experience to its users and minimizing instabilities and other bugs.
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Desktop.png" width="1000" height="562">
+
+## Performances de Jeu au Top
+
+| CyberPunk 2077  | CS:GO | Forza Horizon 5 |
+| ------------- | ------------- | ------------- |
+| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="320" height="177"> |
+
+# V. Open Collaboration and the Power of Community <a name="collab"/>
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/community.png" width="1000" height="250">
+
+One of the most inspiring aspects of my journey to exclusively using open source tools is discovering open collaboration and the tremendous power of community that comes with it.  In this chapter, we will explore the benefits of open collaboration, collective innovation and community strength, highlighting the principles of this approach.
+
+The Foundations of Open Collaboration
+
+Open collaboration is a philosophy based on sharing, cooperation and openness.  It promotes collaboration between individuals and groups in a transparent, free and often decentralized manner.  This approach has profound implications, not only in the open source world, but also in the professional world.
+
+## Decentralized collaboration and the richness of multicultural perspectives
+
+One of the most exciting aspects of open collaboration is the opportunity to work with people from diverse countries, cultures and languages.  As a follower of this philosophy, I have had the opportunity to collaborate with individuals from all over the world, using languages ​​I am fluent in such as French, English and Spanish.  This cultural diversity brings an infinite wealth of points of view, experiences and expertise.  It reinforces the idea that innovation is born from diversity.
+
+“Collaboration is an opportunity to discover new perspectives, to push the limits of creativity and to enrich our ideas thanks to the diversity of contributors.  » - [Quote from Linus Torvalds, creator of Linux]
+
+## The power of asynchronous collaboration
+
+One of the key strengths of open collaboration is the flexibility it offers through asynchronous working.  Working with individuals spread across different time zones means that collaboration can continue 24 hours a day. Contributions can be made based on each person's availability, creating a continuous working dynamic.  This allows you to take full advantage of available talent, regardless of geographic location.
+
+Some training courses exist and are very enriching.  I followed them and try to integrate the key concepts into my daily life.
+- Limit the use of emails and encourage the use of a single repository for writing, documenting and interacting.  It is a “single source of truth” which facilitates information, onboarding and avoids dispersion.
+- Use persistent chats so that whatever the geographical area of ​​an individual, they can learn about exchanges during their working hours.  Many tools exist: Discord, Teams, Slack, NextCloud Chat.
+- Develop your relationships remotely: virtual cafés, cross-country projects, peer reviews between geographic areas, all these solutions form a solid basis for asynchronous collaboration.
+
+I cannot recommend GitLab's work on the subject highly enough.  Gitlab has thoroughly developed its All-Remote strategy and, as they apply their principles well, everything is documented on "GitLab's Guide to All-Remote"
+
+The training provided by GitLab is excellent.  This requires practice and returning to it regularly to refocus on its application.
+
+|  Training |  Content |
+|  ------------- |  ------------- |
+|  [Remote Team Management](https://www.coursera.org/learn/remote-team-management#modules)|  Leading in a Remote Environment, Building a Remote Organizational Culture and Practices, Assessing Teams' and Managers' Readiness for Remote Work, Creating a Baseline Strategy for Implementing a Remote Transformation |
+|  [TeamOps](https://about.gitlab.com/teamops/) |  Focuses on finding solutions to the following challenges: Delays in decision making, Meeting fatigue, Poor internal communication, Slow transfers and delays in work flow Cell |
+
+## Free software in the professional world
+
+My experience in the open source world has also led me to apply these principles in my professional work.  I developed an open source framework within my company, which is accessible to all employees.  Knowledge sharing, comprehensive documentation and open access to information are key elements of this approach.  This promotes transparency, innovation and collaboration, while removing barriers to communication within the company.
+
+“Open source within companies helps create an innovation ecosystem where each individual can contribute to the improvement of processes and the growth of the company.  » - [Quote from Eric S. Raymond, open source thinker]
+
+## The example of Arch Linux: a strong community
+
+My transition to Arch Linux allowed me to fully experience the power of the open source community.  Arch Linux is not only a Linux distribution, but also an active and dedicated community.  Users and developers collaborate to maintain a robust and flexible operating system.
+
+“Open source is not just about sharing code, but about sharing knowledge, skills and building lasting relationships in a strong community.  » - [Quote from Linus Torvalds]
+
+Benefits of Open Collaboration and the Power of Community
+
+Open collaboration and the strength of the community open the door to multiple advantages:
+- Collective Innovation: The diversity of contributors and perspectives stimulates constant innovation.
+- Knowledge Sharing: Open source promotes knowledge sharing, encouraging continuous learning.
+- Transparency and Trust: Open collaboration builds trust and transparency within the community.
+- Flexibility and Agility: Asynchronous and decentralized collaboration allows greater flexibility in work.
+
+## Open-Source Contributions
+
+Interaction with the open source community is an essential component of my approach.  What makes this interaction even more enriching is that it is bi-directional.  Indeed, just as the open source community provides me with exceptional tools and solutions, I strive to contribute to this same community, to the extent of my skills and means, in order to give back.
+
+The ways to participate in the free software community are varied, and everyone can find their own way to contribute.  Contributions can take many forms:
+- Bug reporting
+- Suggestions for improvements or new features
+- Code writing
+- Review of the participations of other contributors,
+- Translation
+- Presentation
+- Pedagogy (Videos, Articles, participation in associations)
+- Support via forums, reddit, discord channels
+
+Personally, I actively engage in several open source projects, depending on my skills and interests.  My contributions include reporting bugs and proposing improvements for solutions such as OPNsense and NextCloud.  I also contributed by creating YAML descriptors for TrueNAS, doing translations for Arch Linux and Cardiac's [Architect](https://github.com/Cardiacman13/Architect) project, as well as working on the implementation in good shape to develop the Architect project, which aims to simplify the use of Arch Linux for desktop users.
+
+During the year 2023, I have modestly made around 200 contributions to these different open source projects.  My involvement in the free software community is a way of thanking and supporting the developers and contributors who have enabled the creation of the tools I rely on every day.  It is also a way of participating in the continuous improvement of this software and of giving back to the community what it has offered me in terms of freedom, transparency, and reliability.
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
+
+#VII.  Let's spread the message!  <a name="message"/>
+
+My commitment to open source is not limited to personal or professional use, it goes well beyond.  This is a deep conviction that I hold with passion, and one of my missions is to inform, share and educate around the benefits of open source and the philosophy that accompanies it.
+
+## 📖 Information instead of conversion 
+It is essential to clarify that my objective is not to convert, but above all to inform.  I believe that open source is an approach that deserves to be better understood and appreciated.  That's why I strive to share information, explain the benefits, and shed light on the philosophy behind this approach.  I want everyone to be able to make informed decisions when it comes to technology.
+
+## 🐧 The Open Source Community 
+The open source community is one of the jewels of this approach.  It is made up of passionate, curious and welcoming people, ready to share their knowledge and welcome new people every day.  This vibrant community is an invaluable source of knowledge and inspiration.  It embodies the values ​​of open source, such as collaboration, transparency and generosity.
+
+## 🧠 More than a question of tools 
+Open source is not only a question of technical or technological tools, it is also a question of state of mind.  This encompasses transparency, a taste for transmission and sharing of knowledge.  I believe that open source is an invitation to continuous learning, collaborative creation and constant improvement.
+
+## 👨‍👨‍👧‍👦 Education for kids 
+One of my priorities is to inform young people about the dark side of social networks and to make them aware of the importance of being careful online.  I strive to transmit values ​​of vigilance, not to expose oneself too much on the Internet and not to share anything too important.  These fundamental lessons are essential to protecting privacy and digital security.  My own children are the primary beneficiaries, and it's gratifying to see them understand the importance of these messages in their own way, like the simple "It's cool Linux" uttered by my oldest.
+
+LinkedIn as a Vector of Communication: LinkedIn, the professional platform, also plays a key role in my approach to evangelizing open source.  It's a space where I can interact with enthusiasts, remembrancers and Linuxians from all walks of life.  I observe with satisfaction the growth of this community day after day.  It is an ideal vector for communicating and informing.  I am aware that my job requires a certain reserve, but I believe that curiosity has never hurt anyone.  Sharing knowledge and encouraging constructive discussions about open source helps broaden horizons and promote more informed use of technology.
+
+Ultimately, open source evangelism is a mission close to my heart.  It is a way of contributing to the dissemination of essential values ​​such as freedom, transparency and collaboration, and of ensuring that open source finds its place in a constantly evolving digital world.
+
+# VIII.  This is not a conclusion <a name="continue"/>
+
+This article was an opportunity to share my journey towards exclusively using open source tools and taking a deep approach to open source in my daily life.  It is essential to remember that my approach and this article are above all informative.  I'm not here to impose dogma, but to encourage thought and discussion about the benefits of open source, transparency, and the philosophy behind them.
+
+My journey has given me a deeper understanding of open source and its benefits.  It’s a process that can be rewarding, even if it doesn’t require as profound a transformation as mine.  Applying some key concepts of open source philosophy in your daily life can be an interesting experience.  If you're used to silos, lack of information, and a "one-size-fits-all" approach, experience transparency.  You will be surprised how your loved ones, peers and colleagues can return it to you.
+
+There are many ways to get involved in the world of open source, whether through QA (quality assurance), translation, sharing experiences, sharing discoveries, testing, failures, feedback, collaboration on projects or innovation alone or in a group.  In recent years, I have enjoyed contributing to the projects and tools I use on a daily basis.  This manifests itself through bug reports, translations, or even my active participation in projects such as "Architect", which aims to make Arch Linux more user-friendly for a full desktop experience.
+
+If you're interested in a transformation of this magnitude, keep in mind that the learning curve can be steep at first.  However, with perseverance, it becomes smoother and smoother as you progress.  Today, I continue to learn, but maintaining my open source environment requires little time.  This journey to open source is an invitation to continuous learning, innovation and collaboration.  It’s a journey that can bring both personal and professional benefits, and I encourage you to discover it in your own way.  The open source philosophy is an invaluable resource, and it is within reach of anyone who wishes to embark on this rewarding path.
+
+#IX.  Questions/Answers <a name="q&a"/>
+
+Do not hesitate to ask me questions in the form of Issues on GitHub or Reddit, I would be happy to answer them and publish our discussions in this article.
+
+# X. My progress <a name="progress"/>
+
+- [x] Use an open-source web browser
+- [x] Use a privacy-conscious search engine
+- [x] Use a Privacy-Concerned Email Service
+- [x] Control my data by hosting my own NAS server
+- [x] Have password hygiene and host them on my infrastructure
+- [x] Take back control of my contact list and calendar
+- [x] Establish a reliable and secure network
+- [ ] Ensuring ecological impact via a greenLabing approach - In progress
+- [x] Switch my main PC to Linux
+- [x] Host my VPN to ensure a secure connection when I'm traveling/on vacation
+- [ ] Use free applications on my mobile - In progress
+- [ ] Lists my uses and services on the Internet, find free alternatives - Not started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # IV. Systèmes d'exploitation Open Source <a name="os"/>
