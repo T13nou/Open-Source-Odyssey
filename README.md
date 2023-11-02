@@ -411,6 +411,8 @@ Il existe de nombreuses façons de s'impliquer dans le monde de l'open source, q
 
 Si une transformation de cette ampleur vous intéresse, gardez à l'esprit que la courbe d'apprentissage peut être abrupte au début. Cependant, avec persévérance, elle devient de plus en plus douce au fur et à mesure de votre progression. Aujourd'hui, je continue d'apprendre, mais la maintenance de mon environnement open source nécessite peu de temps. Ce voyage vers l'open source est une invitation à l'apprentissage continu, à l'innovation et à la collaboration. C'est un voyage qui peut apporter des avantages tant personnels que professionnels, et je vous encourage à le découvrir à votre manière. La philosophie open source est une ressource inestimable, et elle est à la portée de tous ceux qui souhaitent s'engager sur cette voie enrichissante.
 
+Pour ma part, dans une logique d'aprentissage et d'innovation continue, l'aventure continue et vos commentaires sont les bienvenus pour faire progresser ce petit monde 🤟
+
 # IX. Questions/Réponses <a name="q&a"/>
 
 N'hésitez pas à me poser des questions sous formes d'Issues sur GitHub ou Reddit, je me ferais un plaisir d'y répondre et de publier nos échanges au sein de cet article.
