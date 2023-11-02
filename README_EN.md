@@ -234,7 +234,7 @@ Interesting resources on the subject
 [Answering Your Power Efficiency Questions!  |  Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
 
 
-#IV.  Open Source Operating Systems <a name="os"/>
+# IV.  Open Source Operating Systems <a name="os"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
