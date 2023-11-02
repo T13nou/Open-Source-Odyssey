@@ -201,7 +201,7 @@ Comme beaucoup d'entre nous, j'ai jadis utilisé un mot de passe commun pour la 
 
 Ma première tentative pour remédier à cette situation a été d'utiliser les gestionnaires de mots de passe intégrés aux navigateurs web. Cependant, avec le temps, j'ai réalisé que je ne pouvais pas faire entièrement confiance à ces gestionnaires, en particulier en ce qui concerne la sécurité et le contrôle de mes données sensibles.
 
-J'ai donc adopté Keepass, un gestionnaire de mots de passe open source. Keepass m'a accompagné pendant des années, offrant une solution sécurisée pour stocker mes mots de passe. J'ai même opté pour un stockage en cloud de ma base de données Keepass, ce qui me permettait d'accéder à mes mots de passe depuis n'importe lequel de mes appareils.
+J'ai donc adopté [Keepass](https://keepass.info/), un gestionnaire de mots de passe open source. Keepass m'a accompagné pendant des années, offrant une solution sécurisée pour stocker mes mots de passe. J'ai même opté pour un stockage en cloud de ma base de données Keepass, ce qui me permettait d'accéder à mes mots de passe depuis n'importe lequel de mes appareils.
 
 Cependant, au fil du temps, j'ai trouvé que l'approche de Keepass devenait de plus en plus fastidieuse. La gestion des bases de données locales et la synchronisation entre les appareils nécessitaient un effort considérable. C'est à ce moment-là que j'ai sérieusement envisagé [Bitwarden](https://bitwarden.com/), un gestionnaire de mots de passe open source, offrant une solution plus fluide et flexible.
 
