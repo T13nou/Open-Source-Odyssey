@@ -3,8 +3,18 @@ Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collabora
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/banner.png" width="1000" height="434">
 
+## Sommaire
+1. [Introduction](#introduction)
+2. [Pourquoi l'Open Source ?](#why)
+3. [Mise en Place de l'infrastructure Open Source](#infra)
+4. [Systèmes d'exploitation Open Source](#os)
+5. [L'Open Collaboration et la Puissance de la Communauté](#collab)
+6. [Passons le message !](#message)
+7. [Ceci n'est pas une conclusion](#continue)
+8. [Questions/Réponses](#q&a)
+9. [Ma progression](#progress)
 
-# I. Introduction
+# I. Introduction <a name="introduction"/>
 
 Bienvenue sur ma page dédiée à mon aventure 100% open source. Ici, je partage mon voyage personnel vers l'utilisation exclusive d'outils open source dans ma vie quotidienne. Ma démarche s'articule autour de l'open collaboration, de la puissance de la communauté et de mon engagement en faveur de la vie privée informatique ainsi que de l'hygiène numérique.
 
@@ -33,7 +43,7 @@ Ma passion pour l'open source et l'open collaboration trouve son origine dans un
 Aujourd'hui, j'applique ces principes d'ouverture et de collaboration dans ma vie personnelle et professionnelle. Mon engagement en faveur de l'open source et de l'open collaboration repose sur la conviction que ces approches peuvent transformer notre manière de travailler, d'innover et de construire un avenir numérique meilleur pour tous.
 
 
-# II. Pourquoi l'Open Source ?
+# II. Pourquoi l'Open Source ? <a name="why"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" width="1000" height="250">
 
@@ -89,7 +99,7 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 
 Je vous invite à aller creuser le sujet avec la chaine de [Rob Braxman](https://www.youtube.com/@robbraxmantech), se définissant lui même comme un *Internet Privacy Evangelist*, soit un évangéliste du respect de la vie privée sur Internet. Sa proposition est assumée comme étant jusqu'au boutiste : il utilise un appareil par cas d'usage (publique, privé), vis sur un bateau et alerte régulièrement sur les dangers de notre environnement technologique. Il s'applique à lui même le principe de vie *off the grid*. A prendre avec des pincettes mais je suis d'accord avec la plupart de ses articles.
 
-# III. Mise en Place de l'infrastructure Open Source
+# III. Mise en Place de l'infrastructure Open Source <a name="infra"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
 
@@ -263,7 +273,7 @@ Des ressources intéressantes sur le sujet
 [Answering Your Power Efficiency Questions! | Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
 
 
-# IV. Systèmes d'Exploitation Open Source
+# IV. Systèmes d'exploitation Open Source <a name="os"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
@@ -293,7 +303,7 @@ J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux
 | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="320" height="177"> |
 
 
-# V. L'Open Collaboration et la Puissance de la Communauté
+# V. L'Open Collaboration et la Puissance de la Communauté <a name="collab"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/community.png" width="1000" height="250">
 
@@ -368,7 +378,7 @@ Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions 
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-# VII. Passons le message !
+# VII. Passons le message ! <a name="message"/>
 
 Mon engagement en faveur de l'open source ne se limite pas à une utilisation personnelle ou professionnelle, il va bien au-delà. Il s'agit d'une conviction profonde que je porte avec passion, et l'une de mes missions est d'informer, partager et éduquer autour des avantages de l'open source et de la philosophie qui l'accompagne.
 
@@ -388,7 +398,7 @@ LinkedIn comme Vecteur de Communication : LinkedIn, la plateforme professionnell
 
 En fin de compte, l'évangélisation de l'open source est une mission qui me tient à cœur. C'est une façon de contribuer à la diffusion de valeurs essentielles telles que la liberté, la transparence et la collaboration, et de s'assurer que l'open source trouve sa place dans un monde numérique en constante évolution.
 
-# VIII. Ceci n'est pas une conclusion
+# VIII. Ceci n'est pas une conclusion <a name="continue"/>
 
 Cet article a été une opportunité de partager mon voyage vers une utilisation exclusive d'outils open source et une approche profonde de l'open source dans ma vie quotidienne. Il est essentiel de rappeler que mon approche et cet article sont avant tout informatifs. Je ne suis pas ici pour imposer un dogme, mais pour encourager la réflexion et la discussion sur les avantages de l'open source, de la transparence et de la philosophie qui les sous-tendent.
 
@@ -398,11 +408,11 @@ Il existe de nombreuses façons de s'impliquer dans le monde de l'open source, q
 
 Si une transformation de cette ampleur vous intéresse, gardez à l'esprit que la courbe d'apprentissage peut être abrupte au début. Cependant, avec persévérance, elle devient de plus en plus douce au fur et à mesure de votre progression. Aujourd'hui, je continue d'apprendre, mais la maintenance de mon environnement open source nécessite peu de temps. Ce voyage vers l'open source est une invitation à l'apprentissage continu, à l'innovation et à la collaboration. C'est un voyage qui peut apporter des avantages tant personnels que professionnels, et je vous encourage à le découvrir à votre manière. La philosophie open source est une ressource inestimable, et elle est à la portée de tous ceux qui souhaitent s'engager sur cette voie enrichissante.
 
-# IX. Session de Questions/Réponses (en option)
+# IX. Questions/Réponses (en option) <a name="q&a"/>
 
 N'hésitez pas à me poser des questions sous formes d'Issues sur GitHub ou Reddit, je me ferais un plaisir d'y répondre et de publier nos échanges au sein de cet article.
 
-# X. Ma progression
+# X. Ma progression <a name="progress"/>
 
 - [x] Utiliser un navigateur web open-source
 - [x] Utiliser un moteur de recherche soucieux de la vie privée
