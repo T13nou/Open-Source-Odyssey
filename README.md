@@ -284,6 +284,8 @@ Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bie
 
 J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux](https://www.youtube.com/watch?v=qXvzGRm9iFs) où j'ai pu me faire une idée plus précise du soin aporté par la communauté à livrer une expérience satisfaisante à ses utilisateurs et minimisant les instabilités et autres bugs.
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Desktop.png" width="1000" height="562">
+
 ## Performances de Jeu au Top
 
 | CyberPunk 2077  | CS:GO | Forza Horizon 5 |
