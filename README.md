@@ -287,6 +287,9 @@ Ce qui m'a le plus marqué dans cette expérience, c'est l'ouverture d'esprit, l
 
 Après avoir testé différentes distributions Linux, notamment Debian, Fedora et OpenSUSE, j'ai finalement trouvé mon point de chute avec [Arch Linux](https://archlinux.org/). Ce système d'exploitation open source correspondait à 100% à mes besoins. Il m'offrait la flexibilité et la personnalisation dont j'avais besoin pour adapter mon environnement de travail à mes préférences.
 
+Vous voulez un panorama des distributions existantes,la référence reste [DistroWatch](https://distrowatch.com/) !
+Vous voulez essayer les distributions sans pour autant les installer (ni même booter sur une ISO Live) [DistroSea](https://distrosea.com/) vous permettra de tester dans une VM au sein de votre navigateur :)
+
 Avec Arch Linux, j'ai pu travailler efficacement en utilisant uniquement des applications open source, tout en conservant certaines [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) des applications Microsoft qui s'avéraient incontournables. Cette transition m'a montré que l'open source n'était pas seulement une option viable, mais qu'il pouvait également répondre à tous les besoins, qu'il s'agisse de productivité, de divertissement ou de tout autre aspect de la vie numérique.
 
 Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bien plus qu'une alternative aux logiciels propriétaires. C'est une communauté ouverte, collaborative et dévouée, prête à accompagner les utilisateurs dans leur exploration d'un avenir numérique plus libre et transparent.
