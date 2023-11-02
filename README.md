@@ -121,7 +121,7 @@ Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces infor
 
 En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure open source et renforcer ma compréhension des outils et des pratiques qui garantissent ma vie privée et ma sécurité en ligne. Ces premières étapes m'ont aidé à construire une fondation solide pour la suite de mon voyage vers une utilisation exclusive d'outils open source, axée sur la confidentialité, la transparence et l'innovation."
 
-## Utiliser un navigateur web open-source
+## 🌐 Utiliser un navigateur web open-source
 
 La première étape de mon voyage vers une expérience numérique basée sur l'open source a commencé avec la recherche d'une alternative à Google Chrome. Bien que Chrome soit un navigateur populaire et efficace, j'étais de plus en plus conscient des préoccupations liées à la vie privée et à la collecte de données. J'ai donc entrepris de trouver une solution open source qui pourrait répondre à mes besoins en matière de navigation web.
 
@@ -282,23 +282,7 @@ Avec Arch Linux, j'ai pu travailler efficacement en utilisant uniquement des app
 
 Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bien plus qu'une alternative aux logiciels propriétaires. C'est une communauté ouverte, collaborative et dévouée, prête à accompagner les utilisateurs dans leur exploration d'un avenir numérique plus libre et transparent.
 
-## Mon Choix de Desktop Environment : KDE
-
-    Objectif : Expliquez pourquoi vous avez choisi le bureau KDE pour votre expérience open source.
-    Contenu : Développez les avantages de KDE, tels que sa personnalisation, sa convivialité, son apparence moderne et ses fonctionnalités avancées. Mettez en avant comment il a répondu à vos besoins en matière de productivité et d'esthétique.
-
-## Mon Choix pour des Applications Flatpak Conteneurisées
-
-    Objectif : Présentez les avantages des applications Flatpak et pourquoi vous les avez privilégiées.
-    Contenu : Expliquez en quoi Flatpak facilite l'installation et la gestion d'applications, offre un environnement isolé pour la sécurité, et garantit que les applications restent à jour indépendamment de la distribution Linux. Mettez en évidence la flexibilité que cela apporte à votre expérience.
-
-## La Modularité d'Arch Linux et son Accès au Repository AUR
-
 J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux](https://www.youtube.com/watch?v=qXvzGRm9iFs) où j'ai pu me faire une idée plus précise du soin aporté par la communauté à livrer une expérience satisfaisante à ses utilisateurs et minimisant les instabilités et autres bugs.
-
-
-    Objectif : Explorez les avantages de la modularité d'Arch Linux et de l'accès au repository AUR.
-    Contenu : Détaillez comment la structure modulaire d'Arch Linux vous a permis de personnaliser votre système à un niveau extrême, en installant uniquement ce dont vous avez besoin. Parlez de la richesse du repository AUR, qui facilite l'installation de logiciels non officiels. Montrez comment ces éléments vous offrent un contrôle total sur votre environnement.
 
 ## Performances de Jeu au Top
 
@@ -317,13 +301,13 @@ Les Fondements de l'Open Collaboration
 
 L'open collaboration est une philosophie qui repose sur le partage, la coopération et l'ouverture. Elle favorise la collaboration entre individus et groupes de manière transparente, libre et souvent décentralisée. Cette approche a des implications profondes, non seulement dans le monde de l'open source, mais aussi dans le monde professionnel.
 
-## La Collaboration Décentralisée et la Richesse des Perspectives Multiculturelles
+## La collaboration décentralisée et la richesse des perspectives multiculturelles
 
 L'un des aspects les plus stimulants de l'open collaboration est la possibilité de travailler avec des personnes de divers pays, de cultures et de langues différentes. En tant qu'adepte de cette philosophie, j'ai eu l'opportunité de collaborer avec des individus de partout dans le monde, en utilisant des langues que je maîtrise telles que le français, l'anglais et l'espagnol. Cette diversité culturelle apporte une richesse infinie de points de vue, d'expériences et d'expertises. Elle renforce l'idée que l'innovation naît de la diversité.
 
 « La collaboration, c'est l'occasion de découvrir de nouvelles perspectives, de repousser les limites de la créativité et d'enrichir nos idées grâce à la diversité des contributeurs. » - [Citation de Linus Torvalds, créateur de Linux]
 
-## Le Pouvoir de la Collaboration Asynchrone à Travers les Fuseaux Horaires
+## Le pouvoir de la collaboration asynchrone
 
 L'un des atouts clés de l'open collaboration est la flexibilité qu'elle offre grâce au travail asynchrone. Travailler avec des individus répartis sur différentes zones horaires signifie que la collaboration peut se poursuivre 24 heures sur 24. Les contributions peuvent se faire en fonction des disponibilités de chacun, créant une dynamique de travail continue. Cela permet de tirer pleinement parti des talents disponibles, indépendamment de la localisation géographique.
 
@@ -342,13 +326,13 @@ Les formations dispensées par GitLab sont excellentes. Cela demande de la mise 
 | [TeamOps](https://about.gitlab.com/teamops/) | Se concentre sur trouver des solutions aux challenges suivants : les Retards dans la prise de décision, Fatigue des réunions, Mauvaise communication interne, Lenteur des transferts et retards dans le déroulement du travail Cell  |
 
 
-## Le Cadre Open Source dans le Monde Professionnel
+## Le libre dans le monde professionnel
 
 Mon expérience dans le monde de l'open source m'a également conduit à appliquer ces principes dans mon travail professionnel. J'ai développé un framework open source au sein de mon entreprise, qui est accessible à tous les employés. Le partage des connaissances, la documentation exhaustive et l'accès ouvert à l'information sont des éléments clés de cette approche. Cela favorise la transparence, l'innovation et la collaboration, tout en éliminant les barrières à la communication au sein de l'entreprise.
 
 « L'open source au sein des entreprises permet de créer un écosystème d'innovation où chaque individu peut contribuer à l'amélioration des processus et à la croissance de l'entreprise. » - [Citation d'Eric S. Raymond, penseur de l'open source]
 
-## L'Exemple d'Arch Linux : Une Communauté Solide
+## L'exemple d'Arch Linux : une communauté Solide
 
 Ma transition vers Arch Linux m'a permis de vivre pleinement la force de la communauté open source. Arch Linux est non seulement une distribution Linux, mais aussi une communauté active et dédiée. Les utilisateurs et les développeurs collaborent pour maintenir un système d'exploitation robuste et flexible.
 
@@ -382,7 +366,7 @@ Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions 
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-# VII. Évangélisation de l'Open Source
+# VII. Passons le message !
 
 Mon engagement en faveur de l'open source ne se limite pas à une utilisation personnelle ou professionnelle, il va bien au-delà. Il s'agit d'une conviction profonde que je porte avec passion, et l'une de mes missions est d'informer, partager et éduquer autour des avantages de l'open source et de la philosophie qui l'accompagne.
 
@@ -402,11 +386,11 @@ LinkedIn comme Vecteur de Communication : LinkedIn, la plateforme professionnell
 
 En fin de compte, l'évangélisation de l'open source est une mission qui me tient à cœur. C'est une façon de contribuer à la diffusion de valeurs essentielles telles que la liberté, la transparence et la collaboration, et de s'assurer que l'open source trouve sa place dans un monde numérique en constante évolution.
 
-# VIII. Conclusion
+# VIII. Ceci n'est pas une conclusion
 
-En conclusion, cet article a été une opportunité de partager mon voyage vers une utilisation exclusive d'outils open source et une approche profonde de l'open source dans ma vie quotidienne. Il est essentiel de rappeler que mon approche et cet article sont avant tout informatifs. Je ne suis pas ici pour imposer un dogme, mais pour encourager la réflexion et la discussion sur les avantages de l'open source, de la transparence et de la philosophie qui les sous-tendent.
+Cet article a été une opportunité de partager mon voyage vers une utilisation exclusive d'outils open source et une approche profonde de l'open source dans ma vie quotidienne. Il est essentiel de rappeler que mon approche et cet article sont avant tout informatifs. Je ne suis pas ici pour imposer un dogme, mais pour encourager la réflexion et la discussion sur les avantages de l'open source, de la transparence et de la philosophie qui les sous-tendent.
 
-Ce qui vaut le coup, c'est à la fois le voyage et l'arrivée à destination. Mon parcours m'a apporté une compréhension plus profonde de l'open source et de ses avantages. C'est une démarche qui peut être gratifiante, même si elle ne nécessite pas une transformation aussi profonde que la mienne. Appliquer quelques concepts clés de la philosophie open source dans sa vie quotidienne peut être une expérience intéressante. Si vous êtes habitués aux silos, au manque d'information, et à l'approche du "pré carré", faites l'expérience de la transparence. Vous serez surpris de la manière dont vos proches, pairs et collègues peuvent vous le rendre.
+Mon parcours m'a apporté une compréhension plus profonde de l'open source et de ses avantages. C'est une démarche qui peut être gratifiante, même si elle ne nécessite pas une transformation aussi profonde que la mienne. Appliquer quelques concepts clés de la philosophie open source dans sa vie quotidienne peut être une expérience intéressante. Si vous êtes habitués aux silos, au manque d'information, et à l'approche du "pré carré", faites l'expérience de la transparence. Vous serez surpris de la manière dont vos proches, pairs et collègues peuvent vous le rendre.
 
 Il existe de nombreuses façons de s'impliquer dans le monde de l'open source, que ce soit par la QA (assurance qualité), la traduction, le partage d'expériences, le partage de découvertes, les tests, les échecs, les retours d'expérience, la collaboration sur des projets ou l'innovation en solitaire ou en groupe. Ces dernières années, j'ai pris plaisir à contribuer aux projets et aux outils que j'utilise au quotidien. Cela se manifeste par des rapports de bugs, des traductions, ou même par ma participation active à des projets tels qu'"Architect", qui vise à rendre Arch Linux plus convivial pour une expérience de bureau complète.
 
