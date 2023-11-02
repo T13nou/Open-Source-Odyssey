@@ -407,6 +407,8 @@ There are many ways to get involved in the world of open source, whether through
 
 If you're interested in a transformation of this magnitude, keep in mind that the learning curve can be steep at first.  However, with perseverance, it becomes smoother and smoother as you progress.  Today, I continue to learn, but maintaining my open source environment requires little time.  This journey to open source is an invitation to continuous learning, innovation and collaboration.  It’s a journey that can bring both personal and professional benefits, and I encourage you to discover it in your own way.  The open source philosophy is an invaluable resource, and it is within reach of anyone who wishes to embark on this rewarding path.
 
+For my part, in a logic of learning and continuous innovation, the adventure continues and your comments are welcome to help this little world progress 🤟
+
 # VIII.  Questions/Answers <a name="q&a"/>
 
 Do not hesitate to ask me questions in the form of Issues on GitHub or Reddit, I would be happy to answer them and publish our discussions in this article.
