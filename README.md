@@ -130,8 +130,6 @@ Pour la gestion de mes mots de passe, j'ai opté pour l'extension Bitwarden, un 
 
 En ce qui concerne la gestion du filtrage des sites web, des publicités et des malwares, j'ai délégué cette tâche à mon routeur OPNsense. Ce routeur open source est équipé d'un module DNS basé sur des listes de filtrage, similaire à un Pi-Hole. Cette solution me permet de bloquer activement les publicités, les trackers, et les sites web malveillants à un niveau central, protégeant ainsi tous les appareils de mon réseau domestique. Cela renforce non seulement ma vie privée, mais aussi la sécurité de mes activités en ligne.
 
-En somme, l'utilisation d'un navigateur web open source, associée à des outils
-
 ## 📫 Utiliser un Service Mail Soucieux de la Vie Privée
 
 L'un des premiers domaines que j'ai souhaité aborder était celui de la messagerie électronique. Le choix d'un service de messagerie adapté revêt une importance cruciale, car il touche à la confidentialité des communications et à la sécurité des données personnelles.
@@ -156,7 +154,7 @@ Après avoir examiné de nombreuses options, j'ai finalement choisi Soverin.net 
 
 Cette approche de la messagerie électronique s'inscrit dans ma démarche globale de respect de la vie privée et de promotion de l'open source. Elle garantit que mes communications restent confidentielles, sécurisées et sous mon contrôle, tout en évitant les pratiques intrusives et les restrictions souvent associées aux fournisseurs de messagerie traditionnels. Dans le cadre de mon voyage vers une utilisation exclusive d'outils open source, cette décision reflète mon engagement en faveur de la vie privée informatique et de l'hygiène numérique.
 
-Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche. J'ai bien conscience que 
+Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche.
 
 ## 🚧 Maîtriser Mes Données en Hébergeant Mon Propre Serveur NAS - Le Début du HomeLabing
 
@@ -164,7 +162,7 @@ Mon parcours vers une infrastructure entièrement open source m'a également con
 
 J'ai donc entrepris de rechercher des alternatives, en considérant diverses solutions open source. J'ai exploré des options telles que TrueNAS Core, Open Media Vault, et Unraid, chacune avec ses avantages et inconvénients. Après une analyse approfondie, j'ai finalement opté pour TrueNAS Scale, une solution qui s'appuie sur une base Debian que je chéris pour son ouverture et sa stabilité.
 
-TrueNAS Scale m'a séduit avec son environnement de stockage basé sur ZFS. Ce système de fichiers offre de nombreux avantages, notamment la capacité à créer des snapshots, sa robustesse, la déduplication des données, et la compression. Ces fonctionnalités sont essentielles pour garantir l'intégrité de mes données tout en optimisant l'espace de stockage.
+[TrueNAS Scale](https://www.truenas.com/truenas-scale/) m'a séduit avec son environnement de stockage basé sur ZFS. Ce système de fichiers offre de nombreux avantages, notamment la capacité à créer des snapshots, sa robustesse, la déduplication des données, et la compression. Ces fonctionnalités sont essentielles pour garantir l'intégrité de mes données tout en optimisant l'espace de stockage.
 
 L'un des points forts de TrueNAS Scale réside dans son catalogue d'applications, qui offre une variété de services, le tout dans un environnement de conteneurisation. J'ai le choix entre Docker et Kubernetes pour déployer et gérer mes applications. De plus, TrueNAS Scale dispose d'une fonctionnalité d'hyperviseur basée sur KVM, qui reste, à mon avis, une valeur sûre en matière de virtualisation.
 
@@ -173,13 +171,13 @@ Grâce à TrueNAS Scale, mon serveur NAS héberge désormais un ensemble d'appli
 Cependant, j'ai pris la décision de ne pas tout centraliser sur mon serveur NAS. Les services IT critiques, tels que le routeur OPNsense, le reverse proxy HAProxy, la gestion des certificats Let's Encrypt, ainsi que tous les services de sécurisation de mon réseau et de l'accès aux applications, sont installés sur du matériel dédié. Cette approche garantit une gestion efficace de ces éléments cruciaux et renforce la sécurité de mon réseau. Dans les chapitres suivants, je détaillerai davantage la mise en place de ces services essentiels.
 
 Voici la configuration pour laquelle j'ai opté afin d'accomplir mon objectif
-Case : Kolink Satellite
-CPU : Intel 12100T
-Motherboard : Asrock Z690M-ITX/ax
-Ram : 2x 32GB Crucial
-Boot storage (boot-pool) : 2 x 500GB Crucial MX500 SSD
-Main storage (data) : 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
-Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
+- Case : Kolink Satellite
+- CPU : Intel 12100T
+- Motherboard : Asrock Z690M-ITX/ax
+- Ram : 2x 32GB Crucial
+- Boot storage (boot-pool) : 2 x 500GB Crucial MX500 SSD
+- Main storage (data) : 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
+- Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
 
 | Le serveur assemblé  | Les entrailles |
 | ------------- | ------------- |
@@ -196,19 +194,19 @@ Ma première tentative pour remédier à cette situation a été d'utiliser les 
 
 J'ai donc adopté Keepass, un gestionnaire de mots de passe open source. Keepass m'a accompagné pendant des années, offrant une solution sécurisée pour stocker mes mots de passe. J'ai même opté pour un stockage en cloud de ma base de données Keepass, ce qui me permettait d'accéder à mes mots de passe depuis n'importe lequel de mes appareils.
 
-Cependant, au fil du temps, j'ai trouvé que l'approche de Keepass devenait de plus en plus fastidieuse. La gestion des bases de données locales et la synchronisation entre les appareils nécessitaient un effort considérable. C'est à ce moment-là que j'ai sérieusement envisagé Bitwarden, un gestionnaire de mots de passe open source, offrant une solution plus fluide et flexible.
+Cependant, au fil du temps, j'ai trouvé que l'approche de Keepass devenait de plus en plus fastidieuse. La gestion des bases de données locales et la synchronisation entre les appareils nécessitaient un effort considérable. C'est à ce moment-là que j'ai sérieusement envisagé [Bitwarden](https://bitwarden.com/), un gestionnaire de mots de passe open source, offrant une solution plus fluide et flexible.
 
 L'un des avantages clés de Bitwarden est la possibilité d'auto-héberger son propre serveur de mots de passe. Cette option m'a permis de garder le contrôle total de mes données sensibles, sans avoir à faire confiance à des tiers. Les applications Bitwarden sont disponibles pour une multitude de systèmes d'exploitation, de desktop à mobile, ce qui facilite grandement la gestion des mots de passe sur tous mes appareils. De plus, ces applications sont conçues de manière à garantir la sécurité même en cas de perte de connexion, en conservant en cache et cryptant ma base de données de mots de passe.
 
-Le catalogue d'applications de TrueNAS propose également VaultWarden, un équivalent open source de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
+Le catalogue d'applications de TrueNAS propose également [VaultWarden](https://github.com/dani-garcia/vaultwarden), un implémentation alternative de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
 
 ## 📆 Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
 
-Mon parcours professionnel m'a souvent conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
+Mon parcours professionnel m'a conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
 
 Ma curiosité m'a poussé à explorer cette solution, même si dans ses premières versions, NextCloud pouvait être délicate à installer et à maintenir. Mon objectif était clair : reprendre le contrôle de ma liste de contacts, de mon calendrier, et de mes données, en me libérant des écosystèmes fermés tels que Google Drive et Google Docs.
 
-Plusieurs années se sont écoulées depuis mes premiers pas avec NextCloud, et la plateforme a considérablement évolué. Elle offre aujourd'hui diverses méthodes d'installation, ce qui la rend plus accessible pour les utilisateurs résidentiels. Elle est compatible avec de nombreux NAS, qu'ils soient propriétaires ou open source. Pour ma part, j'ai opté pour une installation "All-in-one" sur une machine virtuelle, qui me fournit tous les services dont j'ai besoin.
+Plusieurs années se sont écoulées depuis mes premiers pas avec NextCloud, et la plateforme a considérablement évolué. Elle offre aujourd'hui diverses méthodes d'installation, ce qui la rend plus accessible pour les utilisateurs résidentiels. Elle est compatible avec de nombreux NAS, qu'ils soient propriétaires ou open source. Pour ma part, j'ai opté pour une installation [NextCloud All-in-one](https://github.com/nextcloud/all-in-one) sur une machine virtuelle, qui me fournit tous les services dont j'ai besoin.
 
 Mon NextCloud personnel inclut un client mail, un calendrier compatible CalDAV, une liste de contacts compatible CardDAV, des outils de prise de notes, un tableau Kanban, une fonctionnalité semblable à Doodle, et surtout, un gestionnaire de fichiers. Ce dernier point est essentiel, car il me permet d'accéder à mes informations, que ce soit depuis mon domicile, en déplacement, ou en collaborant avec d'autres personnes.
 
@@ -222,7 +220,7 @@ Le réseau domestique, par défaut, est souvent peu sécurisé et ne propose que
 
 Auto-héberger ses services implique de les rendre disponibles sur Internet, tout en garantissant leur sécurité. C'est à ce moment-là que je me suis lancé à la recherche d'une solution globale pour gérer l'ensemble de ces aspects, y compris le DNS, le DHCP, la sécurité, et la mise en place d'un VPN.
 
-Après avoir testé différents produits, dont des routeurs d'ASUS, Mikrotik, et pfSense, j'ai finalement opté pour OPNsense. OPNsense est une solution open source de routeur/firewall qui propose des packages additionnels pour activer les fonctionnalités dont j'avais besoin. Sa flexibilité et ses capacités de personnalisation m'ont convaincu.
+Après avoir testé différents produits, dont des routeurs d'ASUS, Mikrotik, et pfSense, j'ai finalement opté pour [OPNsense](https://opnsense.org/). OPNsense est une solution open source de routeur/firewall qui propose des packages additionnels pour activer les fonctionnalités dont j'avais besoin. Sa flexibilité et ses capacités de personnalisation m'ont convaincu.
 
 PhasedLogix a une excellente playlist pour prendre en main la solution. Le gars est clair et sait rendre accessible une solution relativement austère 🥇
 [Learn OPNSense Firewall](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
@@ -234,7 +232,7 @@ Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'insta
 | ------------- | ------------- |
 | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_back_1600x1600-600x600.jpg" width="500" height="500"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_angle-1-600x600.jpg" width="500" height="500"> |
 
-L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy, qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
+L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy [HAProxy](https://www.haproxy.com/fr), qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
 
 La gestion des certificats SSL/TLS est essentielle pour garantir la sécurité des connexions. Heureusement, il existe une autorité de certification gratuite, Let's Encrypt, qui permet d'obtenir des certificats SSL/TLS de manière automatisée. OPNsense facilite cette tâche en utilisant le plugin ACME, qui renouvelle automatiquement les certificats, qu'ils soient wildcard ou non, pour tous mes sous-domaines. Ainsi, chaque service, qu'il s'agisse de NextCloud, Bitwarden, Plex, et bien d'autres, est accessible via un sous-domaine sécurisé.
 
@@ -260,6 +258,11 @@ De plus, certains de mes appareils ont été délibérément surdimensionnés po
 Un exemple concret de cette approche est la gestion de mon réseau filaire et Wi-Fi. J'ai délibérément séparé les deux appareils, le routeur et le point d'accès Wi-Fi, car les normes Wi-Fi évoluent rapidement. Ainsi, lorsque la prochaine génération de norme Wi-Fi sera disponible, je n'aurai besoin de remplacer que le point d'accès, préservant ainsi mon routeur et évitant un remplacement inutile de tout l'équipement.
 
 En veillant à l'impact écologique de mon approche d'auto-hébergement, je cherche à concilier les avantages de la maîtrise de mes données et de mes services avec un engagement en faveur de la durabilité et de la réduction de mon empreinte environnementale. Cette démarche s'inscrit dans la philosophie du GreenLabing, qui consiste à allier technologie et respect de la planète pour une informatique plus responsable.
+
+Des ressources intéressantes sur le sujet
+[How to save power in a Homelab? 5 Tips!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
+[Answering Your Power Efficiency Questions! | Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
+
 
 # IV. Systèmes d'Exploitation Open Source
 
