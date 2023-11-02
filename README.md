@@ -52,37 +52,37 @@ Toutes ces influences ont convergé pour me convaincre de faire le saut vers l'o
 
 ## Les avantages de l'open-source
 
-### Liberté et Contrôle
+### 🆓 Liberté et Contrôle
 
 L'un des principaux avantages de l'open source réside dans la liberté et le contrôle qu'il offre aux utilisateurs. Contrairement aux logiciels propriétaires, les logiciels open source permettent aux utilisateurs d'accéder au code source, de le modifier et de l'adapter à leurs besoins spécifiques. Cette flexibilité est précieuse, que vous soyez un utilisateur expérimenté cherchant à personnaliser une solution ou un novice souhaitant comprendre le fonctionnement interne d'une application.
 
 Par ailleurs, la réutilisabilité du code est possible et courante. On emploie le terme de *fork* pour désigner un nouveau logiciel créé à partir du code source d'un logiciel existant.
 
-### Transparence et Sécurité
+### 🔎 Transparence et Sécurité
 
 La transparence est un autre pilier de l'open source. Étant donné que le code source est accessible publiquement, les utilisateurs peuvent inspecter, auditer et vérifier la sécurité des logiciels open source. Cela réduit les risques de failles de sécurité cachées ou de portes dérobées. En outre, la communauté open source est prompte à corriger les vulnérabilités dès leur découverte, ce qui contribue à maintenir un environnement numérique plus sûr.
 
-### Coût Réduit
+### 🤑 Coût
 
 Les logiciels open source sont souvent disponibles gratuitement, ce qui peut considérablement réduire les coûts pour les utilisateurs et les organisations. Vous pouvez utiliser des logiciels puissants sans avoir à payer de licences coûteuses. Cela permet d'accéder à des outils de haute qualité, même avec un budget limité.
 
 C'est un terrain fertile pour des ONG, le secteur de l'éducation ou simplement pour des association qui visent à redonner une seconde jeunesse à du matériel vieillissant. Jetez un oeil aux distributions Linux telles que [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) ou [Edubuntu](https://www.edubuntu.org/).
 
-### Communauté et Support Actif
+### 🦸 Communauté et Support Actif
 
 L'open source favorise une communauté active et collaborative d'utilisateurs et de développeurs. Vous pouvez bénéficier de l'expertise d'une communauté mondiale pour résoudre des problèmes, obtenir des conseils et découvrir de nouvelles fonctionnalités. Des forums, des groupes de discussion et des contributeurs dévoués sont prêts à vous aider.
 
-### Durabilité à Long Terme
+### 🌳 Durabilité à Long Terme
 
 Les logiciels open source sont moins susceptibles de devenir obsolètes ou d'être abandonnés par leur éditeur, car la responsabilité de leur développement repose sur la communauté plutôt que sur une seule entreprise. Cela garantit la pérennité des solutions open source, ce qui est crucial pour les projets à long terme.
 
 En écrivant cet article je me suis posé la question des *fork* et savoir si les projets les plus populaires ou ceux qui ne sont plus maintenus étaient régulièrement dérivés. GitHub maintient son [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) des projets les plus *forkés* et surprise, certains l'ont été plus de 100000 fois. La communauté est active ! ⚙️
 
-### Innovation Continue
+### 💡 Innovation Continue
 
 L'open source encourage l'innovation continue. En permettant à n'importe qui de contribuer et d'améliorer un logiciel, l'open source favorise un cycle d'innovation rapide. De nombreux projets open source sont à l'origine de nouvelles idées et technologies qui ont un impact sur l'ensemble de l'industrie.
 
-### Respect de la Vie Privée
+### 🔒 Respect de la Vie Privée
 
 Avec la montée en puissance des préoccupations liées à la vie privée, l'open source offre un moyen de préserver la confidentialité des données. Vous avez un meilleur contrôle sur ce qui est collecté et partagé, ce qui est essentiel pour protéger vos informations personnelles et sensibles.
 
@@ -91,7 +91,7 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 Je vous invite à aller creuser le sujet avec la chaine de [Rob Braxman](https://www.youtube.com/@robbraxmantech), se définissant lui même comme un *Internet Privacy Evangelist*, soit un évangéliste du respect de la vie privée sur Internet. Sa proposition est assumée comme étant jusqu'au boutiste : il utilise un appareil par cas d'usage (publique, privé), vis sur un bateau et alerte régulièrement sur les dangers de notre environnement technologique. Il s'applique à lui même le principe de vie *off the grid*. A prendre avec des pincettes mais je suis d'accord avec la plupart de ses articles.
 
 
-# III. Mise en Place de l'Infrastructure Open Source
+# III. Mise en Place de l'infrastructure Open Source
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
 
@@ -121,7 +121,7 @@ Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces infor
 
 En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure open source et renforcer ma compréhension des outils et des pratiques qui garantissent ma vie privée et ma sécurité en ligne. Ces premières étapes m'ont aidé à construire une fondation solide pour la suite de mon voyage vers une utilisation exclusive d'outils open source, axée sur la confidentialité, la transparence et l'innovation."
 
-## Utiliser un Navigateur Web Open Source
+## Utiliser un navigateur web open-source
 
 La première étape de mon voyage vers une expérience numérique basée sur l'open source a commencé avec la recherche d'une alternative à Google Chrome. Bien que Chrome soit un navigateur populaire et efficace, j'étais de plus en plus conscient des préoccupations liées à la vie privée et à la collecte de données. J'ai donc entrepris de trouver une solution open source qui pourrait répondre à mes besoins en matière de navigation web.
 
@@ -133,7 +133,7 @@ En ce qui concerne la gestion du filtrage des sites web, des publicités et des 
 
 En somme, l'utilisation d'un navigateur web open source, associée à des outils
 
-## Utiliser un Service Mail Soucieux de la Vie Privée
+## 📫 Utiliser un Service Mail Soucieux de la Vie Privée
 
 L'un des premiers domaines que j'ai souhaité aborder était celui de la messagerie électronique. Le choix d'un service de messagerie adapté revêt une importance cruciale, car il touche à la confidentialité des communications et à la sécurité des données personnelles.
 
@@ -159,7 +159,7 @@ Cette approche de la messagerie électronique s'inscrit dans ma démarche global
 
 Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche. J'ai bien conscience que 
 
-## Maîtriser Mes Données en Hébergeant Mon Propre Serveur NAS - Le Début du HomeLabing
+## 🚧 Maîtriser Mes Données en Hébergeant Mon Propre Serveur NAS - Le Début du HomeLabing
 
 Mon parcours vers une infrastructure entièrement open source m'a également conduit à repenser la manière dont je stocke et gère mes données. Initialement, j'utilisais une solution NAS propriétaire de Synology. Bien que cette option offrait une certaine stabilité, je me suis rapidement rendu compte de ses limites. L'environnement était peu performant, et l'ajout de services supplémentaires était souvent compliqué, voire impossible.
 
@@ -191,7 +191,7 @@ Le dashboard
 
 
 
-## Avoir une Hygiène de Mots de Passe et Héberger Ceux-ci sur Mon Infrastructure
+## 🔑 Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
 
 Comme beaucoup d'entre nous, j'ai jadis utilisé un mot de passe commun pour la plupart des services en ligne auxquels je m'inscrivais. Cette pratique, bien que courante, comporte des risques considérables pour la sécurité en ligne. La prise de conscience de ces dangers m'a incité à chercher des moyens plus sécurisés et efficaces de gérer mes mots de passe.
 
@@ -205,7 +205,7 @@ L'un des avantages clés de Bitwarden est la possibilité d'auto-héberger son p
 
 Le catalogue d'applications de TrueNAS propose également VaultWarden, un équivalent open source de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
 
-## Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
+## 📆 Reprendre le Contrôle de Ma Liste de Contacts et de Mon Calendrier
 
 Mon parcours professionnel m'a souvent conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
 
@@ -219,7 +219,7 @@ NextCloud propose également un client iOS, qui automatise le téléchargement d
 
 De plus, NextCloud est doté d'un traitement de texte, d'un tableur, et d'un outil de présentation intégrés, permettant de travailler simultanément sur un même document, tout en préservant la maîtrise de nos données. L'utilisation de NextCloud est devenue une habitude dans ma famille, chaque membre l'utilisant pour collaborer et accéder à ses fichiers à distance. Cette transition vers une solution open source auto-hébergée a renforcé ma confiance dans la gestion de mes données personnelles, tout en offrant une expérience de collaboration fluide et sécurisée.
 
-## Mettre en Place un Réseau Fiable et Sécurisé
+## 🛂 Mettre en Place un Réseau Fiable et Sécurisé
 
 Le réseau domestique, par défaut, est souvent peu sécurisé et ne propose que peu de fonctionnalités pour faciliter l'auto-hébergement. C'est pourquoi, lorsque j'ai décidé de m'engager dans l'auto-hébergement de mes services, j'ai rapidement compris qu'il fallait gérer tous les aspects liés à la connectivité, à la sécurité, et à la mise à disposition de mes services en ligne.
 
@@ -250,7 +250,7 @@ J'aime beaucoup la manière dont TechnoTim a su très bien vulgariser et expliqu
 [Self-Hosting Security Guide for your HomeLab](https://www.youtube.com/watch?v=Cs8yOmTJNYQ&t=185s)
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png" width="1000" height="516">
 
-## Veiller à l'Impact Écologique via une Approche de GreenLabing
+## 🌳 Veiller à l'impact écologique via une approche de greenLabing
 
 Lorsque l'on s'engage dans l'auto-hébergement de ses services, il est important de considérer l'impact écologique de cette démarche. En effet, la mise en place d'une infrastructure personnelle peut entraîner une consommation électrique et une dépense en matériel informatique, ce qui doit être équilibré avec une approche respectueuse de l'environnement.
 
