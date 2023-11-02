@@ -74,7 +74,7 @@ Transparency is another pillar of open source.  Since the source code is publicl
 
 Open source software is often available for free, which can significantly reduce costs for users and organizations.  You can use powerful software without having to pay for expensive licenses.  This allows access to high-quality tools, even on a limited budget.
 
-It is fertile ground for NGOs, the education sector or simply for associations which aim to give a second lease of life to aging equipment.  Take a look at Linux distributions such as [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) or [Edubuntu](https: //www.edubuntu.org/).
+It is fertile ground for NGOs, the education sector or simply for associations which aim to give a second lease of life to aging equipment.  Take a look at Linux distributions such as [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) or [Edubuntu](https://www.edubuntu.org/).
 
 ### 🦸 Community and Active Support
 
@@ -124,7 +124,7 @@ However, to consolidate my first steps, I sought to cross-check this information
 |  Wolfgang's Channel [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYVoDrnSDACycgSJNnTkac6M6HROYVgJIfxAu6-ug=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@WolfgangsChannel ) |  Wolfgang delves into the technical aspects of homelabing, providing detailed information on using open source tools.  |
 |  Christian Lempa [![Watch the video](https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@christ ianlempa ) |  Christian Lempa's channel focuses on self-hosted IT infrastructures, exploring open source solutions to improve personal digital lives.  |
 |  Adrien Linuxtricks [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYE_aERPU37zbKhTQUpPLeX6wpntPDj-ftpJN6uww=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@AdrienLinuxtricks ) |  AdrienLinuxtricks is a YouTube channel focused on Linux and open source software.  You'll find tutorials, tips, reviews of Linux distributions, and guides to maximize your experience with open source technologies.  This channel is ideal for Linux enthusiasts, whether beginners or experienced users, looking to explore and master the world of open source.  |
-|  Chris Titus Tech [![Watch the video](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitus Tech) |  ChrisTitusTech is a YouTube channel that covers a wide range of technology topics, from computing and software to productivity tips and hardware reviews.  Host Chris shares his expertise in an accessible way, offering practical guides and recommendations.  This channel is suitable for everyone who is interested in technology and looking for advice and information on various IT topics.  |
+|  Chris Titus Tech [![Watch the video](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitusTech) |  ChrisTitusTech is a YouTube channel that covers a wide range of technology topics, from computing and software to productivity tips and hardware reviews.  Host Chris shares his expertise in an accessible way, offering practical guides and recommendations.  This channel is suitable for everyone who is interested in technology and looking for advice and information on various IT topics.  |
 
 By drawing on these resources, I was able to lay the foundation for my open source infrastructure and strengthen my understanding of the tools and practices that ensure my privacy and security online.  These first steps helped me build a solid foundation for the rest of my journey towards exclusively using open source tools, focused on privacy, transparency and innovation."
 
@@ -234,7 +234,7 @@ PhasedLogix has an excellent playlist to get started with the solution.  The guy
 [Learn OPNSense Firewall](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" width="1000" height="408">
 
-To ensure the reliability and security of my network, I chose to install OPNsense on bare metal hardware, meaning the software runs directly on dedicated hardware rather than in a virtual machine.  This decision was crucial, because the router/firewall plays an essential role in the security of my network.  Among the available options, I opted for hardware from the [ProtectLI](https://eu.protectli.com/) brand, which offers quality products with an open source BIOS, [CoreBoot](https:/ /www.coreboot.org/), in line with my open source philosophy.
+To ensure the reliability and security of my network, I chose to install OPNsense on bare metal hardware, meaning the software runs directly on dedicated hardware rather than in a virtual machine. This decision was crucial, because the router/firewall plays an essential role in the security of my network. Among the available options, I opted for hardware from the [ProtectLI](https://eu.protectli.com/) brand, which offers quality products with an open source BIOS, [CoreBoot](https://www.coreboot.org/), in line with my open source philosophy.
 
 |  The front view |  The back view |
 |  ------------- |  ------------- |
@@ -255,28 +255,28 @@ I really like the way in which TechnoTim was able to popularize and explain secu
 
 ## 🌳 Ensuring ecological impact via a greenLabing approach
 
-When committing to self-hosting your services, it is important to consider the ecological impact of this approach.  Indeed, the establishment of a personal infrastructure can lead to electricity consumption and expenditure on IT equipment, which must be balanced with an environmentally friendly approach.
+When committing to self-hosting your services, it is important to consider the ecological impact of this approach. Indeed, the establishment of a personal infrastructure can lead to electricity consumption and expenditure on IT equipment, which must be balanced with an environmentally friendly approach.
 
-With this in mind, I designed my self-hosting approach with energy efficiency and sustainability in mind.  Each of the devices I use was chosen for its low power consumption and longevity.  By combining these two factors, I was able to reduce the environmental impact of my infrastructure as much as possible.
+With this in mind, I designed my self-hosting approach with energy efficiency and sustainability in mind. Each of the devices I use was chosen for its low power consumption and longevity.  By combining these two factors, I was able to reduce the environmental impact of my infrastructure as much as possible.
 
-All of my devices, three in number, consume a total of only 60 watts, the equivalent of what an older generation bulb would consume.  This low consumption is the result of careful selection of equipment and its sizing to guarantee optimal performance while limiting energy expenditure.
+All of my devices, three in number, consume a total of only 60 watts, the equivalent of what an older generation bulb would consume. This low consumption is the result of careful selection of equipment and its sizing to guarantee optimal performance while limiting energy expenditure.
 
-Additionally, some of my devices have been deliberately oversized to extend their lifespan and ensure compatibility with future technologies.  This technology-agnostic approach avoids frequent device replacements, thereby reducing the amount of electronic waste.
+Additionally, some of my devices have been deliberately oversized to extend their lifespan and ensure compatibility with future technologies. This technology-agnostic approach avoids frequent device replacements, thereby reducing the amount of electronic waste.
 
-A real-world example of this approach is managing my wired and Wi-Fi network. I have deliberately separated the two devices, the router and the Wi-Fi access point, because Wi-Fi standards are evolving rapidly.  So when the next generation of Wi-Fi standard becomes available, I will only need to replace the access point, thereby preserving my router and avoiding unnecessary replacement of all equipment.
+A real-world example of this approach is managing my wired and Wi-Fi network. I have deliberately separated the two devices, the router and the Wi-Fi access point, because Wi-Fi standards are evolving rapidly. So when the next generation of Wi-Fi standard becomes available, I will only need to replace the access point, thereby preserving my router and avoiding unnecessary replacement of all equipment.
 
-By ensuring the ecological impact of my self-hosting approach, I seek to reconcile the benefits of controlling my data and services with a commitment to sustainability and reducing my environmental footprint.  This approach is part of the GreenLabing philosophy, which consists of combining technology and respect for the planet for more responsible IT.
+By ensuring the ecological impact of my self-hosting approach, I seek to reconcile the benefits of controlling my data and services with a commitment to sustainability and reducing my environmental footprint. This approach is part of the GreenLabing philosophy, which consists of combining technology and respect for the planet for more responsible IT.
 
 Interesting resources on the subject
 [How to save power in a Homelab?  5 Tips!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
 [Answering Your Power Efficiency Questions!  |  Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
 
 
-# IV.  Open Source Operating Systems <a name="os"/>
+# IV. Open Source Operating Systems <a name="os"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
-One of the biggest milestones in my journey to exclusively using open source tools was my move to an open source operating system for my workstation.  This change happened thanks to a click, a revelation that came in the form of a gaming device: the [Steam Deck](https://www.steamdeck.com/fr), a portable gaming console based on Arch Linux.
+One of the biggest milestones in my journey to exclusively using open source tools was my move to an open source operating system for my workstation. This change happened thanks to a click, a revelation that came in the form of a gaming device: the [Steam Deck](https://www.steamdeck.com/fr), a portable gaming console based on Arch Linux.
 
 As a video game enthusiast, I was impressed by the commitment of the company [Valve](https://fr.wikipedia.org/wiki/Valve_(company)) to make an impressive number of games compatible, originally intended for Windows, with Linux.  This bold move caught my attention and aroused my curiosity.
 
@@ -284,14 +284,14 @@ This is how I felt the desire to learn more about this operating system, to dive
 
 What struck me most about this experience was the open-mindedness, the willingness to share and the dedication of the open source community to helping as many people as possible make this transition.  I quickly realized that the open source philosophy was ingrained in the DNA of this community.  Everyone was ready to share their knowledge, solve problems and make Linux accessible to everyone.
 
-After testing different Linux distributions, including Debian, Fedora and OpenSUSE, I finally found my sweet spot with [Arch Linux](https://archlinux.org/).  This open source operating system matched my needs 100%.  It offered me the flexibility and customization I needed to tailor my work environment to my preferences.
+After testing different Linux distributions, including Debian, Fedora and OpenSUSE, I finally found my sweet spot with [Arch Linux](https://archlinux.org/). This open source operating system matched my needs 100%. It offered me the flexibility and customization I needed to tailor my work environment to my preferences.
 
 * You want an overview of existing distributions, the reference remains [DistroWatch](https://distrowatch.com/)!
 * You want to try the distributions without installing them (or even booting from a Live ISO) [DistroSea](https://distrosea.com/) will allow you to test in a VM within your browser :)
 
-With Arch Linux, I was able to work efficiently using only open source applications, while retaining some [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) of the Microsoft applications that were essential.  This transition showed me that open source was not only a viable option, but could also meet any need, whether it was productivity, entertainment, or any other aspect of digital life.
+With Arch Linux, I was able to work efficiently using only open source applications, while retaining some [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) of the Microsoft applications that were essential. This transition showed me that open source was not only a viable option, but could also meet any need, whether it was productivity, entertainment, or any other aspect of digital life.
 
-My adventure with Arch Linux has reinforced my belief that open source is much more than an alternative to proprietary software.  It is an open, collaborative and dedicated community, ready to support users in their exploration of a freer and more transparent digital future.
+My adventure with Arch Linux has reinforced my belief that open source is much more than an alternative to proprietary software. It is an open, collaborative and dedicated community, ready to support users in their exploration of a freer and more transparent digital future.
 
 I attended with great interest the [Interview with an Arch Linux packager](https://www.youtube.com/watch?v=qXvzGRm9iFs) where I was able to get a more precise idea of ​​the care taken by the community to deliver a satisfactory experience to its users and minimizing instabilities and other bugs.
 
@@ -311,26 +311,26 @@ One of the most inspiring aspects of my journey to exclusively using open source
 
 The Foundations of Open Collaboration
 
-Open collaboration is a philosophy based on sharing, cooperation and openness.  It promotes collaboration between individuals and groups in a transparent, free and often decentralized manner.  This approach has profound implications, not only in the open source world, but also in the professional world.
+Open collaboration is a philosophy based on sharing, cooperation and openness. It promotes collaboration between individuals and groups in a transparent, free and often decentralized manner. This approach has profound implications, not only in the open source world, but also in the professional world.
 
 ## Decentralized collaboration and the richness of multicultural perspectives
 
-One of the most exciting aspects of open collaboration is the opportunity to work with people from diverse countries, cultures and languages.  As a follower of this philosophy, I have had the opportunity to collaborate with individuals from all over the world, using languages ​​I am fluent in such as French, English and Spanish.  This cultural diversity brings an infinite wealth of points of view, experiences and expertise.  It reinforces the idea that innovation is born from diversity.
+One of the most exciting aspects of open collaboration is the opportunity to work with people from diverse countries, cultures and languages.  As a follower of this philosophy, I have had the opportunity to collaborate with individuals from all over the world, using languages ​​I am fluent in such as French, English and Spanish. This cultural diversity brings an infinite wealth of points of view, experiences and expertise.  It reinforces the idea that innovation is born from diversity.
 
-“Collaboration is an opportunity to discover new perspectives, to push the limits of creativity and to enrich our ideas thanks to the diversity of contributors.  » - [Quote from Linus Torvalds, creator of Linux]
+“Collaboration is an opportunity to discover new perspectives, to push the limits of creativity and to enrich our ideas thanks to the diversity of contributors. » - [Quote from Linus Torvalds, creator of Linux]
 
 ## The power of asynchronous collaboration
 
 One of the key strengths of open collaboration is the flexibility it offers through asynchronous working.  Working with individuals spread across different time zones means that collaboration can continue 24 hours a day. Contributions can be made based on each person's availability, creating a continuous working dynamic.  This allows you to take full advantage of available talent, regardless of geographic location.
 
-Some training courses exist and are very enriching.  I followed them and try to integrate the key concepts into my daily life.
-- Limit the use of emails and encourage the use of a single repository for writing, documenting and interacting.  It is a “single source of truth” which facilitates information, onboarding and avoids dispersion.
-- Use persistent chats so that whatever the geographical area of ​​an individual, they can learn about exchanges during their working hours.  Many tools exist: Discord, Teams, Slack, NextCloud Chat.
+Some training courses exist and are very enriching. I followed them and try to integrate the key concepts into my daily life.
+- Limit the use of emails and encourage the use of a single repository for writing, documenting and interacting. It is a “single source of truth” which facilitates information, onboarding and avoids dispersion.
+- Use persistent chats so that whatever the geographical area of ​​an individual, they can learn about exchanges during their working hours. Many tools exist: Discord, Teams, Slack, NextCloud Chat.
 - Develop your relationships remotely: virtual cafés, cross-country projects, peer reviews between geographic areas, all these solutions form a solid basis for asynchronous collaboration.
 
-I cannot recommend GitLab's work on the subject highly enough.  Gitlab has thoroughly developed its All-Remote strategy and, as they apply their principles well, everything is documented on "GitLab's Guide to All-Remote"
+I cannot recommend GitLab's work on the subject highly enough. Gitlab has thoroughly developed its All-Remote strategy and, as they apply their principles well, everything is documented on "GitLab's Guide to All-Remote"
 
-The training provided by GitLab is excellent.  This requires practice and returning to it regularly to refocus on its application.
+The training provided by GitLab is excellent. This requires practice and returning to it regularly to refocus on its application.
 
 |  Training |  Content |
 |  ------------- |  ------------- |
@@ -339,15 +339,13 @@ The training provided by GitLab is excellent.  This requires practice and return
 
 ## Free software in the professional world
 
-My experience in the open source world has also led me to apply these principles in my professional work.  I developed an open source framework within my company, which is accessible to all employees.  Knowledge sharing, comprehensive documentation and open access to information are key elements of this approach.  This promotes transparency, innovation and collaboration, while removing barriers to communication within the company.
-
-“Open source within companies helps create an innovation ecosystem where each individual can contribute to the improvement of processes and the growth of the company.  » - [Quote from Eric S. Raymond, open source thinker]
+My experience in the open source world has also led me to apply these principles in my professional work. I developed an open source framework within my company, which is accessible to all employees. Knowledge sharing, comprehensive documentation and open access to information are key elements of this approach.  This promotes transparency, innovation and collaboration, while removing barriers to communication within the company.
 
 ## The example of Arch Linux: a strong community
 
 My transition to Arch Linux allowed me to fully experience the power of the open source community.  Arch Linux is not only a Linux distribution, but also an active and dedicated community.  Users and developers collaborate to maintain a robust and flexible operating system.
 
-“Open source is not just about sharing code, but about sharing knowledge, skills and building lasting relationships in a strong community.  » - [Quote from Linus Torvalds]
+“Open source is not just about sharing code, but about sharing knowledge, skills and building lasting relationships in a strong community. » - [Quote from Linus Torvalds]
 
 Benefits of Open Collaboration and the Power of Community
 
@@ -361,7 +359,7 @@ Open collaboration and the strength of the community open the door to multiple a
 
 Interaction with the open source community is an essential component of my approach.  What makes this interaction even more enriching is that it is bi-directional.  Indeed, just as the open source community provides me with exceptional tools and solutions, I strive to contribute to this same community, to the extent of my skills and means, in order to give back.
 
-The ways to participate in the free software community are varied, and everyone can find their own way to contribute.  Contributions can take many forms:
+The ways to participate in the free software community are varied, and everyone can find their own way to contribute. Contributions can take many forms:
 - Bug reporting
 - Suggestions for improvements or new features
 - Code writing
@@ -371,45 +369,45 @@ The ways to participate in the free software community are varied, and everyone 
 - Pedagogy (Videos, Articles, participation in associations)
 - Support via forums, reddit, discord channels
 
-Personally, I actively engage in several open source projects, depending on my skills and interests.  My contributions include reporting bugs and proposing improvements for solutions such as OPNsense and NextCloud.  I also contributed by creating YAML descriptors for TrueNAS, doing translations for Arch Linux and Cardiac's [Architect](https://github.com/Cardiacman13/Architect) project, as well as working on the implementation in good shape to develop the Architect project, which aims to simplify the use of Arch Linux for desktop users.
+Personally, I actively engage in several open source projects, depending on my skills and interests. My contributions include reporting bugs and proposing improvements for solutions such as OPNsense and NextCloud.  I also contributed by creating YAML descriptors for TrueNAS, doing translations for Arch Linux and Cardiac's [Architect](https://github.com/Cardiacman13/Architect) project, as well as working on the implementation in good shape to develop the Architect project, which aims to simplify the use of Arch Linux for desktop users.
 
-During the year 2023, I have modestly made around 200 contributions to these different open source projects.  My involvement in the free software community is a way of thanking and supporting the developers and contributors who have enabled the creation of the tools I rely on every day.  It is also a way of participating in the continuous improvement of this software and of giving back to the community what it has offered me in terms of freedom, transparency, and reliability.
+During the year 2023, I have modestly made around 200 contributions to these different open source projects. My involvement in the free software community is a way of thanking and supporting the developers and contributors who have enabled the creation of the tools I rely on every day.  It is also a way of participating in the continuous improvement of this software and of giving back to the community what it has offered me in terms of freedom, transparency, and reliability.
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-# VI.  Let's spread the message!  <a name="message"/>
+# VI. Let's spread the message!  <a name="message"/>
 
-My commitment to open source is not limited to personal or professional use, it goes well beyond.  This is a deep conviction that I hold with passion, and one of my missions is to inform, share and educate around the benefits of open source and the philosophy that accompanies it.
+My commitment to open source is not limited to personal or professional use, it goes well beyond. This is a deep conviction that I hold with passion, and one of my missions is to inform, share and educate around the benefits of open source and the philosophy that accompanies it.
 
 ## 📖 Information instead of conversion 
-It is essential to clarify that my objective is not to convert, but above all to inform.  I believe that open source is an approach that deserves to be better understood and appreciated.  That's why I strive to share information, explain the benefits, and shed light on the philosophy behind this approach.  I want everyone to be able to make informed decisions when it comes to technology.
+It is essential to clarify that my objective is not to convert, but above all to inform. I believe that open source is an approach that deserves to be better understood and appreciated.  That's why I strive to share information, explain the benefits, and shed light on the philosophy behind this approach.  I want everyone to be able to make informed decisions when it comes to technology.
 
 ## 🐧 The Open Source Community 
-The open source community is one of the jewels of this approach.  It is made up of passionate, curious and welcoming people, ready to share their knowledge and welcome new people every day.  This vibrant community is an invaluable source of knowledge and inspiration.  It embodies the values ​​of open source, such as collaboration, transparency and generosity.
+The open source community is one of the jewels of this approach. It is made up of passionate, curious and welcoming people, ready to share their knowledge and welcome new people every day.  This vibrant community is an invaluable source of knowledge and inspiration.  It embodies the values ​​of open source, such as collaboration, transparency and generosity.
 
 ## 🧠 More than a question of tools 
-Open source is not only a question of technical or technological tools, it is also a question of state of mind.  This encompasses transparency, a taste for transmission and sharing of knowledge.  I believe that open source is an invitation to continuous learning, collaborative creation and constant improvement.
+Open source is not only a question of technical or technological tools, it is also a question of state of mind. This encompasses transparency, a taste for transmission and sharing of knowledge. I believe that open source is an invitation to continuous learning, collaborative creation and constant improvement.
 
 ## 👨‍👨‍👧‍👦 Education for kids 
-One of my priorities is to inform young people about the dark side of social networks and to make them aware of the importance of being careful online.  I strive to transmit values ​​of vigilance, not to expose oneself too much on the Internet and not to share anything too important.  These fundamental lessons are essential to protecting privacy and digital security.  My own children are the primary beneficiaries, and it's gratifying to see them understand the importance of these messages in their own way, like the simple "It's cool Linux" uttered by my oldest.
+One of my priorities is to inform young people about the dark side of social networks and to make them aware of the importance of being careful online. I strive to transmit values ​​of vigilance, not to expose oneself too much on the Internet and not to share anything too important. These fundamental lessons are essential to protecting privacy and digital security. My own children are the primary beneficiaries, and it's gratifying to see them understand the importance of these messages in their own way, like the simple "It's cool Linux" uttered by my oldest.
 
-LinkedIn as a Vector of Communication: LinkedIn, the professional platform, also plays a key role in my approach to evangelizing open source.  It's a space where I can interact with enthusiasts, remembrancers and Linuxians from all walks of life.  I observe with satisfaction the growth of this community day after day.  It is an ideal vector for communicating and informing.  I am aware that my job requires a certain reserve, but I believe that curiosity has never hurt anyone.  Sharing knowledge and encouraging constructive discussions about open source helps broaden horizons and promote more informed use of technology.
+LinkedIn as a Vector of Communication: LinkedIn, the professional platform, also plays a key role in my approach to evangelizing open source. It's a space where I can interact with enthusiasts, remembrancers and Linuxians from all walks of life. I observe with satisfaction the growth of this community day after day. It is an ideal vector for communicating and informing. I am aware that my job requires a certain reserve, but I believe that curiosity has never hurt anyone. Sharing knowledge and encouraging constructive discussions about open source helps broaden horizons and promote more informed use of technology.
 
-Ultimately, open source evangelism is a mission close to my heart.  It is a way of contributing to the dissemination of essential values ​​such as freedom, transparency and collaboration, and of ensuring that open source finds its place in a constantly evolving digital world.
+Ultimately, open source evangelism is a mission close to my heart. It is a way of contributing to the dissemination of essential values ​​such as freedom, transparency and collaboration, and of ensuring that open source finds its place in a constantly evolving digital world.
 
-# VII.  This is not a conclusion <a name="continue"/>
+# VII. This is not a conclusion <a name="continue"/>
 
-This article was an opportunity to share my journey towards exclusively using open source tools and taking a deep approach to open source in my daily life.  It is essential to remember that my approach and this article are above all informative.  I'm not here to impose dogma, but to encourage thought and discussion about the benefits of open source, transparency, and the philosophy behind them.
+This article was an opportunity to share my journey towards exclusively using open source tools and taking a deep approach to open source in my daily life. It is essential to remember that my approach and this article are above all informative. I'm not here to impose dogma, but to encourage thought and discussion about the benefits of open source, transparency, and the philosophy behind them.
 
-My journey has given me a deeper understanding of open source and its benefits.  It’s a process that can be rewarding, even if it doesn’t require as profound a transformation as mine.  Applying some key concepts of open source philosophy in your daily life can be an interesting experience.  If you're used to silos, lack of information, and a "one-size-fits-all" approach, experience transparency.  You will be surprised how your loved ones, peers and colleagues can return it to you.
+My journey has given me a deeper understanding of open source and its benefits. It’s a process that can be rewarding, even if it doesn’t require as profound a transformation as mine. Applying some key concepts of open source philosophy in your daily life can be an interesting experience. If you're used to silos, lack of information, and a "one-size-fits-all" approach, experience transparency.  You will be surprised how your loved ones, peers and colleagues can return it to you.
 
-There are many ways to get involved in the world of open source, whether through QA (quality assurance), translation, sharing experiences, sharing discoveries, testing, failures, feedback, collaboration on projects or innovation alone or in a group.  In recent years, I have enjoyed contributing to the projects and tools I use on a daily basis.  This manifests itself through bug reports, translations, or even my active participation in projects such as "Architect", which aims to make Arch Linux more user-friendly for a full desktop experience.
+There are many ways to get involved in the world of open source, whether through QA (quality assurance), translation, sharing experiences, sharing discoveries, testing, failures, feedback, collaboration on projects or innovation alone or in a group. In recent years, I have enjoyed contributing to the projects and tools I use on a daily basis. This manifests itself through bug reports, translations, or even my active participation in projects such as "Architect", which aims to make Arch Linux more user-friendly for a full desktop experience.
 
-If you're interested in a transformation of this magnitude, keep in mind that the learning curve can be steep at first.  However, with perseverance, it becomes smoother and smoother as you progress.  Today, I continue to learn, but maintaining my open source environment requires little time.  This journey to open source is an invitation to continuous learning, innovation and collaboration.  It’s a journey that can bring both personal and professional benefits, and I encourage you to discover it in your own way.  The open source philosophy is an invaluable resource, and it is within reach of anyone who wishes to embark on this rewarding path.
+If you're interested in a transformation of this magnitude, keep in mind that the learning curve can be steep at first. However, with perseverance, it becomes smoother and smoother as you progress. Today, I continue to learn, but maintaining my open source environment requires little time.  This journey to open source is an invitation to continuous learning, innovation and collaboration. It’s a journey that can bring both personal and professional benefits, and I encourage you to discover it in your own way. The open source philosophy is an invaluable resource, and it is within reach of anyone who wishes to embark on this rewarding path.
 
 For my part, in a logic of learning and continuous innovation, the adventure continues and your comments are welcome to help this little world progress 🤟
 
-# VIII.  Questions/Answers <a name="q&a"/>
+# VIII. Questions/Answers <a name="q&a"/>
 
 Do not hesitate to ask me questions in the form of Issues on GitHub or Reddit, I would be happy to answer them and publish our discussions in this article.
 
