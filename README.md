@@ -331,7 +331,7 @@ Quelques formations existent et sont très enrichissantes. Je les ai suivi et es
 - Utiliser des chats persistants pour que quelque soit la zone géographique d'un individu, il puisse prendre connaissance des échanges durant ses heures de travail. De nombreux outils existent : Discord, Teams, Slack, NextCloud Chat.
 - Développer son relationel à distance : les cafés virtuels, les projets cross-countries, les peer reviews entre zone géographiques, toutes ces solutions forment une base solide à la collaboration asynchrone.
 
-Je ne saurais que trop conseiller le travail de GitLab sur le sujet. Gitlab a développé à fond sa stratégie All-Remote et, comme ils appliquent bien leurs principes, tout est documenté sur le "GitLab's Guide to All-Remote"
+Je ne saurais que trop conseiller le travail de GitLab sur le sujet. Gitlab a développé à fond sa stratégie All-Remote et, comme ils appliquent bien leurs principes, tout est documenté sur le ["*GitLab's Guide to All-Remote*https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/)
 
 Les formations dispensées par GitLab sont excellentes. Cela demande de la mise en pratique et d'y revenir régulièrement pour se recentrer sur son application
 
