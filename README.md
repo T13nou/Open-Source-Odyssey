@@ -286,6 +286,7 @@ J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Desktop.png" width="1000" height="562">
 
+
 ## Performances de Jeu au Top
 
 | CyberPunk 2077  | CS:GO | Forza Horizon 5 |
