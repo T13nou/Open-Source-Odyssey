@@ -44,6 +44,44 @@ Today, I apply these principles of openness and collaboration in my personal and
 
 # II.  Why Open Source?  <a name="why"/>
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" width="1000" height="250">
+
+When I began my journey to exclusively using open source tools, I was influenced by several key factors that shaped my perspective on digital life.  These influences have reinforced my belief that open source is the way forward for a more secure, transparent and ethical digital future.
+
+One of my first major influences was the article by Larry Sanger, the co-founder of Wikipedia, entitled ["*The Challenges of Locking Down My Cyber ​​Life*"](https://larrysanger.org/2019/ 07/the-challenges-of-locking-down-my-cyber-life/), published in 2019. In this article, Sanger shares his thoughts on privacy and security issues. digital hygiene.  It highlights the threats to our personal data and the need to take steps to protect it.  This reflection was a major catalyst for me, prompting me to reconsider how I managed my own digital life.
+
+Another crucial influence has been the growing awareness of the monetization of digital services by tech giants (GAFAM – Google, Apple, Facebook, Amazon, Microsoft).  Many companies make money by exploiting our personal data, which raises major privacy concerns.  Privacy experts and advocates, such as Shoshana Zuboff, in her book ["*The Age of Surveillance Capitalism*"](https://www.zulma.fr/livre/lage-du-capitalisme-de-surveillance -3/) explored these issues in depth (book that I highly recommend!).  Their work demonstrates the importance of protecting our data and seeking ethical alternatives.
+
+One aspect that strengthened my resolve to adopt open source solutions was the concern for the privacy of my family, including my children.  I do not want to see them exposed on the Internet, whether voluntarily or involuntarily.  The potential impact on the lives of our loved ones is a powerful driver for adopting a more secure and respectful approach to privacy.
+
+Finally, as an engineer, my faith in the future of technology lies in open source.  I deeply believe that open source offers a path to a brighter digital future.  It enables massive collaboration and transparency, two essential pillars of innovation and technological progress.
+
+All of these influences converged to convince me to make the leap to open source, emphasize privacy, and promote a more ethical digital approach.  By embracing open source, I believe we can create a more secure, transparent and collaborative digital world for everyone.
+
+## The advantages of open-source
+
+### 🆓 Freedom and Control
+
+One of the biggest benefits of open source is the freedom and control it offers users.  Unlike proprietary software, open source software allows users to access the source code, modify it, and adapt it to their specific needs.  This flexibility is valuable whether you are an experienced user looking to customize a solution or a novice wanting to understand the inner workings of an application.
+
+Furthermore, code reusability is possible and common.  We use the term *fork* to designate new software created from the source code of existing software.
+
+### 🔎 Transparency and Security
+
+Transparency is another pillar of open source.  Since the source code is publicly available, users can inspect, audit, and verify the security of open source software.  This reduces the risk of hidden security vulnerabilities or backdoors.  Additionally, the open source community is quick to patch vulnerabilities as soon as they are discovered, helping to maintain a more secure digital environment.
+
+### 🤑 Cost
+
+Open source software is often available for free, which can significantly reduce costs for users and organizations.  You can use powerful software without having to pay for expensive licenses.  This allows access to high-quality tools, even on a limited budget.
+
+It is fertile ground for NGOs, the education sector or simply for associations which aim to give a second lease of life to aging equipment.  Take a look at Linux distributions such as [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) or [Edubuntu](https: //www.edubuntu.org/).
+
+### 🦸 Community and Active Support
+
+Open source fosters an active and collaborative community of users and developers.  You can benefit from the expertise of a global community to solve problems, get tips, and discover new features.  Forums, newsgroups, and dedicated contributors are ready to help.
+
+### 🌳 Long-Term Sustainability
+
 Open source software is less likely to become obsolete or abandoned by its publisher because the responsibility for its development rests with the community rather than a single company.  This ensures the sustainability of open source solutions, which is crucial for long-term projects.
 
 While writing this article I asked myself the question of *forks* and whether the most popular projects or those which are no longer maintained were regularly forked.  GitHub maintains its [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) of the most *forked* projects and surprise, some do have been more than 100,000 times.  The community is active!  ⚙️
@@ -58,7 +96,7 @@ With privacy concerns on the rise, open source offers a way to keep data confide
 
 These cumulative benefits illustrate why open source has become much more than just an alternative to proprietary software.  It embodies a philosophy of collaboration, transparency and respect for individual freedom, while offering powerful and sustainable technological solutions.  My journey to open source has convinced me that these benefits are essential to shaping a more promising digital future.
 
-I invite you to explore the subject with the channel of [Rob Braxman](https://www.youtube.com/@robbraxmantech), defining himself as an *Internet Privacy Evangelist*, an evangelist for respect for privacy. privacy on the Internet.  His proposal is assumed to be extreme: he uses one device per use case (public, private), lives on a boat and regularly warns of the dangers of our technological environment.  He applies the *off the grid* principle of life to himself.  To be taken with a grain of salt but I agree with most of his articles.
+I invite you to explore the subject with the channel of [Rob Braxman](https://www.youtube.com/@robbraxmantech), defining himself as an *Internet Privacy Evangelist*, an evangelist for respect for privacy. privacy on the Internet. His proposal is assumed to be extreme: he uses one device per use case (public, private), lives on a boat and regularly warns of the dangers of our technological environment.  He applies the *off the grid* principle of life to himself.  To be taken with a grain of salt but I agree with most of his articles.
 
 # III.  Setting up the Open Source infrastructure <a name="infra"/>
 
