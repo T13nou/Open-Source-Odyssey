@@ -90,7 +90,6 @@ Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus 
 
 Je vous invite à aller creuser le sujet avec la chaine de [Rob Braxman](https://www.youtube.com/@robbraxmantech), se définissant lui même comme un *Internet Privacy Evangelist*, soit un évangéliste du respect de la vie privée sur Internet. Sa proposition est assumée comme étant jusqu'au boutiste : il utilise un appareil par cas d'usage (publique, privé), vis sur un bateau et alerte régulièrement sur les dangers de notre environnement technologique. Il s'applique à lui même le principe de vie *off the grid*. A prendre avec des pincettes mais je suis d'accord avec la plupart de ses articles.
 
-
 # III. Mise en Place de l'infrastructure Open Source
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
@@ -99,7 +98,7 @@ La création d'une infrastructure entièrement open source a été marqué par l
 
 Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces informations avec d'autres sources de confiance, afin de bâtir une base solide pour mon infrastructure open source. Parmi les ressources qui ont guidé mes choix, voici quelques-unes des plus influentes :
 
-## Sites de références pour le homelabing et outils orientés "Privacy"
+## 🥼 Sites de références pour le homelabing et outils orientés "Privacy"
 
 | Canal  | Contenu |
 | ------------- | ------------- |
@@ -108,7 +107,7 @@ Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces infor
 | servethehome.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/STH-Logo-180px.png" width="140" height="140"> | ServeTheHome est le guide des professionnels de l'informatique en matière de serveurs, de stockage, de réseaux et de matériel de station de travail haut de gamme, ainsi que d'excellents projets open source. |
 | homenetworkguy.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/m53vjCup_400x400-2937981742.jpg" width="140" height="140"> | Le site web vise à fournir une ressource conviviale avec des conseils, des astuces de dépannage et des expériences partagées pour aider les autres à construire leurs propres réseaux domestiques avancés.  |
 
-## Chaînes dédiées au Homelabing sur YouTube :
+## 📹 Chaînes dédiées au Homelabing sur YouTube :
 
 | Canal  | Contenu |
 | ------------- | ------------- |
@@ -188,8 +187,6 @@ Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
 
 Le dashboard
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165300.png" width="1000" height="390">
-
-
 
 ## 🔑 Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
 
