@@ -20,9 +20,11 @@ Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir un
 
 Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
 
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png" width="90" height="90">
+| Mon profil ...  | ... en bref |
+| --- | --- |
+| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png"> | Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective |
 
-Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective à travers diverses initiatives. Ingénieur Électronicien/Informaticien : Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
+Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
 
 Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
 
