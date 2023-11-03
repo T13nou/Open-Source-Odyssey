@@ -377,6 +377,8 @@ During the year 2023, I have modestly made around 200 contributions to these dif
 
 # VI. Let's spread the message!  <a name="message"/>
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/megaphone.png" width="1000" height="250">
+
 My commitment to open source is not limited to personal or professional use, it goes well beyond. This is a deep conviction that I hold with passion, and one of my missions is to inform, share and educate around the benefits of open source and the philosophy that accompanies it.
 
 ## 📖 Information instead of conversion 
@@ -396,6 +398,8 @@ LinkedIn as a Vector of Communication: LinkedIn, the professional platform, also
 Ultimately, open source evangelism is a mission close to my heart. It is a way of contributing to the dissemination of essential values ​​such as freedom, transparency and collaboration, and of ensuring that open source finds its place in a constantly evolving digital world.
 
 # VII. This is not a conclusion <a name="continue"/>
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/road.png" width="1000" height="250">
 
 This article was an opportunity to share my journey towards exclusively using open source tools and taking a deep approach to open source in my daily life. It is essential to remember that my approach and this article are above all informative. I'm not here to impose dogma, but to encourage thought and discussion about the benefits of open source, transparency, and the philosophy behind them.
 
