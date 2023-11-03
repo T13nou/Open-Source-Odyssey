@@ -383,6 +383,8 @@ Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions 
 
 # VII. Passons le message ! <a name="message"/>
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/megaphone.png" width="1000" height="250">
+
 Mon engagement en faveur de l'open source ne se limite pas à une utilisation personnelle ou professionnelle, il va bien au-delà. Il s'agit d'une conviction profonde que je porte avec passion, et l'une de mes missions est d'informer, partager et éduquer autour des avantages de l'open source et de la philosophie qui l'accompagne.
 
 ## 📖 Informations au lieu de conversion 
@@ -409,6 +411,8 @@ LinkedIn, la plateforme professionnelle, joue également un rôle clé dans ma d
 En fin de compte, l'évangélisation de l'open source est une mission qui me tient à cœur. C'est une façon de contribuer à la diffusion de valeurs essentielles telles que la liberté, la transparence et la collaboration, et de s'assurer que l'open source trouve sa place dans un monde numérique en constante évolution.
 
 # VIII. Ceci n'est pas une conclusion <a name="continue"/>
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/road.png" width="1000" height="250">
 
 Cet article a été une opportunité de partager mon voyage vers une utilisation exclusive d'outils open source et une approche profonde de l'open source dans ma vie quotidienne. Il est essentiel de rappeler que mon approche et cet article sont avant tout informatifs. Je ne suis pas ici pour imposer un dogme, mais pour encourager la réflexion et la discussion sur les avantages de l'open source, de la transparence et de la philosophie qui les sous-tendent.
 
