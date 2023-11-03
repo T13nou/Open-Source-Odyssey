@@ -1,441 +1,435 @@
-# Open-Source-Odyssey
-Ma Vie 100% Open Source : Une Odyssée Digitale vers la Liberté et la Collaboration
+# Odisea de código abierto
+Mi vida 100% Open Source: una odisea digital hacia la libertad y la colaboración
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/banner.png" width="1000" height="434">
 
-## Sommaire
-1. [Introduction](#introduction)
-2. [Pourquoi l'Open Source ?](#why)
-3. [Mise en Place de l'infrastructure Open Source](#infra)
-4. [Systèmes d'exploitation Open Source](#os)
-5. [L'Open Collaboration et la Puissance de la Communauté](#collab)
-6. [Passons le message !](#message)
-7. [Ceci n'est pas une conclusion](#continue)
-8. [Questions/Réponses](#q&a)
-9. [Ma progression](#progress)
+## Resumen
+1. [Introducción](#introducción)
+2. [¿Por qué código abierto?](#por qué)
+3. [Configuración de la infraestructura de código abierto](#infra)
+4. [Sistemas operativos de código abierto](#os)
+5. [Colaboración abierta y el poder de la comunidad](#collab)
+6. [¡Difundamos el mensaje!](#message)
+7. [Esto no es una conclusión](#continuar)
+8. [Preguntas/Respuestas](#preguntas y respuestas)
+9. [Mi progreso](#progreso)
 
-# I. Introduction <a name="introduction"/>
+# I. Introducción <a name="introducción"/>
 
-Bienvenue sur ma page dédiée à mon aventure 100% open source. Ici, je partage mon voyage personnel vers l'utilisation exclusive d'outils open source dans ma vie quotidienne. Ma démarche s'articule autour de l'open collaboration, de la puissance de la communauté et de mon engagement en faveur de la vie privée informatique ainsi que de l'hygiène numérique.
+Bienvenidos a mi página dedicada a mi aventura 100% open source.  Aquí comparto mi viaje personal hacia el uso exclusivo de herramientas de código abierto en mi vida diaria.  Mi enfoque gira en torno a la colaboración abierta, el poder de la comunidad y mi compromiso con la privacidad informática y la higiene digital.
 
-Au cœur de mon périple, j'ai mis en place une infrastructure à la maison, comprenant un routeur open source, un serveur NAS dédié uniquement aux outils de productivité open source, et j'ai même converti mon PC gaming en utilisant Arch Linux, ainsi qu'une console de jeu portable fonctionnant sous la même distribution. J'ai fait le choix de ne plus utiliser aucun produit propriétaire, et je m'efforce de partager mon expérience et d'encourager mon entourage à comprendre cette philosophie.
+En el centro de mi viaje, configuré una infraestructura en casa, incluido un enrutador de código abierto, un servidor NAS dedicado exclusivamente a herramientas de productividad de código abierto e incluso convertí mi PC para juegos usando Arch Linux, así como una consola de juegos portátil con bajo la misma distribución.  He decidido no utilizar más ningún producto patentado y me esfuerzo por compartir mi experiencia y animar a quienes me rodean a comprender esta filosofía.
 
-Par ailleurs j'ai fait le choix de mettre cet article sur GitHub qui me parait être un endroit approprié pour partager mon approche avec la communauté et permettre à chacun d'y contribuer.
+Además, elegí publicar este artículo en GitHub, que me parece un lugar apropiado para compartir mi enfoque con la comunidad y permitir que todos contribuyan.
 
-Ce que cet article n'est pas un guide technique, d'autres le font déjà, mais je vous orienterais vers des ressources très pointues et pertinentes sur les différents sujets que j'aborde.
+Lo que este artículo no es una guía técnica, otros ya lo hacen, pero te dirigiría a recursos muy especializados y relevantes sobre los diferentes temas que abordo.
 
-Rejoignez-moi pour découvrir comment l'open source peut non seulement offrir une alternative aux logiciels propriétaires, mais également favoriser la liberté numérique, la sécurité de nos données, et l'innovation collective. Ensemble, nous explorerons les avantages de l'open source, son potentiel de transformation, et les joies de vivre une vie numérique plus transparente et respectueuse de nos droits individuels. Bienvenue dans mon monde 100% open source !
+Únase a mí para descubrir cómo el código abierto no sólo puede ofrecer una alternativa al software propietario, sino también promover la libertad digital, la seguridad de nuestros datos y la innovación colectiva.  Juntos, exploraremos los beneficios del código abierto, su potencial transformador y el placer de vivir una vida digital más transparente que respete nuestros derechos individuales.  ¡Bienvenido a mi mundo 100% de código abierto!
 
-## Qui suis-je ?
 
-Au fil de mon voyage vers l'utilisation exclusive d'outils open source et de mon exploration de l'open collaboration, il est essentiel de comprendre le contexte et l'expérience qui m'ont conduit à cette démarche. Voici un aperçu de qui je suis, de mon parcours professionnel, et de ce qui m'anime dans cette aventure vers un monde numérique plus ouvert et collaboratif.
+## Quién soy ?
 
-| Mon profil ...  | ... en bref |
-| --- | --- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png"> | Un Parcours Axé sur la Collaboration : Depuis plus de 15 ans, je me suis consacré à des sujets de collaboration, que ce soit au sein de ma carrière professionnelle ou de mes projets personnels. Mon parcours s'est construit sur la conviction que la collaboration est une clé de l'innovation et du progrès. J'ai cherché à favoriser la coopération, le partage de connaissances et la création collective |
+A medida que camino hacia el uso exclusivo de herramientas de código abierto y exploro la colaboración abierta, es esencial comprender el contexto y la experiencia que me llevaron a este viaje.  Aquí hay una descripción general de quién soy, mi trayectoria profesional y qué me impulsa en esta aventura hacia un mundo digital más abierto y colaborativo.
 
-Ma formation d'ingénieur électronicien/informaticien m'a apporté des compétences techniques solides, tout en me permettant de comprendre les aspects complexes de la technologie et de l'informatique. Cette combinaison de compétences m'a inspiré à explorer comment la technologie peut être utilisée pour favoriser la collaboration et l'ouverture.
+|  Mi perfil... |  ... en breve |
+|  --- |  --- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/avatar.512.png"> |  Un Viaje Enfocado en la Colaboración: Desde hace más de 15 años me he dedicado a temas colaborativos, ya sea dentro de mi carrera profesional o de mis proyectos personales.  Mi viaje se ha basado en la convicción de que la colaboración es clave para la innovación y el progreso.  Busqué promover la cooperación, el intercambio de conocimientos y la creación colectiva |
 
-Vous pouvez en apprendre davantage sur mon parcours professionnel en consultant mon profil [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
+Mi formación como ingeniero electrónico/informático me proporcionó sólidas habilidades técnicas, al tiempo que me permitió comprender los aspectos complejos de la tecnología y la informática.  Esta combinación de habilidades me inspiró a explorar cómo se puede utilizar la tecnología para fomentar la colaboración y la apertura.
 
-Ma passion pour l'open source et l'open collaboration trouve son origine dans une conviction profonde : la technologie peut servir à rapprocher les individus, à faciliter le partage des idées et à résoudre des problèmes complexes de manière collective. Mon parcours m'a amené à travailler sur des projets variés, de la conception de solutions électroniques à la mise en place de frameworks open source au sein de mon entreprise.
+Puedes conocer más sobre mi trayectoria profesional consultando mi perfil [LinkedIn](https://www.linkedin.com/in/etienneblanchet/)
 
-Aujourd'hui, j'applique ces principes d'ouverture et de collaboration dans ma vie personnelle et professionnelle. Mon engagement en faveur de l'open source et de l'open collaboration repose sur la conviction que ces approches peuvent transformer notre manière de travailler, d'innover et de construire un avenir numérique meilleur pour tous.
+Mi pasión por el código abierto y la colaboración abierta tiene sus raíces en una profunda convicción: la tecnología se puede utilizar para unir a las personas, facilitar el intercambio de ideas y resolver problemas complejos de forma colectiva.  Mi carrera me ha llevado a trabajar en diversos proyectos, desde el diseño de soluciones electrónicas hasta la implementación de frameworks de código abierto dentro de mi empresa.
 
+Hoy aplico estos principios de apertura y colaboración en mi vida personal y profesional.  Mi compromiso con el código abierto y la colaboración abierta se basa en la creencia de que estos enfoques pueden transformar la forma en que trabajamos, innovamos y construimos un mejor futuro digital para todos.
 
-# II. Pourquoi l'Open Source ? <a name="why"/>
+#II. ¿Por qué código abierto?  <un nombre="por qué"/>
 
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" width="1000" height="250">
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" ancho="1000" alto="250">
 
-Lorsque j'ai entrepris mon voyage vers l'utilisation exclusive d'outils open source, j'ai été influencé par plusieurs facteurs clés qui ont façonné ma perspective sur la vie numérique. Ces influences ont renforcé ma conviction que l'open source est la voie à suivre pour un avenir numérique plus sûr, transparent et éthique.
+Cuando comencé mi viaje hacia el uso exclusivo de herramientas de código abierto, me influenciaron varios factores clave que moldearon mi perspectiva sobre la vida digital.  Estas influencias han reforzado mi creencia de que el código abierto es el camino a seguir para un futuro digital más seguro, transparente y ético.
 
-L'une de mes premières influences majeures a été l'article de Larry Sanger, le co-fondateur de Wikipedia, intitulé ["*The Challenges of Locking Down My Cyber Life*"](https://larrysanger.org/2019/07/the-challenges-of-locking-down-my-cyber-life/) (Les Défis de Sécuriser Ma Vie Numérique), publié en 2019. Dans cet article, Sanger partage ses réflexions sur la vie privée et les enjeux de l'hygiène numérique. Il met en évidence les menaces qui pèsent sur nos données personnelles et la nécessité de prendre des mesures pour les protéger. Cette réflexion a été un catalyseur majeur pour moi, m'incitant à reconsidérer la manière dont je gérais ma propre vie numérique.
+Una de mis primeras influencias importantes fue el artículo de Larry Sanger, cofundador de Wikipedia, titulado ["*Los desafíos de bloquear mi vida cibernética*"](https://larrysanger.org/2019/07/ the-challenges-of-locking-down-my-cyber-life/), publicado en 2019. En este artículo, Sanger comparte sus pensamientos sobre cuestiones de privacidad e higiene digital.  Destaca las amenazas a nuestros datos personales y la necesidad de tomar medidas para protegerlos.  Esta reflexión fue un gran catalizador para mí y me impulsó a reconsiderar cómo gestionaba mi propia vida digital.
 
-Une autre influence cruciale a été la prise de conscience croissante de la monétisation des services numériques par les géants de la technologie (GAFAM - Google, Apple, Facebook, Amazon, Microsoft). De nombreuses entreprises tirent des revenus en exploitant nos données personnelles, ce qui soulève des préoccupations majeures en matière de vie privée. Des experts et défenseurs de la vie privée, tels que Shoshana Zuboff, dans son livre ["*The Age of Surveillance Capitalism*"](https://www.zulma.fr/livre/lage-du-capitalisme-de-surveillance-3/) ont exploré en profondeur ces problématiques (livre que je recommande chaudement !). Leurs travaux démontrent l'importance de protéger nos données et de chercher des alternatives éthiques.
+Otra influencia crucial ha sido la creciente conciencia de la monetización de los servicios digitales por parte de los gigantes tecnológicos (GAFAM – Google, Apple, Facebook, Amazon, Microsoft).  Muchas empresas ganan dinero explotando nuestros datos personales, lo que plantea importantes preocupaciones sobre la privacidad.  Expertos y defensores de la privacidad, como Shoshana Zuboff, en su libro ["*La era del capitalismo de vigilancia*"](https://www.zulma.fr/livre/lage-du-capitalisme-de-surveillance -3/) Exploré estos temas en profundidad (¡libro que recomiendo ampliamente!). Su trabajo demuestra la importancia de proteger nuestros datos y buscar alternativas éticas.
 
-Un aspect qui a renforcé ma détermination à adopter des solutions open source a été la préoccupation pour la vie privée de ma famille, y compris mes enfants. Je ne souhaite pas les voir exposés sur Internet, que ce soit de manière volontaire ou involontaire. Les répercussions potentielles sur la vie de nos proches sont un puissant moteur pour adopter une approche plus sécurisée et respectueuse de la vie privée.
+Un aspecto que fortaleció mi determinación de adoptar soluciones de código abierto fue la preocupación por la privacidad de mi familia, incluidos mis hijos.  No quiero verlos expuestos en Internet, ni voluntaria ni involuntariamente.  El impacto potencial en las vidas de nuestros seres queridos es un poderoso impulso para adoptar un enfoque más seguro y respetuoso de la privacidad.
 
-Enfin, en tant qu'ingénieur, ma foi dans l'avenir de la technologie repose sur l'open source. Je crois profondément que l'open source offre une voie vers un avenir numérique plus prometteur. Il permet la collaboration massive et la transparence, deux piliers essentiels de l'innovation et du progrès technologique.
+Finalmente, como ingeniero, mi fe en el futuro de la tecnología reside en el código abierto.  Creo profundamente que el código abierto ofrece un camino hacia un futuro digital más brillante.  Permite una colaboración masiva y transparencia, dos pilares esenciales de la innovación y el progreso tecnológico.
 
-Toutes ces influences ont convergé pour me convaincre de faire le saut vers l'open source, de mettre l'accent sur la protection de la vie privée et de promouvoir une approche numérique plus éthique. En embrassant l'open source, je suis convaincu que nous pouvons créer un monde numérique plus sécurisé, transparent et collaboratif pour tous.
+Todas estas influencias convergieron para convencerme de dar el salto al código abierto, enfatizar la privacidad y promover un enfoque digital más ético.  Al adoptar el código abierto, creo que podemos crear un mundo digital más seguro, transparente y colaborativo para todos.
 
-## Les avantages de l'open-source
+## Las ventajas del código abierto
 
-### 🆓 Liberté et Contrôle
+### 🆓 Libertad y Control
 
-L'un des principaux avantages de l'open source réside dans la liberté et le contrôle qu'il offre aux utilisateurs. Contrairement aux logiciels propriétaires, les logiciels open source permettent aux utilisateurs d'accéder au code source, de le modifier et de l'adapter à leurs besoins spécifiques. Cette flexibilité est précieuse, que vous soyez un utilisateur expérimenté cherchant à personnaliser une solution ou un novice souhaitant comprendre le fonctionnement interne d'une application.
+Uno de los mayores beneficios del código abierto es la libertad y el control que ofrece a los usuarios.  A diferencia del software propietario, el software de código abierto permite a los usuarios acceder al código fuente, modificarlo y adaptarlo a sus necesidades específicas.  Esta flexibilidad es valiosa tanto si es un usuario experimentado que busca personalizar una solución como si es un novato que desea comprender el funcionamiento interno de una aplicación.
 
-Par ailleurs, la réutilisabilité du code est possible et courante. On emploie le terme de *fork* pour désigner un nouveau logiciel créé à partir du code source d'un logiciel existant.
+Además, la reutilización del código es posible y común.  Usamos el término *fork* para designar nuevo software creado a partir del código fuente de software existente.
 
-### 🔎 Transparence et Sécurité
+### 🔎 Transparencia y Seguridad
 
-La transparence est un autre pilier de l'open source. Étant donné que le code source est accessible publiquement, les utilisateurs peuvent inspecter, auditer et vérifier la sécurité des logiciels open source. Cela réduit les risques de failles de sécurité cachées ou de portes dérobées. En outre, la communauté open source est prompte à corriger les vulnérabilités dès leur découverte, ce qui contribue à maintenir un environnement numérique plus sûr.
+La transparencia es otro pilar del código abierto.  Dado que el código fuente está disponible públicamente, los usuarios pueden inspeccionar, auditar y verificar la seguridad del software de código abierto.  Esto reduce el riesgo de vulnerabilidades de seguridad ocultas o puertas traseras.  Además, la comunidad de código abierto parchea rápidamente las vulnerabilidades tan pronto como se descubren, lo que ayuda a mantener un entorno digital más seguro.
 
-### 🤑 Coût
+### 🤑 Costo
 
-Les logiciels open source sont souvent disponibles gratuitement, ce qui peut considérablement réduire les coûts pour les utilisateurs et les organisations. Vous pouvez utiliser des logiciels puissants sans avoir à payer de licences coûteuses. Cela permet d'accéder à des outils de haute qualité, même avec un budget limité.
+El software de código abierto suele estar disponible de forma gratuita, lo que puede reducir significativamente los costos para los usuarios y las organizaciones.  Puede utilizar un software potente sin tener que pagar costosas licencias.  Esto permite el acceso a herramientas de alta calidad, incluso con un presupuesto limitado.
 
-C'est un terrain fertile pour des ONG, le secteur de l'éducation ou simplement pour des association qui visent à redonner une seconde jeunesse à du matériel vieillissant. Jetez un oeil aux distributions Linux telles que [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) ou [Edubuntu](https://www.edubuntu.org/).
+Es un terreno fértil para las ONG, el sector educativo o simplemente para las asociaciones cuyo objetivo es dar una segunda vida a los equipos obsoletos.  Eche un vistazo a distribuciones de Linux como [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) o [Edubuntu](https: //www.edubuntu.org/).
 
-### 🦸 Communauté et Support Actif
+### 🦸 Comunidad y soporte activo
 
-L'open source favorise une communauté active et collaborative d'utilisateurs et de développeurs. Vous pouvez bénéficier de l'expertise d'une communauté mondiale pour résoudre des problèmes, obtenir des conseils et découvrir de nouvelles fonctionnalités. Des forums, des groupes de discussion et des contributeurs dévoués sont prêts à vous aider.
+El código abierto fomenta una comunidad activa y colaborativa de usuarios y desarrolladores.  Puede beneficiarse de la experiencia de una comunidad global para resolver problemas, obtener consejos y descubrir nuevas funciones.  Foros, grupos de noticias y colaboradores dedicados están listos para ayudar.
 
-### 🌳 Durabilité à Long Terme
+### 🌳 Sostenibilidad a largo plazo
 
-Les logiciels open source sont moins susceptibles de devenir obsolètes ou d'être abandonnés par leur éditeur, car la responsabilité de leur développement repose sur la communauté plutôt que sur une seule entreprise. Cela garantit la pérennité des solutions open source, ce qui est crucial pour les projets à long terme.
+Es menos probable que el software de código abierto quede obsoleto o abandonado por su editor porque la responsabilidad de su desarrollo recae en la comunidad y no en una sola empresa.  Esto garantiza la sostenibilidad de las soluciones de código abierto, lo cual es crucial para proyectos a largo plazo.
 
-En écrivant cet article je me suis posé la question des *fork* et savoir si les projets les plus populaires ou ceux qui ne sont plus maintenus étaient régulièrement dérivés. GitHub maintient son [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) des projets les plus *forkés* et surprise, certains l'ont été plus de 100000 fois. La communauté est active ! ⚙️
+Mientras escribía este artículo, me pregunté sobre las *bifurcaciones* y si los proyectos más populares o aquellos que ya no se mantienen se bifurcaban regularmente.  GitHub mantiene su [Top-100](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-forks.md) de los proyectos más *bifurcados* y, sorpresa, algunos sí lo tienen Ha sido más de 100.000 veces.  ¡La comunidad está activa!  ⚙️
 
-### 💡 Innovation Continue
+### 💡Innovación continua
 
-L'open source encourage l'innovation continue. En permettant à n'importe qui de contribuer et d'améliorer un logiciel, l'open source favorise un cycle d'innovation rapide. De nombreux projets open source sont à l'origine de nouvelles idées et technologies qui ont un impact sur l'ensemble de l'industrie.
+El código abierto fomenta la innovación continua.  Al permitir que cualquiera contribuya y mejore el software, el código abierto promueve un rápido ciclo de innovación.  Muchos proyectos de código abierto están impulsando nuevas ideas y tecnologías que impactan a toda la industria.
 
-### 🔒 Respect de la Vie Privée
+### 🔒 Respeto a la Privacidad
 
-Avec la montée en puissance des préoccupations liées à la vie privée, l'open source offre un moyen de préserver la confidentialité des données. Vous avez un meilleur contrôle sur ce qui est collecté et partagé, ce qui est essentiel pour protéger vos informations personnelles et sensibles.
+Ante el aumento de las preocupaciones sobre la privacidad, el código abierto ofrece una forma de mantener la confidencialidad de los datos.  Tienes un mayor control sobre lo que se recopila y comparte, lo cual es esencial para proteger tu información personal y confidencial.
 
-Ces avantages cumulatifs illustrent pourquoi l'open source est devenu bien plus qu'une simple alternative aux logiciels propriétaires. Il incarne une philosophie de collaboration, de transparence et de respect de la liberté individuelle, tout en offrant des solutions technologiques puissantes et durables. Mon voyage vers l'open source m'a convaincu que ces avantages sont essentiels pour façonner un avenir numérique plus prometteur.
+Estos beneficios acumulativos ilustran por qué el código abierto se ha convertido en mucho más que una simple alternativa al software propietario.  Encarna una filosofía de colaboración, transparencia y respeto por la libertad individual, al tiempo que ofrece soluciones tecnológicas potentes y sostenibles.  Mi viaje hacia el código abierto me ha convencido de que estos beneficios son esenciales para dar forma a un futuro digital más prometedor.
 
-Je vous invite à aller creuser le sujet avec la chaine de [Rob Braxman](https://www.youtube.com/@robbraxmantech), se définissant lui même comme un *Internet Privacy Evangelist*, soit un évangéliste du respect de la vie privée sur Internet. Sa proposition est assumée comme étant jusqu'au boutiste : il utilise un appareil par cas d'usage (publique, privé), vis sur un bateau et alerte régulièrement sur les dangers de notre environnement technologique. Il s'applique à lui même le principe de vie *off the grid*. A prendre avec des pincettes mais je suis d'accord avec la plupart de ses articles.
+Los invito a explorar el tema con el canal de [Rob Braxman](https://www.youtube.com/@robbraxmantech), definiéndose como un *Internet Privacy Evangelist*, un evangelista del respeto a la privacidad en la Internet.  Su propuesta se supone extrema: utiliza un dispositivo por caso de uso (público, privado), vive en un barco y advierte periódicamente de los peligros de nuestro entorno tecnológico.  Aplica el principio de vida *fuera de la red* a sí mismo.  Hay que tomarlo con cautela, pero estoy de acuerdo con la mayoría de sus artículos.
 
-# III. Mise en Place de l'infrastructure Open Source <a name="infra"/>
+#III. Configurando la infraestructura de código abierto <a name="infra"/>
 
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" width="1000" height="250">
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" ancho="1000" alto="250">
 
-La création d'une infrastructure entièrement open source a été marqué par la recherche de "quick wins", ces petites victoires initiales qui renforcent la conviction que l'approche choisie est la bonne. Mon parcours a débuté en m'inspirant d'un article de Larry Sanger, co-fondateur de Wikipédia, où il partageait ses réflexions sur la vie privée et l'hygiène numérique.
+La creación de una infraestructura de código abierto estuvo marcada por la búsqueda de "victorias rápidas", pequeñas victorias iniciales que refuerzan la convicción de que el enfoque elegido es el correcto.  Mi viaje comenzó inspirándome en un artículo de Larry Sanger, cofundador de Wikipedia, donde compartió sus pensamientos sobre la privacidad y la higiene digital.
 
-Cependant, pour consolider mes premiers pas, j'ai cherché à recouper ces informations avec d'autres sources de confiance, afin de bâtir une base solide pour mon infrastructure open source. Parmi les ressources qui ont guidé mes choix, voici quelques-unes des plus influentes :
+Sin embargo, para consolidar mis primeros pasos, busqué cotejar esta información con otras fuentes confiables, con el fin de construir una base sólida para mi infraestructura de código abierto.  Entre los recursos que guiaron mis decisiones, estos son algunos de los más influyentes:
 
-## 🥼 Sites de références pour le homelabing et outils orientés "Privacy"
+## 🥼 Sitios de referencia para homelabing y herramientas orientadas a la “Privacidad”
 
-| Canal  | Contenu |
-| ------------- | ------------- |
-| PrivacyTools.io <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/th-2200279595.jpg" width="140" height="140"> | Ce site web est devenu une référence en matière de protection de la vie privée en ligne. Régulièrement mis à jour, il propose une multitude d'outils et de recommandations pour répondre à divers cas d'usage, de la navigation web sécurisée à la gestion des mots de passe en passant par la confidentialité des courriels. C'est devenu un point de départ essentiel pour quiconque souhaite renforcer sa confidentialité en ligne. |
-| homelabing.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/homelabing_icon-1.png" width="140" height="140"> | Optimize your Homelab capabilities through self-hosting and utilizing open-source solutions |
-| servethehome.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/STH-Logo-180px.png" width="140" height="140"> | ServeTheHome est le guide des professionnels de l'informatique en matière de serveurs, de stockage, de réseaux et de matériel de station de travail haut de gamme, ainsi que d'excellents projets open source. |
-| homenetworkguy.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/m53vjCup_400x400-2937981742.jpg" width="140" height="140"> | Le site web vise à fournir une ressource conviviale avec des conseils, des astuces de dépannage et des expériences partagées pour aider les autres à construire leurs propres réseaux domestiques avancés.  |
+|  Canal |  Contenido |
+|  ------------- |  ------------- |
+|  PrivacyTools.io <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/th-2200279595.jpg" width="140" height="140"> |  Esta web se ha convertido en un referente en protección de la privacidad online.  Actualizado periódicamente, ofrece una multitud de herramientas y recomendaciones para satisfacer diversos casos de uso, desde navegación web segura hasta gestión de contraseñas y confidencialidad del correo electrónico.  Se ha convertido en un punto de partida esencial para cualquiera que busque aumentar su privacidad en línea.  |
+|  homelabing.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/homelabing_icon-1.png" width="140" height="140"> |  Optimice las capacidades de su Homelab mediante el autohospedaje y el uso de soluciones de código abierto |
+|  servethehome.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/STH-Logo-180px.png" width="140" height="140" > |  ServeTheHome es la guía para profesionales de TI sobre servidores, almacenamiento, redes y hardware de estaciones de trabajo de alta gama, así como excelentes proyectos de código abierto.  |
+|  homenetworkguy.com <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/sites/m53vjCup_400x400-2937981742.jpg" width="140" height="140"> |  El sitio web tiene como objetivo proporcionar un recurso fácil de usar con consejos, sugerencias para la resolución de problemas y experiencias compartidas para ayudar a otros a construir sus propias redes domésticas avanzadas.  |
 
-## 📹 Chaînes dédiées au Homelabing sur YouTube :
+## 📹 Canales dedicados a Homelabing en YouTube:
 
-| Canal  | Contenu |
-| ------------- | ------------- |
-| Techno Tim [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) | Techno Tim est devenu une source inestimable d'informations sur la création d'un homelab, offrant des guides pratiques et des démonstrations de technologies open source.  |
-| NetworkChuck [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKb728FaC4SPqir0jCVxhY0NTgnHD-iP2MqbSIrj9g=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@NetworkChuck) | NetworkChuck explore un large éventail de sujets liés à la technologie, y compris les solutions open source pour les réseaux et les serveurs.  |
-| Wolfgang's Channel [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYVoDrnSDACycgSJNnTkac6M6HROYVgJIfxAu6-ug=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@WolfgangsChannel) | Wolfgang se penche sur les aspects techniques du homelabing, en fournissant des informations détaillées sur l'utilisation d'outils open source.  |
-| Christian Lempa [![Watch the video](https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@christianlempa) | La chaîne de Christian Lempa se concentre sur les infrastructures informatiques auto-hébergées, explorant des solutions open source pour améliorer la vie numérique personnelle.  |
-| Adrien Linuxtricks [![Watch the video](https://yt3.googleusercontent.com/ytc/APkrFKYE_aERPU37zbKhTQUpPLeX6wpntPDj-ftpJN6uww=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@AdrienLinuxtricks) | AdrienLinuxtricks est une chaîne YouTube axée sur Linux et les logiciels open source. Vous y trouverez des tutoriels, des astuces, des critiques de distributions Linux, ainsi que des guides pour maximiser votre expérience avec les technologies open source. Cette chaîne est idéale pour les passionnés de Linux, qu'ils soient débutants ou utilisateurs expérimentés, cherchant à explorer et à maîtriser le monde de l'open source.  |
-| Chris Titus Tech [![Watch the video](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitusTech)  | ChrisTitusTech est une chaîne YouTube qui aborde un large éventail de sujets technologiques, de l'informatique aux logiciels, en passant par les astuces de productivité et les critiques de matériel. L'animateur, Chris, partage son expertise de manière accessible, en proposant des guides pratiques et des recommandations. Cette chaîne convient à tous ceux qui s'intéressent à la technologie et cherchent des conseils et des informations sur divers sujets informatiques.  |
+|  Canal |  Contenido |
+|  ------------- |  ------------- |
+|  Techno Tim [![Ver el vídeo](https://yt3.googleusercontent.com/ytc/APkrFKa_0lAyGQzwuWn77xGeWQqXpOypgXqFHNZ3GL91Vg=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@TechnoTim) |  Techno Tim se ha convertido en una valiosa fuente de información sobre cómo construir un laboratorio doméstico, ofreciendo guías prácticas y demostraciones de tecnologías de código abierto.  |
+|  NetworkChuck [![Ver el vídeo](https://yt3.googleusercontent.com/ytc/APkrFKb728FaC4SPqir0jCVxhY0NTgnHD-iP2MqbSIrj9g=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@NetworkChuck) |  NetworkChuck explora una amplia gama de temas tecnológicos, incluidas soluciones de código abierto para redes y servidores.  |
+|  Canal de Wolfgang [![Ver el vídeo](https://yt3.googleusercontent.com/ytc/APkrFKYVoDrnSDACycgSJNnTkac6M6HROYVgJIfxAu6-ug=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@WolfgangsChannel ) |  Wolfgang profundiza en los aspectos técnicos del homelabing y proporciona información detallada sobre el uso de herramientas de código abierto.  |
+|  Christian Lempa [![Ver el video](https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@ cristo ianlempa) |  El canal de Christian Lempa se centra en infraestructuras de TI autohospedadas y explora soluciones de código abierto para mejorar la vida digital personal.  |
+|  Adrien Linuxtricks [![Ver el vídeo](https://yt3.googleusercontent.com/ytc/APkrFKYE_aERPU37zbKhTQUpPLeX6wpntPDj-ftpJN6uww=s176-ck-c0x00ffffff-no-rj)](https://www.youtube.com/@AdrienLinuxtricks ) |  AdrienLinuxtricks es un canal de YouTube centrado en Linux y software de código abierto.  Encontrará tutoriales, consejos, reseñas de distribuciones de Linux y guías para maximizar su experiencia con tecnologías de código abierto.  Este canal es ideal para entusiastas de Linux, ya sean principiantes o usuarios experimentados, que buscan explorar y dominar el mundo del código abierto.  |
+|  Chris Titus Tech [! [Mira el video] (https://yt3.googleuserContent.com/r_rsqntyqkl-rbtta7djvbxlju8bwgua8ghjz6ollsbyx_txdu0qvdbudcqvpzaxrqfvp2f4=s176-ckc0xfffffff (htp) w.youtube.com/@christitus tech ) |  ChrisTitusTech es un canal de YouTube que cubre una amplia gama de temas tecnológicos, desde informática y software hasta consejos de productividad y revisiones de hardware.  El anfitrión Chris comparte su experiencia de una manera accesible, ofreciendo guías prácticas y recomendaciones.  Este canal es adecuado para todos los que estén interesados ​​en la tecnología y busquen asesoramiento e información sobre diversos temas de TI.  |
 
-En m'inspirant de ces ressources, j'ai pu jeter les bases de mon infrastructure open source et renforcer ma compréhension des outils et des pratiques qui garantissent ma vie privée et ma sécurité en ligne. Ces premières étapes m'ont aidé à construire une fondation solide pour la suite de mon voyage vers une utilisation exclusive d'outils open source, axée sur la confidentialité, la transparence et l'innovation."
+Al aprovechar estos recursos, pude sentar las bases de mi infraestructura de código abierto y fortalecer mi comprensión de las herramientas y prácticas que garantizan mi privacidad y seguridad en línea.  Estos primeros pasos me ayudaron a construir una base sólida para el resto de mi viaje hacia el uso exclusivo de herramientas de código abierto, centradas en la privacidad, la transparencia y la innovación".
 
-## 🌐 Utiliser un navigateur web open-source
+## 🌐 Utilice un navegador web de código abierto
 
-La première étape de mon voyage vers une expérience numérique basée sur l'open source a commencé avec la recherche d'une alternative à Google Chrome. Bien que Chrome soit un navigateur populaire et efficace, j'étais de plus en plus conscient des préoccupations liées à la vie privée et à la collecte de données. J'ai donc entrepris de trouver une solution open source qui pourrait répondre à mes besoins en matière de navigation web.
+El primer paso en mi viaje hacia una experiencia digital de código abierto comenzó con la búsqueda de una alternativa a Google Chrome.  Aunque Chrome es un navegador popular y eficiente, cada vez estaba más consciente de las preocupaciones en torno a la privacidad y la recopilación de datos.  Así que me propuse encontrar una solución de código abierto que pudiera satisfacer mis necesidades de navegación web.
 
-Après des recherches approfondies, Mozilla Firefox est rapidement devenu la solution de prédilection. Mozilla, en tant qu'organisation à but non lucratif, s'engage fermement en faveur de la protection de la vie privée en ligne. Firefox est un navigateur open source qui incarne ces valeurs, offrant une transparence totale sur son code source et sa philosophie d'ouverture. C'est un choix qui correspondait parfaitement à ma démarche en faveur de l'open source.
+Después de una extensa investigación, Mozilla Firefox rápidamente se convirtió en la solución elegida.  Mozilla, como organización sin fines de lucro, está firmemente comprometida con la privacidad en línea.  Firefox es un navegador de código abierto que encarna estos valores y ofrece total transparencia sobre su código fuente y su filosofía abierta.  Es una elección que se adapta perfectamente a mi enfoque a favor del código abierto.
 
-Pour la gestion de mes mots de passe, j'ai opté pour l'extension Bitwarden, un gestionnaire de mots de passe open source. L'avantage de Bitwarden est sa compatibilité avec mon installation auto-hébergée de Bitwarden sur mon serveur NAS. Cette intégration me permet de gérer mes mots de passe de manière sécurisée et de les stocker localement, renforçant ainsi ma sécurité en ligne.
+Para administrar mis contraseñas, opté por la extensión Bitwarden, un administrador de contraseñas de código abierto.  La ventaja de Bitwarden es su compatibilidad con mi instalación autohospedada de Bitwarden en mi servidor NAS.  Esta integración me permite administrar mis contraseñas de forma segura y almacenarlas localmente, fortaleciendo mi seguridad en línea.
 
-En ce qui concerne la gestion du filtrage des sites web, des publicités et des malwares, j'ai délégué cette tâche à mon routeur OPNsense. Ce routeur open source est équipé d'un module DNS basé sur des listes de filtrage, similaire à un Pi-Hole. Cette solution me permet de bloquer activement les publicités, les trackers, et les sites web malveillants à un niveau central, protégeant ainsi tous les appareils de mon réseau domestique. Cela renforce non seulement ma vie privée, mais aussi la sécurité de mes activités en ligne.
+Cuando se trata de administrar el filtrado de sitios web, anuncios y malware, delegé esta tarea en mi enrutador OPNsense.  Este enrutador de código abierto está equipado con un módulo DNS basado en listas de filtrado, similar a un Pi-Hole.  Esta solución me permite bloquear activamente anuncios, rastreadores y sitios web maliciosos a nivel central, protegiendo todos los dispositivos de mi red doméstica.  Esto no sólo mejora mi privacidad, sino también la seguridad de mis actividades en línea.
 
-## 📫 Utiliser un Service Mail Soucieux de la Vie Privée
+## 📫 Utilice un servicio de correo electrónico preocupado por la privacidad
 
-L'un des premiers domaines que j'ai souhaité aborder était celui de la messagerie électronique. Le choix d'un service de messagerie adapté revêt une importance cruciale, car il touche à la confidentialité des communications et à la sécurité des données personnelles.
+Una de las primeras áreas que quería abordar era el correo electrónico.  Elegir un servicio de mensajería adecuado es de crucial importancia ya que afecta a la confidencialidad de las comunicaciones y a la seguridad de los datos personales.
 
-J'ai été particulièrement attentif à plusieurs aspects dans ma quête d'un service mail soucieux de la vie privée :
+En mi búsqueda de un servicio de correo electrónico relacionado con la privacidad, presté especial atención a varios aspectos:
 
-1. Monétisation du Contenu : L'une de mes préoccupations principales était d'éviter les fournisseurs de messagerie qui monétisent le contenu de leurs utilisateurs. De nombreuses grandes plates-formes de messagerie génèrent des revenus en analysant le contenu des e-mails et en affichant des publicités ciblées. Cette pratique est contraire à mes valeurs de vie privée et de respect de la confidentialité.
+1. Monetización del contenido: una de mis principales preocupaciones era evitar proveedores de correo electrónico que monetizaran el contenido de sus usuarios.  Muchas grandes plataformas de correo electrónico generan ingresos analizando el contenido del correo electrónico y mostrando anuncios dirigidos.  Esta práctica es contraria a mis valores de privacidad y respeto a la confidencialidad.
 
-2. Chiffrement à la Source : Le chiffrement des e-mails est essentiel pour empêcher toute interception non autorisée de messages. J'ai recherché un fournisseur qui chiffre les e-mails dès le départ, garantissant que seuls l'expéditeur et le destinataire ont accès au contenu. Le chiffrement à la source est un élément fondamental pour garantir la confidentialité des communications.
+2. Cifrado en la fuente: el cifrado del correo electrónico es esencial para evitar la interceptación no autorizada de mensajes.  Busqué un proveedor que cifrara los correos electrónicos desde el principio, asegurando que sólo el remitente y el destinatario tuvieran acceso al contenido.  El cifrado en origen es un elemento fundamental para garantizar la confidencialidad de las comunicaciones.
 
-3. Hébergé en Europe : En tant qu'utilisateur soucieux de la vie privée, le choix de l'emplacement des serveurs de messagerie revêt une importance cruciale. J'ai opté pour un service de messagerie hébergé en Europe, ce qui permet de respecter des normes strictes de protection des données et de vie privée. Cela ajoute une couche de sécurité supplémentaire à mes communications.
+3. Alojado en Europa: como usuario consciente de la privacidad, elegir la ubicación de los servidores de correo electrónico es de crucial importancia.  Opté por un servicio de correo electrónico alojado en Europa, que permite estrictos estándares de privacidad y protección de datos.  Esto añade una capa extra de seguridad a mis comunicaciones.
 
-4. Éviter le "Vendor Lock-In" : L'idée de rester lié à un seul fournisseur de messagerie était contraire à ma vision d'un environnement numérique ouvert et flexible. J'ai cherché un fournisseur qui n'impose pas de verrouillage à un écosystème propriétaire, offrant ainsi la possibilité de migrer vers d'autres services si nécessaire.
+4. Evitar el “bloqueo de proveedores”: la idea de permanecer atado a un único proveedor de correo electrónico era contraria a mi visión de un entorno digital abierto y flexible.  Busqué un proveedor que no impusiera una dependencia de un ecosistema propietario y que ofreciera la posibilidad de migrar a otros servicios si fuera necesario.
 
-Parmis les options qui s'offrent à moi
-- Auto héberger mon propre serveur de mail : délicat à configurer car reposant sur des technologies de sécurité et d'antispam que je maitrise peu :) Par ailleurs, la livraison des mails nécessite une connexion fiable et disponible 365 jours par an (ou utiliser une gateway le plus souvent payante).
-- Utiliser une solution payante d'un fournisseur tiers.
+Entre las opciones disponibles para mí
+- Autohospedar mi propio servidor de correo electrónico: difícil de configurar porque depende de tecnologías de seguridad y antispam sobre las que tengo poco control :) Además, la entrega de correo electrónico requiere una conexión confiable disponible los 365 días del año (o usar una puerta de enlace generalmente paga) .
+- Utilice una solución paga de un proveedor externo.
 
-Pour ma part je n'utilise que peu le mail et ce que je reçois n'est pas critique, j'ai décidé alors de faire un compromis en me facilitant la vie et choisissant un fournisseur qui parait fiable et réponds aux critères ci-dessus.
+Por mi parte, sólo uso un poco el correo electrónico y lo que recibo no es crítico, así que decidí hacer un compromiso haciéndome la vida más fácil y eligiendo un proveedor que parezca confiable y cumpla con los criterios anteriores.
 
-Après avoir examiné de nombreuses options, j'ai finalement choisi Soverin.net comme mon fournisseur de messagerie. Bien que Soverin.net ne soit pas nécessairement parfait, il répond à plusieurs de mes préoccupations fondamentales. Il ne monétise pas le contenu de mes e-mails, propose un chiffrement robuste, est hébergé en Europe, et ne me "verrouille" pas dans un écosystème propriétaire.
+Después de mirar muchas opciones, finalmente elegí Soverin.net como mi proveedor de correo electrónico.  Si bien Soverin.net no es necesariamente perfecto, aborda varias de mis preocupaciones principales.  No monetiza el contenido de mis correos electrónicos, ofrece un cifrado sólido, está alojado en Europa y no me "encierra" en un ecosistema propietario.
 
-Cette approche de la messagerie électronique s'inscrit dans ma démarche globale de respect de la vie privée et de promotion de l'open source. Elle garantit que mes communications restent confidentielles, sécurisées et sous mon contrôle, tout en évitant les pratiques intrusives et les restrictions souvent associées aux fournisseurs de messagerie traditionnels. Dans le cadre de mon voyage vers une utilisation exclusive d'outils open source, cette décision reflète mon engagement en faveur de la vie privée informatique et de l'hygiène numérique.
+Este enfoque de la mensajería electrónica es parte de mi enfoque general para respetar la privacidad y promover el código abierto.  Garantiza que mis comunicaciones permanezcan confidenciales, seguras y bajo mi control, evitando al mismo tiempo las prácticas intrusivas y las restricciones asociadas a menudo con los proveedores de correo electrónico tradicionales.  Como parte de mi camino hacia el uso exclusivo de herramientas de código abierto, esta decisión refleja mi compromiso con la privacidad informática y la higiene digital.
 
-Le service est payant (~25€/$ par an) mais c'est un premier pas facile dans mon approche.
+El servicio es pago (~25€/$ por año) pero es un primer paso fácil en mi enfoque.
 
-## 🚧 Maîtriser mes données en hébergeant mon propre serveur NAS - Le Début du HomeLabing
+## 🚧 Controlar mis datos alojando mi propio servidor NAS - El comienzo de HomeLabing
 
-Mon parcours vers une infrastructure entièrement open source m'a également conduit à repenser la manière dont je stocke et gère mes données. Initialement, j'utilisais une solution NAS propriétaire de Synology. Bien que cette option offrait une certaine stabilité, je me suis rapidement rendu compte de ses limites. L'environnement était peu performant, et l'ajout de services supplémentaires était souvent compliqué, voire impossible.
+Mi viaje hacia una infraestructura de código abierto también me ha llevado a repensar cómo almaceno y administro mis datos.  Inicialmente, utilicé una solución NAS patentada de Synology.  Aunque esta opción ofrecía cierta estabilidad, rápidamente me di cuenta de sus limitaciones.  El entorno tenía un rendimiento deficiente y agregar servicios adicionales a menudo era complicado o imposible.
 
-J'ai donc entrepris de rechercher des alternatives, en considérant diverses solutions open source. J'ai exploré des options telles que TrueNAS Core, Open Media Vault, et Unraid, chacune avec ses avantages et inconvénients. Après une analyse approfondie, j'ai finalement opté pour TrueNAS Scale, une solution qui s'appuie sur une base Debian que je chéris pour son ouverture et sa stabilité.
+Entonces me propuse investigar alternativas, considerando varias soluciones de código abierto.  Exploré opciones como TrueNAS Core, Open Media Vault y Unraid, cada una con sus pros y sus contras.  Después de un cuidadoso análisis, finalmente me decanté por TrueNAS Scale, una solución basada en una base Debian que aprecio por su apertura y estabilidad.
 
-[TrueNAS Scale](https://www.truenas.com/truenas-scale/) m'a séduit avec son environnement de stockage basé sur ZFS. Ce système de fichiers offre de nombreux avantages, notamment la capacité à créer des snapshots, sa robustesse, la déduplication des données, et la compression. Ces fonctionnalités sont essentielles pour garantir l'intégrité de mes données tout en optimisant l'espace de stockage.
+[TrueNAS Scale](https://www.truenas.com/truenas-scale/) me convenció con su entorno de almacenamiento basado en ZFS.  Este sistema de archivos ofrece muchas ventajas, incluida la capacidad de crear instantáneas, su solidez, deduplicación de datos y compresión.  Estas características son esenciales para garantizar la integridad de mis datos y optimizar el espacio de almacenamiento.
 
-L'un des points forts de TrueNAS Scale réside dans son catalogue d'applications, qui offre une variété de services, le tout dans un environnement de conteneurisation. J'ai le choix entre Docker et Kubernetes pour déployer et gérer mes applications. De plus, TrueNAS Scale dispose d'une fonctionnalité d'hyperviseur basée sur KVM, qui reste, à mon avis, une valeur sûre en matière de virtualisation.
+Uno de los puntos fuertes de TrueNAS Scale es su catálogo de aplicaciones, que ofrece una variedad de servicios, todo en un entorno en contenedores.  Puedo elegir entre Docker y Kubernetes para implementar y administrar mis aplicaciones.  Además, TrueNAS Scale tiene una funcionalidad de hipervisor basada en KVM, que en mi opinión sigue siendo una apuesta segura cuando se trata de virtualización.
 
-Grâce à TrueNAS Scale, mon serveur NAS héberge désormais un ensemble d'applications essentielles à ma vie numérique. NextCloud me permet de stocker et de synchroniser mes fichiers en toute sécurité, PhotoPrism gère ma collection de photos de manière organisée, PleX me donne accès à ma bibliothèque multimédia, et Bitwarden prend en charge la gestion de mes mots de passe de manière sécurisée.
+Gracias a TrueNAS Scale, mi servidor NAS ahora alberga un conjunto de aplicaciones esenciales para mi vida digital.  NextCloud me permite almacenar y sincronizar mis archivos de forma segura, PhotoPrism administra mi colección de fotos de manera organizada, PleX me da acceso a mi biblioteca multimedia y Bitwarden se encarga de administrar mis contraseñas de forma segura.
 
-Cependant, j'ai pris la décision de ne pas tout centraliser sur mon serveur NAS. Les services IT critiques, tels que le routeur OPNsense, le reverse proxy HAProxy, la gestion des certificats Let's Encrypt, ainsi que tous les services de sécurisation de mon réseau et de l'accès aux applications, sont installés sur du matériel dédié. Cette approche garantit une gestion efficace de ces éléments cruciaux et renforce la sécurité de mon réseau. Dans les chapitres suivants, je détaillerai davantage la mise en place de ces services essentiels.
+Sin embargo, tomé la decisión de no centralizar todo en mi servidor NAS.  Los servicios de TI críticos, como el enrutador OPNsense, el proxy inverso HAProxy, la administración de certificados Let's Encrypt, así como todos los servicios para proteger mi red y el acceso a las aplicaciones, están instalados en hardware dedicado.  Este enfoque garantiza una gestión eficaz de estos elementos cruciales y fortalece la seguridad de mi red.  En los siguientes capítulos, detallaré la implementación de estos servicios esenciales con más detalle.
 
-Voici la configuration pour laquelle j'ai opté afin d'accomplir mon objectif
-- Case : Kolink Satellite
-- CPU : Intel 12100T
-- Motherboard : Asrock Z690M-ITX/ax
-- Ram : 2x 32GB Crucial
-- Boot storage (boot-pool) : 2 x 500GB Crucial MX500 SSD
-- Main storage (data) : 8 x 4TB Crucial MX500 SSD + LSI HBA 9300-8i
-- Secondary storage (applications) : 2 x 1TB Crucial P5 Nvme SSD
+Aquí está la configuración que opté para lograr mi objetivo.
+- Caja: Satélite Kolink
+- CPU: Intel 12100T
+- Placa base: Asrock Z690M-ITX/ax
+- Ram: 2x 32 GB cruciales
+- Almacenamiento de arranque (grupo de arranque): 2 SSD Crucial MX500 de 500 GB
+- Almacenamiento principal (datos): 8 x 4 TB Crucial MX500 SSD + LSI HBA 9300-8i
+- Almacenamiento secundario (aplicaciones): 2 SSD Crucial P5 Nvme de 1 TB
 
-| Le serveur assemblé  | Les entrailles |
-| ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/23-10-30%2014-25-46%207881.jpg" width="500" height="375"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165231.png" width="500" height="375"> |
+|  El servidor montado |  Las entrañas |
+|  ------------- |  ------------- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/23-10-30%2014-25-46%207881.jpg" width="500" altura="375"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165231.png" width="500" height="375"> |
 
-Le dashboard
+El tablero
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/Screenshot_20231030_165300.png" width="1000" height="390">
 
-## 🔑 Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
+## 🔑 Tener higiene de contraseñas y alojarlas en mi infraestructura
 
-Comme beaucoup d'entre nous, j'ai jadis utilisé un mot de passe commun pour la plupart des services en ligne auxquels je m'inscrivais. Cette pratique, bien que courante, comporte des risques considérables pour la sécurité en ligne. La prise de conscience de ces dangers m'a incité à chercher des moyens plus sécurisés et efficaces de gérer mes mots de passe.
+Como muchos de nosotros, una vez usé una contraseña común para la mayoría de los servicios en línea en los que me inscribí.  Esta práctica, aunque común, conlleva considerables riesgos de seguridad en línea.  Darme cuenta de estos peligros me impulsó a buscar formas más seguras y efectivas de administrar mis contraseñas.
 
-Ma première tentative pour remédier à cette situation a été d'utiliser les gestionnaires de mots de passe intégrés aux navigateurs web. Cependant, avec le temps, j'ai réalisé que je ne pouvais pas faire entièrement confiance à ces gestionnaires, en particulier en ce qui concerne la sécurité et le contrôle de mes données sensibles.
+Mi primer intento de remediar esta situación fue utilizar los administradores de contraseñas integrados en los navegadores web.  Sin embargo, con el tiempo, me di cuenta de que no podía confiar completamente en estos administradores, especialmente en lo que respecta a la seguridad y el control de mis datos confidenciales.
 
-J'ai donc adopté [Keepass](https://keepass.info/), un gestionnaire de mots de passe open source. Keepass m'a accompagné pendant des années, offrant une solution sécurisée pour stocker mes mots de passe. J'ai même opté pour un stockage en cloud de ma base de données Keepass, ce qui me permettait d'accéder à mes mots de passe depuis n'importe lequel de mes appareils.
+Entonces adopté [Keepass](https://keepass.info/), un administrador de contraseñas de código abierto.  Keepass ha estado conmigo durante años, brindándome una solución segura para almacenar mis contraseñas.  Incluso opté por el almacenamiento en la nube de mi base de datos Keepass, lo que me permitió acceder a mis contraseñas desde cualquiera de mis dispositivos.
 
-Cependant, au fil du temps, j'ai trouvé que l'approche de Keepass devenait de plus en plus fastidieuse. La gestion des bases de données locales et la synchronisation entre les appareils nécessitaient un effort considérable. C'est à ce moment-là que j'ai sérieusement envisagé [Bitwarden](https://bitwarden.com/), un gestionnaire de mots de passe open source, offrant une solution plus fluide et flexible.
+Sin embargo, con el tiempo descubrí que el enfoque de Keepass se volvió cada vez más tedioso.  Administrar bases de datos locales y sincronizar entre dispositivos requirió un esfuerzo considerable.  Fue entonces cuando consideré seriamente [Bitwarden](https://bitwarden.com/), un administrador de contraseñas de código abierto, que ofrece una solución más fluida y flexible.
 
-L'un des avantages clés de Bitwarden est la possibilité d'auto-héberger son propre serveur de mots de passe. Cette option m'a permis de garder le contrôle total de mes données sensibles, sans avoir à faire confiance à des tiers. Les applications Bitwarden sont disponibles pour une multitude de systèmes d'exploitation, de desktop à mobile, ce qui facilite grandement la gestion des mots de passe sur tous mes appareils. De plus, ces applications sont conçues de manière à garantir la sécurité même en cas de perte de connexion, en conservant en cache et cryptant ma base de données de mots de passe.
+Una de las ventajas clave de Bitwarden es la capacidad de alojar su propio servidor de contraseñas.  Esta opción me permitió mantener el control total de mis datos sensibles, sin tener que confiar en terceros.  Las aplicaciones de Bitwarden están disponibles para una multitud de sistemas operativos, desde computadoras de escritorio hasta dispositivos móviles, lo que hace que sea mucho más fácil administrar contraseñas en todos mis dispositivos.  Además, estas aplicaciones están diseñadas para garantizar la seguridad incluso en caso de pérdida de conexión, almacenando en caché y cifrando mi base de datos de contraseñas.
 
-Le catalogue d'applications de TrueNAS propose également [VaultWarden](https://github.com/dani-garcia/vaultwarden), un implémentation alternative de Bitwarden géré par la communauté. Depuis 2019, j'ai utilisé ce service sans heurt et sans souci majeur. Mes mots de passe sont stockés de manière sécurisée et accessibles en toute simplicité. Cette approche d'hygiène des mots de passe et d'auto-hébergement a été une composante essentielle de mon voyage vers une expérience numérique plus sécurisée et transparente. Elle montre que les solutions open source peuvent offrir des alternatives robustes et flexibles pour des besoins de sécurité en ligne, qui évoluent au fil des années.
+El catálogo de aplicaciones TrueNAS también ofrece [VaultWarden](https://github.com/dani-garcia/vaultwarden), una implementación alternativa de Bitwarden administrada por la comunidad.  Desde 2019 utilizo este servicio sin problemas y sin mayores preocupaciones.  Mis contraseñas se almacenan de forma segura y son de fácil acceso.  Este enfoque hacia la higiene de las contraseñas y el autohospedaje ha sido un componente esencial de mi viaje hacia una experiencia digital más segura y transparente.  Muestra que las soluciones de código abierto pueden ofrecer alternativas sólidas y flexibles para las necesidades de seguridad en línea, que evolucionan con los años.
 
-## 📆 Reprendre le contrôle de ma liste de contacts et de mon calendrier
+## 📆 Recuperar el control de mi lista de contactos y calendario
 
-Mon parcours professionnel m'a conduit à travailler dans le domaine du Digital Workplace, où la collaboration, l'adoption des outils et les moyens de communication sont des piliers essentiels de la réussite collective. Dans ce contexte, j'ai eu l'occasion de travailler avec des systèmes tels que Google Workspace et Microsoft 365, qui offrent une panoplie d'outils de productivité et de collaboration. Cependant, parallèlement à ces géants du secteur, j'ai également découvert un acteur plus modeste, NextCloud, qui ambitionne de concurrencer les mastodontes en proposant une alternative open source et auto-hébergée.
+Mi trayectoria profesional me ha llevado a trabajar en el campo del Digital Workplace, donde la colaboración, la adopción de herramientas y medios de comunicación son pilares esenciales del éxito colectivo.  En este contexto, tuve la oportunidad de trabajar con sistemas como Google Workspace y Microsoft 365, que ofrecen una gama de herramientas de productividad y colaboración.  Sin embargo, junto a estos gigantes del sector, también descubrí un jugador más modesto, NextCloud, que pretende competir con los gigantes ofreciendo una alternativa de código abierto y autohospedado.
 
-Ma curiosité m'a poussé à explorer cette solution, même si dans ses premières versions, NextCloud pouvait être délicate à installer et à maintenir. Mon objectif était clair : reprendre le contrôle de ma liste de contacts, de mon calendrier, et de mes données, en me libérant des écosystèmes fermés tels que Google Drive et Google Docs.
+Mi curiosidad me llevó a explorar esta solución, aunque en sus primeras versiones, NextCloud podía resultar complicado de instalar y mantener.  Mi objetivo era claro: recuperar el control de mi lista de contactos, mi calendario y mis datos, liberándome de ecosistemas cerrados como Google Drive y Google Docs.
 
-Plusieurs années se sont écoulées depuis mes premiers pas avec NextCloud, et la plateforme a considérablement évolué. Elle offre aujourd'hui diverses méthodes d'installation, ce qui la rend plus accessible pour les utilisateurs résidentiels. Elle est compatible avec de nombreux NAS, qu'ils soient propriétaires ou open source. Pour ma part, j'ai opté pour une installation [NextCloud All-in-one](https://github.com/nextcloud/all-in-one) sur une machine virtuelle, qui me fournit tous les services dont j'ai besoin.
+Han pasado varios años desde mis primeros pasos con NextCloud y la plataforma ha evolucionado considerablemente.  Ahora ofrece varios métodos de instalación, haciéndolo más accesible para los usuarios residenciales.  Es compatible con muchos NAS, ya sean propietarios o de código abierto.  Por mi parte, opté por una instalación de [NextCloud All-in-one](https://github.com/nextcloud/all-in-one) en una máquina virtual, que me proporciona todos los servicios que necesito. necesidad.
 
-Mon NextCloud personnel inclut un client mail, un calendrier compatible CalDAV, une liste de contacts compatible CardDAV, des outils de prise de notes, un tableau Kanban, une fonctionnalité semblable à Doodle, et surtout, un gestionnaire de fichiers. Ce dernier point est essentiel, car il me permet d'accéder à mes informations, que ce soit depuis mon domicile, en déplacement, ou en collaborant avec d'autres personnes.
+Mi NextCloud personal incluye un cliente de correo electrónico, un calendario habilitado para CalDAV, una lista de contactos habilitada para CardDAV, herramientas para tomar notas, un tablero Kanban, una funcionalidad similar a Doodle y, lo más importante, un administrador de archivos.  Este último punto es fundamental, porque me permite acceder a mi información, ya sea desde casa, mientras estoy en movimiento o colaborando con otras personas.
 
-NextCloud propose également un client iOS, qui automatise le téléchargement de toutes mes photos vers mon serveur NextCloud. Cette fonctionnalité ajoute une couche de sécurité supplémentaire en m'assurant que mes souvenirs sont stockés de manière privée sur mon propre serveur.
+NextCloud también ofrece un cliente iOS, que automatiza la carga de todas mis fotos a mi servidor NextCloud.  Esta característica agrega una capa adicional de seguridad al garantizar que mis recuerdos se almacenen de forma privada en mi propio servidor.
 
-De plus, NextCloud est doté d'un traitement de texte, d'un tableur, et d'un outil de présentation intégrés, permettant de travailler simultanément sur un même document, tout en préservant la maîtrise de nos données. L'utilisation de NextCloud est devenue une habitude dans ma famille, chaque membre l'utilisant pour collaborer et accéder à ses fichiers à distance. Cette transition vers une solution open source auto-hébergée a renforcé ma confiance dans la gestion de mes données personnelles, tout en offrant une expérience de collaboration fluide et sécurisée.
+Además, NextCloud cuenta con procesador de textos, hoja de cálculo y herramienta de presentación integrados, lo que nos permite trabajar simultáneamente en un mismo documento, conservando el control de nuestros datos.  El uso de NextCloud se ha convertido en un hábito en mi familia, y cada miembro lo usa para colaborar y acceder a sus archivos de forma remota.  Esta transición a una solución de código abierto autohospedada ha aumentado mi confianza en la gestión de mis datos personales, al tiempo que me proporciona una experiencia de colaboración segura y fluida.
 
-## 🛂 Mettre en place un réseau fiable et sécurisé
+## 🛂 Establezca una red confiable y segura
 
-Le réseau domestique, par défaut, est souvent peu sécurisé et ne propose que peu de fonctionnalités pour faciliter l'auto-hébergement. C'est pourquoi, lorsque j'ai décidé de m'engager dans l'auto-hébergement de mes services, j'ai rapidement compris qu'il fallait gérer tous les aspects liés à la connectivité, à la sécurité, et à la mise à disposition de mes services en ligne.
+La red doméstica, por defecto, suele ser insegura y ofrece pocas funciones para facilitar el autohospedaje.  Es por eso que, cuando decidí apostar por el autohospedaje de mis servicios, rápidamente entendí que tenía que gestionar todos los aspectos relacionados con la conectividad, la seguridad y la implementación disponibles para mis servicios en línea.
 
-Auto-héberger ses services implique de les rendre disponibles sur Internet, tout en garantissant leur sécurité. C'est à ce moment-là que je me suis lancé à la recherche d'une solution globale pour gérer l'ensemble de ces aspects, y compris le DNS, le DHCP, la sécurité, et la mise en place d'un VPN.
+Autoalojar tus servicios implica ponerlos a disposición en Internet, garantizando al mismo tiempo su seguridad.  Fue entonces cuando comencé a buscar una solución integral para administrar todos estos aspectos, incluidos DNS, DHCP, seguridad y configuración de una VPN.
 
-Après avoir testé différents produits, dont des routeurs d'ASUS, Mikrotik, et pfSense, j'ai finalement opté pour [OPNsense](https://opnsense.org/). OPNsense est une solution open source de routeur/firewall qui propose des packages additionnels pour activer les fonctionnalités dont j'avais besoin. Sa flexibilité et ses capacités de personnalisation m'ont convaincu.
+Después de probar diferentes productos, incluidos enrutadores de ASUS, Mikrotik y pfSense, finalmente me decidí por [OPNsense](https://opnsense.org/).  OPNsense es una solución de enrutador/firewall de código abierto que ofrece paquetes adicionales para habilitar las funciones que necesitaba.  Su flexibilidad y capacidades de personalización me convencieron.
 
-PhasedLogix a une excellente playlist pour prendre en main la solution. Le gars est clair et sait rendre accessible une solution relativement austère 🥇
-[Learn OPNSense Firewall](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" width="1000" height="408">
+PhasedLogix tiene una excelente lista de reproducción para comenzar con la solución.  El tipo es claro y sabe cómo hacer accesible una solución relativamente austera 🥇
+[Conozca el firewall OPNSense](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" ancho="1000" alto="408">
 
-Pour garantir la fiabilité et la sécurité de mon réseau, j'ai choisi d'installer OPNsense sur un matériel "bare metal", ce qui signifie que le logiciel fonctionne directement sur un matériel dédié plutôt que dans une machine virtuelle. Cette décision était cruciale, car le routeur/firewall joue un rôle essentiel dans la sécurité de mon réseau. Parmi les options disponibles, j'ai opté pour le matériel de la marque [ProtectLI](https://eu.protectli.com/), qui propose des produits de qualité avec un BIOS open source, [CoreBoot](https://www.coreboot.org/), en accord avec ma philosophie open source.
+Para garantizar la confiabilidad y seguridad de mi red, elegí instalar OPNsense en hardware básico, lo que significa que el software se ejecuta directamente en hardware dedicado en lugar de en una máquina virtual.  Esta decisión fue crucial, porque el enrutador/firewall juega un papel esencial en la seguridad de mi red.  Entre las opciones disponibles, opté por hardware de la marca [ProtectLI](https://eu.protectli.com/), que ofrece productos de calidad con una BIOS de código abierto, [CoreBoot](https://www.coreboot. org/), en línea con mi filosofía de código abierto.
 
-| La vue front  | La vue back |
-| ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_back_1600x1600-600x600.jpg" width="500" height="500"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_angle-1-600x600.jpg" width="500" height="500"> |
+|  La vista frontal |  La vista trasera |
+|  ------------- |  ------------- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_back_1600x1600-600x600.jpg" width="500" height="500"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/VP2420_angle-1-600x600.jpg" width="500" height="500"> |
 
-L'exposition de mes services sur Internet nécessite l'utilisation d'un nom de domaine, ainsi que de sous-domaines pour rendre chaque service accessible individuellement. Pour gérer cela, j'ai mis en place un reverse proxy [HAProxy](https://www.haproxy.com/fr), qui redirige les demandes en fonction du sous-domaine vers le service correspondant.
+Exponer mis servicios en Internet requiere el uso de un nombre de dominio, así como subdominios para que cada servicio sea accesible individualmente.  Para gestionar esto, configuro un proxy inverso [HAProxy](https://www.haproxy.com/fr), que redirige las solicitudes basadas en el subdominio al servicio correspondiente.
 
-La gestion des certificats SSL/TLS est essentielle pour garantir la sécurité des connexions. Heureusement, il existe une autorité de certification gratuite, Let's Encrypt, qui permet d'obtenir des certificats SSL/TLS de manière automatisée. OPNsense facilite cette tâche en utilisant le plugin ACME, qui renouvelle automatiquement les certificats, qu'ils soient wildcard ou non, pour tous mes sous-domaines. Ainsi, chaque service, qu'il s'agisse de NextCloud, Bitwarden, Plex, et bien d'autres, est accessible via un sous-domaine sécurisé.
+La gestión de certificados SSL/TLS es esencial para garantizar conexiones seguras.  Afortunadamente, existe una autoridad certificadora gratuita, Let's Encrypt, que permite obtener certificados SSL/TLS de forma automatizada.  OPNsense facilita esto mediante el uso del complemento ACME, que renueva automáticamente los certificados, ya sean comodines o no, para todos mis subdominios.  Por lo tanto, se puede acceder a cada servicio, ya sea NextCloud, Bitwarden, Plex y muchos otros, a través de un subdominio seguro.
 
-Le DNS interne joue également un rôle clé dans la résolution des noms de domaine à l'intérieur de mon réseau. J'ai choisi d'utiliser le service unbound sur OPNsense, en utilisant des listes de filtrage de domaines indésirables, similaires à Pi-Hole. Le résultat est une expérience de navigation sans publicités ni fenêtres intrusives sur l'ensemble de mon réseau domestique.
+El DNS interno también juega un papel clave en la resolución de nombres de dominio dentro de mi red.  Elegí usar el servicio independiente en OPNsense, usando listas de filtrado de dominios de spam, similares a Pi-Hole.  El resultado es una experiencia de navegación libre de anuncios y ventanas intrusivas en toda mi red doméstica.
 
-Ainsi, la mise en place d'un réseau fiable et sécurisé est devenue un élément essentiel de mon voyage vers une expérience numérique basée sur l'open source, garantissant que mes services sont accessibles en toute sécurité, tant depuis l'intérieur que depuis l'extérieur de mon réseau domestique.
+Por lo tanto, establecer una red confiable y segura se ha convertido en una parte esencial de mi viaje hacia una experiencia digital basada en código abierto, garantizando que mis servicios sean accesibles de forma segura, tanto desde dentro como fuera de mi red doméstica.
 
-J'aime beaucoup la manière dont TechnoTim a su très bien vulgariser et expliquer la sécurité pour le Homelabing. On y traite des sujets des firewalls, reverse proxy, segmentation des réseaux, etc...
+Me gusta mucho la forma en que TechnoTim pudo popularizar y explicar muy bien la seguridad de Homelabing.  Cubrimos los temas de firewalls, proxy inverso, segmentación de redes, etc.
 
-[Self-Hosting Security Guide for your HomeLab](https://www.youtube.com/watch?v=Cs8yOmTJNYQ&t=185s)
-<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png" width="1000" height="516">
+[Guía de seguridad de autohospedaje para su HomeLab](https://www.youtube.com/watch?v=Cs8yOmTJNYQ&t=185s)
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/security.png" ancho="1000" alto="516">
 
-## 🌳 Veiller à l'impact écologique via une approche de greenLabing
+## 🌳 Garantizar el impacto ecológico mediante un enfoque greenLabing
 
-Lorsque l'on s'engage dans l'auto-hébergement de ses services, il est important de considérer l'impact écologique de cette démarche. En effet, la mise en place d'une infrastructure personnelle peut entraîner une consommation électrique et une dépense en matériel informatique, ce qui doit être équilibré avec une approche respectueuse de l'environnement.
+Al comprometerse a alojar sus servicios usted mismo, es importante considerar el impacto ecológico de este enfoque.  De hecho, el establecimiento de una infraestructura personal puede generar consumo de electricidad y gastos en equipos informáticos, que deben equilibrarse con un enfoque respetuoso con el medio ambiente.
 
-Dans cette optique, j'ai conçu mon approche d'auto-hébergement avec un souci d'efficacité énergétique et de durabilité. Chacun des appareils que j'utilise a été choisi pour sa faible consommation électrique et sa longévité. En combinant ces deux facteurs, j'ai pu réduire au maximum l'impact environnemental de mon infrastructure.
+Con esto en mente, diseñé mi enfoque de autohospedaje teniendo en cuenta la eficiencia energética y la sostenibilidad.  Cada uno de los dispositivos que uso ha sido elegido por su bajo consumo de energía y longevidad.  Combinando estos dos factores, pude reducir al máximo el impacto ambiental de mi infraestructura.
 
-L'ensemble de mes appareils, au nombre de trois, consomme un total de seulement 60 watts, soit l'équivalent de ce que consommerait une ampoule d'ancienne génération. Cette faible consommation est le résultat d'une sélection minutieuse du matériel et de son dimensionnement pour garantir des performances optimales tout en limitant la dépense énergétique.
+Todos mis dispositivos, tres en total, consumen un total de sólo 60 vatios, el equivalente a lo que consumiría una bombilla de generación anterior.  Este bajo consumo es el resultado de una cuidadosa selección de los equipos y de su dimensionamiento para garantizar un rendimiento óptimo limitando el gasto energético.
 
-De plus, certains de mes appareils ont été délibérément surdimensionnés pour prolonger leur durée de vie et garantir leur compatibilité avec les technologies futures. Cette approche "agnostic" en termes de technologie permet d'éviter des remplacements fréquents d'appareils, réduisant ainsi la quantité de déchets électroniques.
+Además, algunos de mis dispositivos han sido sobredimensionados deliberadamente para prolongar su vida útil y garantizar la compatibilidad con tecnologías futuras.  Este enfoque independiente de la tecnología evita los reemplazos frecuentes de dispositivos, lo que reduce la cantidad de desechos electrónicos.
 
-Un exemple concret de cette approche est la gestion de mon réseau filaire et Wi-Fi. J'ai délibérément séparé les deux appareils, le routeur et le point d'accès Wi-Fi, car les normes Wi-Fi évoluent rapidement. Ainsi, lorsque la prochaine génération de norme Wi-Fi sera disponible, je n'aurai besoin de remplacer que le point d'accès, préservant ainsi mon routeur et évitant un remplacement inutile de tout l'équipement.
+Un ejemplo del mundo real de este enfoque es la gestión de mi red cableada y Wi-Fi. He separado deliberadamente los dos dispositivos, el enrutador y el punto de acceso Wi-Fi, porque los estándares Wi-Fi están evolucionando rápidamente.  Entonces, cuando la próxima generación del estándar Wi-Fi esté disponible, solo tendré que reemplazar el punto de acceso, preservando así mi enrutador y evitando el reemplazo innecesario de todo el equipo.
 
-En veillant à l'impact écologique de mon approche d'auto-hébergement, je cherche à concilier les avantages de la maîtrise de mes données et de mes services avec un engagement en faveur de la durabilité et de la réduction de mon empreinte environnementale. Cette démarche s'inscrit dans la philosophie du GreenLabing, qui consiste à allier technologie et respect de la planète pour une informatique plus responsable.
+Al garantizar el impacto ecológico de mi enfoque de autohospedaje, busco conciliar los beneficios de controlar mis datos y servicios con un compromiso con la sostenibilidad y la reducción de mi huella ambiental.  Este enfoque se enmarca en la filosofía GreenLabing, que consiste en combinar tecnología y respeto por el planeta para una TI más responsable.
 
-Des ressources intéressantes sur le sujet
-[How to save power in a Homelab? 5 Tips!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
-[Answering Your Power Efficiency Questions! | Homelab Power Optimization Q&A ](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
+Recursos interesantes sobre el tema.
+[¿Cómo ahorrar energía en un Homelab?  ¡5 consejos!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
+[¡Respondiendo a sus preguntas sobre eficiencia energética!  |  Preguntas y respuestas sobre la optimización de la energía de Homelab](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
 
-
-# IV. Systèmes d'exploitation Open Source <a name="os"/>
+#IV. Sistemas operativos de código abierto <a name="os"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
-L'une des étapes les plus marquantes de mon voyage vers l'utilisation exclusive d'outils open source a été mon passage à un système d'exploitation open source pour mon poste de travail. Ce changement s'est produit grâce à un déclic, une révélation qui est venue sous la forme d'un appareil de jeu : le [Steam Deck](https://www.steamdeck.com/fr), une console de jeu portative basée sur Arch Linux.
+Uno de los hitos más importantes en mi viaje hacia el uso exclusivo de herramientas de código abierto fue mi transición a un sistema operativo de código abierto para mi estación de trabajo.  Este cambio se produjo gracias a un clic, una revelación que llegó en forma de un dispositivo de juego: el [Steam Deck](https://www.steamdeck.com/fr), una consola de juegos portátil basada en Arch Linux.
 
-En tant que passionné de jeux vidéo, j'ai été impressionné par l'engagement de la société [Valve](https://fr.wikipedia.org/wiki/Valve_(entreprise)) pour rendre compatible un nombre impressionnant de jeux, à l'origine prévus pour Windows, avec Linux. Cette démarche audacieuse a attiré mon attention et a suscité ma curiosité.
+Como entusiasta de los videojuegos, me impresionó el compromiso de la empresa [Valve](https://fr.wikipedia.org/wiki/Valve_(company)) de hacer compatibles una cantidad impresionante de juegos, originalmente pensados ​​para Windows, con linux.  Este movimiento audaz me llamó la atención y despertó mi curiosidad.
 
-C'est ainsi que j'ai ressenti le désir d'en apprendre davantage sur ce système d'exploitation, de plonger dans le monde de Linux, et de voir s'il pouvait répondre à mes besoins au-delà du jeu. Mon parcours m'a naturellement conduit à rejoindre la communauté [Gaming Linux FR](https://www.gaminglinux.fr/), où j'ai pu trouver de l'aide et des conseils pour faciliter ma transition de Windows à Linux.
+Fue así como sentí el deseo de aprender más sobre este sistema operativo, sumergirme en el mundo de Linux y ver si podía satisfacer mis necesidades más allá de los juegos. Mi viaje me llevó naturalmente a unirme a la [Gaming Linux FR](https ://www.gaminglinux.fr/), donde pude encontrar ayuda y consejos para facilitar mi transición de Windows a Linux.
 
-Ce qui m'a le plus marqué dans cette expérience, c'est l'ouverture d'esprit, la volonté de partage et le dévouement de la communauté open source à aider le plus grand nombre à opérer cette transition. J'ai rapidement réalisé que la philosophie de l'open source était ancrée dans l'ADN de cette communauté. Chacun était prêt à partager ses connaissances, à résoudre des problèmes et à faire en sorte que Linux devienne accessible à tous.
+Lo que más me llamó la atención de esta experiencia fue la mentalidad abierta, la voluntad de compartir y la dedicación de la comunidad de código abierto para ayudar a la mayor cantidad de personas posible a realizar esta transición.  Rápidamente me di cuenta de que la filosofía del código abierto estaba arraigada en el ADN de esta comunidad.  Todos estaban dispuestos a compartir sus conocimientos, resolver problemas y hacer que Linux fuera accesible para todos.
 
-Après avoir testé différentes distributions Linux, notamment Debian, Fedora et OpenSUSE, j'ai finalement trouvé mon point de chute avec [Arch Linux](https://archlinux.org/). Ce système d'exploitation open source correspondait à 100% à mes besoins. Il m'offrait la flexibilité et la personnalisation dont j'avais besoin pour adapter mon environnement de travail à mes préférences.
+Después de probar diferentes distribuciones de Linux, incluidas Debian, Fedora y OpenSUSE, finalmente encontré mi punto ideal con [Arch Linux] (https://archlinux.org/).  Este sistema operativo de código abierto satisfizo mis necesidades al 100%.  Me ofreció la flexibilidad y personalización que necesitaba para adaptar mi entorno de trabajo a mis preferencias.
 
-Vous voulez un panorama des distributions existantes,la référence reste [DistroWatch](https://distrowatch.com/) !
-Vous voulez essayer les distributions sans pour autant les installer (ni même booter sur une ISO Live) [DistroSea](https://distrosea.com/) vous permettra de tester dans une VM au sein de votre navigateur :)
+Si desea obtener una descripción general de las distribuciones existentes, ¡la referencia sigue siendo [DistroWatch](https://distrowatch.com/)!
+Desea probar las distribuciones sin instalarlas (o incluso iniciar en Live ISO) [DistroSea](https://distrosea.com/) le permitirá probar en una máquina virtual dentro de su navegador :)
 
-Avec Arch Linux, j'ai pu travailler efficacement en utilisant uniquement des applications open source, tout en conservant certaines [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) des applications Microsoft qui s'avéraient incontournables. Cette transition m'a montré que l'open source n'était pas seulement une option viable, mais qu'il pouvait également répondre à tous les besoins, qu'il s'agisse de productivité, de divertissement ou de tout autre aspect de la vie numérique.
+Con Arch Linux, pude trabajar de manera eficiente usando solo aplicaciones de código abierto, manteniendo al mismo tiempo algunas [*Progressive Web Apps*](https://fr.wikipedia.org/wiki/Progressive_web_app) de las aplicaciones de Microsoft que eran esenciales.  Esta transición me mostró que el código abierto no sólo era una opción viable, sino que también podía satisfacer cualquier necesidad, ya fuera productividad, entretenimiento o cualquier otro aspecto de la vida digital.
 
-Mon aventure avec Arch Linux a renforcé ma conviction que l'open source est bien plus qu'une alternative aux logiciels propriétaires. C'est une communauté ouverte, collaborative et dévouée, prête à accompagner les utilisateurs dans leur exploration d'un avenir numérique plus libre et transparent.
+Mi aventura con Arch Linux ha reforzado mi creencia de que el código abierto es mucho más que una alternativa al software propietario.  Es una comunidad abierta, colaborativa y dedicada, lista para ayudar a los usuarios en su exploración de un futuro digital más libre y transparente.
 
-J'ai assisté avec beaucoup d'intérêt à l'[Interview d'un packager Arch Linux](https://www.youtube.com/watch?v=qXvzGRm9iFs) où j'ai pu me faire une idée plus précise du soin aporté par la communauté à livrer une expérience satisfaisante à ses utilisateurs et minimisant les instabilités et autres bugs.
+Asistí con mucho interés a la [Entrevista a un empaquetador de Arch Linux](https://www.youtube.com/watch?v=qXvzGRm9iFs) donde pude tener una idea más precisa del cuidado que tiene la comunidad para ofrecer una experiencia satisfactoria a sus usuarios y minimizar las inestabilidades y otros errores.
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Desktop.png" width="1000" height="562">
 
 
-## Performances de Jeu au Top
+## Máximo rendimiento en juegos
 
-| CyberPunk 2077  | CS:GO | Forza Horizon 5 |
-| ------------- | ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="320" height="177"> | <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="320" height="177"> |
+|  CiberPunk 2077 |  CS:GO |  Forza Horizonte 5 |
+|  ------------- |  ------------- |  ------------- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="320" height="177"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="320" height="177"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="320" height="177"> |
 
-
-# V. L'Open Collaboration et la Puissance de la Communauté <a name="collab"/>
+# V. Colaboración abierta y el poder de la comunidad <a name="collab"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/community.png" width="1000" height="250">
 
-L'un des aspects les plus inspirants de mon voyage vers l'utilisation exclusive d'outils open source est la découverte de l'open collaboration et de la formidable puissance de la communauté qui l'accompagne. Dans ce chapitre, nous explorerons les avantages de l'open collaboration, de l'innovation collective et de la solidité de la communauté, en mettant en lumière les principes de cette approche.
+Uno de los aspectos más inspiradores de mi viaje hacia el uso exclusivo de herramientas de código abierto es descubrir la colaboración abierta y el tremendo poder de la comunidad que conlleva.  En este capítulo, exploraremos los beneficios de la colaboración abierta, la innovación colectiva y la fortaleza de la comunidad, destacando los principios de este enfoque.
 
-Les Fondements de l'Open Collaboration
+Los fundamentos de la colaboración abierta
 
-L'open collaboration est une philosophie qui repose sur le partage, la coopération et l'ouverture. Elle favorise la collaboration entre individus et groupes de manière transparente, libre et souvent décentralisée. Cette approche a des implications profondes, non seulement dans le monde de l'open source, mais aussi dans le monde professionnel.
+La colaboración abierta es una filosofía basada en el intercambio, la cooperación y la apertura.  Promueve la colaboración entre individuos y grupos de forma transparente, gratuita y, a menudo, descentralizada.  Este enfoque tiene profundas implicaciones, no sólo en el mundo del código abierto, sino también en el mundo profesional.
 
-## La collaboration décentralisée et la richesse des perspectives multiculturelles
+## Colaboración descentralizada y la riqueza de las perspectivas multiculturales
 
-L'un des aspects les plus stimulants de l'open collaboration est la possibilité de travailler avec des personnes de divers pays, de cultures et de langues différentes. En tant qu'adepte de cette philosophie, j'ai eu l'opportunité de collaborer avec des individus de partout dans le monde, en utilisant des langues que je maîtrise telles que le français, l'anglais et l'espagnol. Cette diversité culturelle apporte une richesse infinie de points de vue, d'expériences et d'expertises. Elle renforce l'idée que l'innovation naît de la diversité.
+Uno de los aspectos más interesantes de la colaboración abierta es la oportunidad de trabajar con personas de diversos países, culturas e idiomas.  Como seguidor de esta filosofía, he tenido la oportunidad de colaborar con personas de todo el mundo, utilizando idiomas que domino como francés, inglés y español.  Esta diversidad cultural aporta una riqueza infinita de puntos de vista, experiencias y conocimientos.  Refuerza la idea de que la innovación nace de la diversidad.
 
-« La collaboration, c'est l'occasion de découvrir de nouvelles perspectives, de repousser les limites de la créativité et d'enrichir nos idées grâce à la diversité des contributeurs. » - [Citation de Linus Torvalds, créateur de Linux]
+“La colaboración es una oportunidad para descubrir nuevas perspectivas, superar los límites de la creatividad y enriquecer nuestras ideas gracias a la diversidad de colaboradores.  » - [Cita de Linus Torvalds, creador de Linux]
 
-## Le pouvoir de la collaboration asynchrone
+## El poder de la colaboración asincrónica
 
-L'un des atouts clés de l'open collaboration est la flexibilité qu'elle offre grâce au travail asynchrone. Travailler avec des individus répartis sur différentes zones horaires signifie que la collaboration peut se poursuivre 24 heures sur 24. Les contributions peuvent se faire en fonction des disponibilités de chacun, créant une dynamique de travail continue. Cela permet de tirer pleinement parti des talents disponibles, indépendamment de la localisation géographique.
+Una de las fortalezas clave de la colaboración abierta es la flexibilidad que ofrece a través del trabajo asincrónico.  Trabajar con personas repartidas en diferentes zonas horarias significa que la colaboración puede continuar las 24 horas del día. Las contribuciones se pueden realizar en función de la disponibilidad de cada persona, creando una dinámica de trabajo continua.  Esto le permite aprovechar al máximo el talento disponible, independientemente de la ubicación geográfica.
 
-Quelques formations existent et sont très enrichissantes. Je les ai suivi et essaye d'intégrer les concepts clés dans mon quotidien.
-- Limiter l'utilisation des emails et favoriser l'utilisation d'un référentiel unique pour écrire, documenter et intérragir. Il s'agit d'une "single source of truth" qui facilite l'information, l'onboarding et évite de se disperser.
-- Utiliser des chats persistants pour que quelque soit la zone géographique d'un individu, il puisse prendre connaissance des échanges durant ses heures de travail. De nombreux outils existent : Discord, Teams, Slack, NextCloud Chat.
-- Développer son relationel à distance : les cafés virtuels, les projets cross-countries, les peer reviews entre zone géographiques, toutes ces solutions forment une base solide à la collaboration asynchrone.
+Existen algunos cursos de formación que son muy enriquecedores.  Los seguí y trato de integrar los conceptos clave en mi vida diaria.
+- Limitar el uso de correos electrónicos y fomentar el uso de un repositorio único para escribir, documentar e interactuar.  Es una “fuente única de verdad” que facilita la información, la incorporación y evita la dispersión.
+- Utilizar chats persistentes para que sea cual sea la zona geográfica de un individuo, pueda conocer los intercambios durante su horario laboral.  Existen muchas herramientas: Discord, Teams, Slack, NextCloud Chat.
+- Desarrolla tus relaciones de forma remota: cafés virtuales, proyectos entre países, revisiones por pares entre áreas geográficas, todas estas soluciones forman una base sólida para la colaboración asincrónica.
 
-Je ne saurais que trop conseiller le travail de GitLab sur le sujet. Gitlab a développé à fond sa stratégie All-Remote et, comme ils appliquent bien leurs principes, tout est documenté sur le ["*GitLab's Guide to All-Remote*https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/)
+No puedo recomendar lo suficiente el trabajo de GitLab sobre el tema.  Gitlab ha desarrollado exhaustivamente su estrategia All-Remote y, debido a que aplican bien sus principios, todo está documentado en ["*Guía de GitLab para All-Remote*https://handbook.gitlab.com/handbook/company/culture/ all- remoto/guía/)
 
-Les formations dispensées par GitLab sont excellentes. Cela demande de la mise en pratique et d'y revenir régulièrement pour se recentrer sur son application
+La formación proporcionada por GitLab es excelente.  Esto requiere práctica y volver a él con regularidad para volver a centrarse en su aplicación.
 
-| Formation  | Contenu |
-| ------------- | ------------- |
-| [Remote Team Management](https://www.coursera.org/learn/remote-team-management#modules)| Diriger dans un environnement distant, Instaurer une culture et des pratiques organisationnelles à distance, Évaluer l'état de préparation des équipes et des responsables au travail à distance, Créer une stratégie de base pour la mise en œuvre d'une transformation à distance   |
-| [TeamOps](https://about.gitlab.com/teamops/) | Se concentre sur trouver des solutions aux challenges suivants : les Retards dans la prise de décision, Fatigue des réunions, Mauvaise communication interne, Lenteur des transferts et retards dans le déroulement du travail Cell  |
+|  Formación |  Contenido |
+|  ------------- |  ------------- |
+|  [Gestión remota de equipos](https://www.coursera.org/learn/remote-team-management#modules)|  Liderar en un entorno remoto, crear una cultura y prácticas organizativas remotas, evaluar la preparación de los equipos y gerentes para el trabajo remoto, crear una estrategia básica para implementar una transformación remota |
+|  [Opciones de equipo](https://about.gitlab.com/teamops/) |  Se centra en encontrar soluciones a los siguientes desafíos: Retrasos en la toma de decisiones, Fatiga de las reuniones, Mala comunicación interna, Transferencias lentas y retrasos en el flujo de trabajo Célula |
 
+## Software libre en el mundo profesional
 
-## Le libre dans le monde professionnel
+Mi experiencia en el mundo del código abierto también me ha llevado a aplicar estos principios en mi labor profesional.  Desarrollé un marco de código abierto dentro de mi empresa, que es accesible para todos los empleados.  El intercambio de conocimientos, la documentación exhaustiva y el acceso abierto a la información son elementos clave de este enfoque.  Esto promueve la transparencia, la innovación y la colaboración, al tiempo que elimina las barreras a la comunicación dentro de la empresa.
 
-Mon expérience dans le monde de l'open source m'a également conduit à appliquer ces principes dans mon travail professionnel. J'ai développé un framework open source au sein de mon entreprise, qui est accessible à tous les employés. Le partage des connaissances, la documentation exhaustive et l'accès ouvert à l'information sont des éléments clés de cette approche. Cela favorise la transparence, l'innovation et la collaboration, tout en éliminant les barrières à la communication au sein de l'entreprise.
+“El código abierto dentro de las empresas ayuda a crear un ecosistema de innovación donde cada individuo puede contribuir a la mejora de los procesos y al crecimiento de la empresa.  » - [Cita de Eric S. Raymond, pensador del código abierto]
 
-« L'open source au sein des entreprises permet de créer un écosystème d'innovation où chaque individu peut contribuer à l'amélioration des processus et à la croissance de l'entreprise. » - [Citation d'Eric S. Raymond, penseur de l'open source]
+## El ejemplo de Arch Linux: una comunidad fuerte
 
-## L'exemple d'Arch Linux : une communauté Solide
+Mi transición a Arch Linux me permitió experimentar plenamente el poder de la comunidad de código abierto.  Arch Linux no es sólo una distribución de Linux, sino también una comunidad activa y dedicada.  Los usuarios y desarrolladores colaboran para mantener un sistema operativo robusto y flexible.
 
-Ma transition vers Arch Linux m'a permis de vivre pleinement la force de la communauté open source. Arch Linux est non seulement une distribution Linux, mais aussi une communauté active et dédiée. Les utilisateurs et les développeurs collaborent pour maintenir un système d'exploitation robuste et flexible.
+“El código abierto no se trata sólo de compartir código, sino de compartir conocimientos, habilidades y construir relaciones duraderas en una comunidad sólida.  » - [Cita de Linus Torvalds]
 
-« L'open source ne consiste pas seulement à partager du code, mais à partager des connaissances, des compétences et à construire des relations durables dans une communauté solide. » - [Citation de Linus Torvalds]
+Beneficios de la colaboración abierta y el poder de la comunidad
 
-Avantages de l'Open Collaboration et de la Puissance de la Communauté
+La colaboración abierta y la fuerza de la comunidad abren la puerta a múltiples ventajas:
+- Innovación colectiva: La diversidad de contribuyentes y perspectivas estimula la innovación constante.
+- Intercambio de conocimientos: el código abierto promueve el intercambio de conocimientos, fomentando el aprendizaje continuo.
+- Transparencia y confianza: la colaboración abierta genera confianza y transparencia dentro de la comunidad.
+- Flexibilidad y Agilidad: La colaboración asincrónica y descentralizada permite una mayor flexibilidad en el trabajo.
 
-L'open collaboration et la solidité de la communauté ouvrent la porte à de multiples avantages :
-- Innovation Collective : La diversité des contributeurs et des perspectives stimule l'innovation constante.
-- Partage de Connaissances : L'open source favorise le partage des connaissances, encourageant l'apprentissage continu.
-- Transparence et Confiance : La collaboration ouverte construit la confiance et la transparence au sein de la communauté.
-- Flexibilité et Agilité : La collaboration asynchrone et décentralisée permet une plus grande flexibilité dans le travail.
+## Contribuciones de código abierto
 
-## Contributions Open-Source
+La interacción con la comunidad de código abierto es un componente esencial de mi enfoque.  Lo que hace que esta interacción sea aún más enriquecedora es que es bidireccional.  De hecho, así como la comunidad de código abierto me proporciona herramientas y soluciones excepcionales, me esfuerzo por contribuir a esta misma comunidad, en la medida de mis habilidades y medios, para poder retribuir.
 
-L'interaction avec la communauté open source est une composante essentielle de ma démarche. Ce qui rend cette interaction d'autant plus enrichissante, c'est qu'elle est bi-directionnelle. En effet, tout comme la communauté open source me fournit des outils et des solutions exceptionnelles, je m'efforce de contribuer à cette même communauté, dans la mesure de mes compétences et de mes moyens, afin de donner en retour.
+Las formas de participar en la comunidad del software libre son variadas y cada uno puede encontrar su propia manera de contribuir.  Las contribuciones pueden tomar muchas formas:
+- Informe de errores
+- Sugerencias de mejoras o nuevas funciones.
+- Escritura de código
+- Revisión de las participaciones de otros contribuyentes,
+- Traducción
+- Presentación
+- Pedagogía (Videos, Artículos, participación en asociaciones)
+- Soporte a través de foros, reddit, canales de discordia
 
-Les façons de participer à la communauté du logiciel libre sont variées, et chacun peut trouver sa propre manière de contribuer. Les contributions peuvent prendre de nombreuses formes :
-- Signalement de bogues
-- Suggestions d'améliorations ou nouvelles fonctionnalités
-- Rédaction de code
-- Revue des participations des autres contributeurs,
-- Traduction
-- Présentation
-- La  pédagogie (Vidéos, Articles, participations à des associations)
-- L'entraide via les forums, reddit, les channels discord
+Personalmente, participo activamente en varios proyectos de código abierto, según mis habilidades e intereses.  Mis contribuciones incluyen informar errores y proponer mejoras para soluciones como OPNsense y NextCloud.  También contribuí creando descriptores YAML para TrueNAS, haciendo traducciones para Arch Linux y el proyecto [Architect](https://github.com/Cardiacman13/Architect) de Cardiac, además de trabajar en la implementación en buen estado para desarrollar el proyecto Architect. , cuyo objetivo es simplificar el uso de Arch Linux para usuarios de escritorio.
 
-Personnellement, je m'engage activement dans plusieurs projets open source, en fonction de mes compétences et de mes centres d'intérêt. Mes contributions incluent le signalement de bogues et la proposition d'améliorations pour des solutions telles qu'OPNsense et NextCloud. J'ai également contribué en créant des descripteurs YAML pour TrueNAS, en effectuant des traductions pour Arch Linux et le projet [Architect](https://github.com/Cardiacman13/Architect) de Cardiac, ainsi qu'en travaillant sur la mise en forme pour développer le projet Architect, qui vise à simplifier l'utilisation d'Arch Linux pour les utilisateurs desktop.
-
-Au cours de l'année 2023, j'ai modestement réalisé environ 200 contributions à ces différents projets open source. Mon engagement dans la communauté du logiciel libre est une manière de remercier et de soutenir les développeurs et les contributeurs qui ont permis la création des outils sur lesquels je compte au quotidien. C'est aussi une façon de participer à l'amélioration continue de ces logiciels et de rendre à la communauté ce qu'elle m'a offert en termes de liberté, de transparence, et de fiabilité.
+Durante el año 2023, hice modestamente alrededor de 200 contribuciones a estos diferentes proyectos de código abierto.  Mi participación en la comunidad de software libre es una forma de agradecer y apoyar a los desarrolladores y contribuyentes que han permitido la creación de las herramientas en las que confío todos los días.  También es una forma de participar en la mejora continua de este software y de devolver a la comunidad lo que me ha ofrecido en términos de libertad, transparencia y confiabilidad.
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-# VII. Passons le message ! <a name="message"/>
+#VII. ¡Difundamos el mensaje!  <un nombre="mensaje"/>
 
-Mon engagement en faveur de l'open source ne se limite pas à une utilisation personnelle ou professionnelle, il va bien au-delà. Il s'agit d'une conviction profonde que je porte avec passion, et l'une de mes missions est d'informer, partager et éduquer autour des avantages de l'open source et de la philosophie qui l'accompagne.
+Mi compromiso con el código abierto no se limita al uso personal o profesional, va mucho más allá.  Esta es una convicción profunda que mantengo con pasión, y una de mis misiones es informar, compartir y educar sobre los beneficios del código abierto y la filosofía que lo acompaña.
 
-## 📖 Informations au lieu de conversion 
-Il est essentiel de préciser que mon objectif n'est pas de convertir, mais avant tout d'informer. Je crois que l'open source est une approche qui mérite d'être mieux comprise et appréciée. C'est pourquoi je m'efforce de partager des informations, d'expliquer les avantages, et de mettre en lumière la philosophie qui sous-tend cette démarche. Je souhaite que chacun puisse prendre des décisions éclairées en matière de technologie.
+## 📖 Información en lugar de conversión 
+Es fundamental aclarar que mi objetivo no es convertir, sino sobre todo informar.  Creo que el código abierto es un enfoque que merece ser comprendido y apreciado mejor.  Por eso me esfuerzo por compartir información, explicar los beneficios y arrojar luz sobre la filosofía detrás de este enfoque.  Quiero que todos puedan tomar decisiones informadas en lo que respecta a la tecnología.
 
-## 🐧 La Communauté Open Source 
-La communauté open source est l'un des joyaux de cette approche. Elle est composée de personnes passionnées, curieuses et accueillantes, prêtes à partager leurs connaissances et à accueillir de nouveaux venus chaque jour. Cette communauté dynamique est une source inestimable de connaissances et d'inspiration. Elle incarne les valeurs de l'open source, telles que la collaboration, la transparence et la générosité.
+## 🐧 La comunidad de código abierto 
+La comunidad de código abierto es una de las joyas de este enfoque.  Está formado por personas apasionadas, curiosas y acogedoras, dispuestas a compartir sus conocimientos y dar la bienvenida a gente nueva cada día.  Esta vibrante comunidad es una fuente invaluable de conocimiento e inspiración.  Encarna los valores del código abierto, como la colaboración, la transparencia y la generosidad.
 
-## 🧠 Plus qu'une question d'outils 
-L'open source n'est pas uniquement une question d'outils techniques ou technologiques, c'est aussi une question d'état  d'esprit. Cela englobe la transparence, le goût de la transmission et le partage des connaissances. J'estime que l'open source est une invitation à l'apprentissage continu, à la création collaborative et à l'amélioration constante.
+## 🧠 Más que una cuestión de herramientas 
+El código abierto no es sólo una cuestión de herramientas técnicas o tecnológicas, es también una cuestión de estado de ánimo.  Esto incluye transparencia, gusto por la transmisión y el intercambio de conocimientos.  Creo que el código abierto es una invitación al aprendizaje continuo, a la creación colaborativa y a la mejora constante.
 
-## 👨‍👨‍👧‍👦 De la pédagogie pour les kids 
+## 👨‍👨‍👧‍👦 Educación para niños 
 
+|  Aprender |  cualquiera que sea su edad |
+|  ------------- |  ------------- |
+|  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Team.png" width="120" height="120"> |  Una de mis prioridades es informar a los jóvenes sobre el lado oscuro de las redes sociales y concienciarlos de la importancia de tener cuidado en línea.  Me esfuerzo por transmitir valores de vigilancia, de no exponerse demasiado en Internet y de no compartir nada demasiado importante.  Estas lecciones fundamentales son esenciales para proteger la privacidad y la seguridad digital.  Mis propios hijos son los principales beneficiarios y es gratificante verlos comprender la importancia de estos mensajes a su manera, como el simple "Es genial Linux" pronunciado por mi hijo mayor.  |
 
-| Apprendre  | quel que soit son age |
-| ------------- | ------------- |
-| <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Team.png" width="120" height="120"> | L'une de mes priorités est d'informer les plus jeunes sur le côté sombre des réseaux sociaux et de les sensibiliser à l'importance de la prudence en ligne. Je m'efforce de transmettre des valeurs de vigilance, de ne pas trop s'exposer sur Internet et de ne rien partager de trop important. Ces leçons fondamentales sont essentielles pour protéger la vie privée et la sécurité numérique. Mes propres enfants en sont les premiers bénéficiaires, et il est gratifiant de les voir comprendre l'importance de ces messages à leur manière, comme le simple "C'est cool Linux" prononcé par mon plus grand. |
+## LinkedIn como vector de comunicación
 
+LinkedIn, la plataforma profesional, también juega un papel clave en mi enfoque de evangelización del código abierto.  Es un espacio donde puedo interactuar con entusiastas, recordadores y linuxeros de todos los ámbitos de la vida.  Observo con satisfacción el crecimiento de esta comunidad día tras día.  Es un vector ideal para comunicar e informar.  Soy consciente de que mi trabajo requiere cierta reserva, pero creo que la curiosidad nunca ha hecho daño a nadie.  Compartir conocimientos y fomentar debates constructivos sobre el código abierto ayuda a ampliar horizontes y promover un uso más informado de la tecnología.
 
-## LinkedIn comme Vecteur de Communication
+En última instancia, la evangelización de código abierto es una misión cercana a mi corazón.  Es una forma de contribuir a la difusión de valores esenciales como la libertad, la transparencia y la colaboración, y de garantizar que el código abierto encuentre su lugar en un mundo digital en constante evolución.
 
-LinkedIn, la plateforme professionnelle, joue également un rôle clé dans ma démarche d'évangélisation de l'open source. C'est un espace où je peux interagir avec des convaincus, des souvenairistes et des Linuxiens de tous horizons. J'observe avec satisfaction la croissance de cette communauté jour après jour. C'est un vecteur idéal pour communiquer et informer. Je suis conscient que mon métier impose une certaine réserve, mais je considère que la curiosité n'a jamais fait de mal à personne. Partager des connaissances et encourager les discussions constructives sur l'open source est une démarche qui contribue à élargir les horizons et à promouvoir une utilisation plus éclairée de la technologie.
+#VIII.  Esto no es una conclusión <a name="continue"/>
 
-En fin de compte, l'évangélisation de l'open source est une mission qui me tient à cœur. C'est une façon de contribuer à la diffusion de valeurs essentielles telles que la liberté, la transparence et la collaboration, et de s'assurer que l'open source trouve sa place dans un monde numérique en constante évolution.
+Este artículo fue una oportunidad para compartir mi viaje hacia el uso exclusivo de herramientas de código abierto y adoptar un enfoque profundo del código abierto en mi vida diaria.  Es fundamental recordar que mi enfoque y este artículo son sobre todo informativos.  No estoy aquí para imponer dogmas, sino para fomentar la reflexión y el debate sobre los beneficios del código abierto, la transparencia y la filosofía detrás de ellos.
 
-# VIII. Ceci n'est pas une conclusion <a name="continue"/>
+Mi viaje me ha dado una comprensión más profunda del código abierto y sus beneficios.  Es un proceso que puede resultar gratificante, aunque no requiera una transformación tan profunda como la mía.  Aplicar algunos conceptos clave de la filosofía del código abierto en su vida diaria puede ser una experiencia interesante.  Si está acostumbrado a los silos, a la falta de información y a un enfoque único, experimente la transparencia.  Te sorprenderá cómo tus seres queridos, compañeros y colegas pueden devolvértelo.
 
-Cet article a été une opportunité de partager mon voyage vers une utilisation exclusive d'outils open source et une approche profonde de l'open source dans ma vie quotidienne. Il est essentiel de rappeler que mon approche et cet article sont avant tout informatifs. Je ne suis pas ici pour imposer un dogme, mais pour encourager la réflexion et la discussion sur les avantages de l'open source, de la transparence et de la philosophie qui les sous-tendent.
+Hay muchas maneras de involucrarse en el mundo del código abierto, ya sea a través del control de calidad (garantía de calidad), la traducción, el intercambio de experiencias, el intercambio de descubrimientos, las pruebas, los fallos, la retroalimentación, la colaboración en proyectos o la innovación solo o en grupo.  En los últimos años, he disfrutado contribuyendo a los proyectos y herramientas que uso a diario.  Esto se manifiesta a través de informes de errores, traducciones o incluso mi participación activa en proyectos como "Architect", cuyo objetivo es hacer que Arch Linux sea más fácil de usar para una experiencia de escritorio completa.
 
-Mon parcours m'a apporté une compréhension plus profonde de l'open source et de ses avantages. C'est une démarche qui peut être gratifiante, même si elle ne nécessite pas une transformation aussi profonde que la mienne. Appliquer quelques concepts clés de la philosophie open source dans sa vie quotidienne peut être une expérience intéressante. Si vous êtes habitués aux silos, au manque d'information, et à l'approche du "pré carré", faites l'expérience de la transparence. Vous serez surpris de la manière dont vos proches, pairs et collègues peuvent vous le rendre.
+Si está interesado en una transformación de esta magnitud, tenga en cuenta que la curva de aprendizaje puede ser pronunciada al principio.  Sin embargo, con perseverancia, se vuelve cada vez más fluido a medida que avanzas.  Hoy sigo aprendiendo, pero mantener mi entorno de código abierto requiere poco tiempo.  Este viaje hacia el código abierto es una invitación al aprendizaje, la innovación y la colaboración continuos.  Es un viaje que puede traer beneficios tanto personales como profesionales y te animo a que lo descubras a tu manera.  La filosofía del código abierto es un recurso invaluable y está al alcance de cualquiera que desee emprender este gratificante camino.
 
-Il existe de nombreuses façons de s'impliquer dans le monde de l'open source, que ce soit par la QA (assurance qualité), la traduction, le partage d'expériences, le partage de découvertes, les tests, les échecs, les retours d'expérience, la collaboration sur des projets ou l'innovation en solitaire ou en groupe. Ces dernières années, j'ai pris plaisir à contribuer aux projets et aux outils que j'utilise au quotidien. Cela se manifeste par des rapports de bugs, des traductions, ou même par ma participation active à des projets tels qu'"Architect", qui vise à rendre Arch Linux plus convivial pour une expérience de bureau complète.
+Por mi parte, en una lógica de aprendizaje e innovación continua, la aventura continúa y vuestros comentarios son bienvenidos para ayudar a que este pequeño mundo progrese 🤟
 
-Si une transformation de cette ampleur vous intéresse, gardez à l'esprit que la courbe d'apprentissage peut être abrupte au début. Cependant, avec persévérance, elle devient de plus en plus douce au fur et à mesure de votre progression. Aujourd'hui, je continue d'apprendre, mais la maintenance de mon environnement open source nécessite peu de temps. Ce voyage vers l'open source est une invitation à l'apprentissage continu, à l'innovation et à la collaboration. C'est un voyage qui peut apporter des avantages tant personnels que professionnels, et je vous encourage à le découvrir à votre manière. La philosophie open source est une ressource inestimable, et elle est à la portée de tous ceux qui souhaitent s'engager sur cette voie enrichissante.
+#IX. Preguntas/Respuestas <a name="q&a"/>
 
-Pour ma part, dans une logique d'aprentissage et d'innovation continue, l'aventure continue et vos commentaires sont les bienvenus pour faire progresser ce petit monde 🤟
+No dude en hacerme preguntas en forma de Issues en GitHub o Reddit. Estaré encantado de responderlas y publicar nuestras discusiones en este artículo.
 
-# IX. Questions/Réponses <a name="q&a"/>
+# X. Mi progreso <a name="progress"/>
 
-N'hésitez pas à me poser des questions sous formes d'Issues sur GitHub ou Reddit, je me ferais un plaisir d'y répondre et de publier nos échanges au sein de cet article.
-
-# X. Ma progression <a name="progress"/>
-
-- [x] Utiliser un navigateur web open-source
-- [x] Utiliser un moteur de recherche soucieux de la vie privée
-- [x] Utiliser un Service Mail Soucieux de la Vie Privée
-- [x] Maîtriser mes données en hébergeant mon propre serveur NAS
-- [x] Avoir une hygiène de mots de passe et héberger ceux-ci sur mon infrastructure
-- [x] Reprendre le contrôle de ma liste de contacts et de mon calendrier
-- [x] Mettre en place un réseau fiable et sécurisé
-- [ ] Veiller à l'impact écologique via une approche de greenLabing - En cours
-- [x] Basculer mon PC principal sous Linux
-- [x] Héberger mon VPN pour assurer une connexion sécurisée lorsque je suis en déplacement/vacances
-- [ ] Utiliser des applications libres sur mon mobile - En cours
-- [ ] Listes mes usages et services sur Internet, trouver des alternatives libres - Pas démarré
-
+- [x] Utilice un navegador web de código abierto
+- [x] Utilice un motor de búsqueda consciente de la privacidad
+- [x] Utilice un servicio de correo electrónico preocupado por la privacidad
+- [x] Controlar mis datos alojando mi propio servidor NAS
+- [x] Tener higiene de contraseñas y alojarlas en mi infraestructura
+- [x] Recuperar el control de mi lista de contactos y calendario
+- [x] Establecer una red confiable y segura
+- [ ] Garantizar el impacto ecológico mediante un enfoque greenLabing - En curso
+- [x] Cambiar mi PC principal a Linux
+- [x] Aloja mi VPN para garantizar una conexión segura cuando estoy de viaje o de vacaciones
+- [ ] Usar aplicaciones gratuitas en mi móvil - En curso
+- [ ] Lista mis usos y servicios en Internet, encuentra alternativas gratuitas - No iniciado
