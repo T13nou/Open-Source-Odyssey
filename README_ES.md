@@ -43,7 +43,7 @@ Mi pasión por el código abierto y la colaboración abierta tiene sus raíces e
 
 Hoy aplico estos principios de apertura y colaboración en mi vida personal y profesional.  Mi compromiso con el código abierto y la colaboración abierta se basa en la creencia de que estos enfoques pueden transformar la forma en que trabajamos, innovamos y construimos un mejor futuro digital para todos.
 
-#II. ¿Por qué código abierto?  <a name="why"/>
+# II. ¿Por qué código abierto?  <a name="why"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" ancho="1000" alto="250">
 
@@ -99,7 +99,7 @@ Estos beneficios acumulativos ilustran por qué el código abierto se ha convert
 
 Los invito a explorar el tema con el canal de [Rob Braxman](https://www.youtube.com/@robbraxmantech), definiéndose como un *Internet Privacy Evangelist*, un evangelista del respeto a la privacidad en la Internet.  Su propuesta se supone extrema: utiliza un dispositivo por caso de uso (público, privado), vive en un barco y advierte periódicamente de los peligros de nuestro entorno tecnológico.  Aplica el principio de vida *fuera de la red* a sí mismo.  Hay que tomarlo con cautela, pero estoy de acuerdo con la mayoría de sus artículos.
 
-#III. Configurando la infraestructura de código abierto <a name="infra"/>
+# III. Configurando la infraestructura de código abierto <a name="infra"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/build.png" ancho="1000" alto="250">
 
@@ -272,7 +272,7 @@ Recursos interesantes sobre el tema.
 [¿Cómo ahorrar energía en un Homelab?  ¡5 consejos!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
 [¡Respondiendo a sus preguntas sobre eficiencia energética!  |  Preguntas y respuestas sobre la optimización de la energía de Homelab](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
 
-#IV. Sistemas operativos de código abierto <a name="os"/>
+# IV. Sistemas operativos de código abierto <a name="os"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
@@ -378,7 +378,7 @@ Durante el año 2023, hice modestamente alrededor de 200 contribuciones a estos 
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-#VII. ¡Difundamos el mensaje!  <a name="message"/>
+# VII. ¡Difundamos el mensaje!  <a name="message"/>
 
 Mi compromiso con el código abierto no se limita al uso personal o profesional, va mucho más allá.  Esta es una convicción profunda que mantengo con pasión, y una de mis misiones es informar, compartir y educar sobre los beneficios del código abierto y la filosofía que lo acompaña.
 
@@ -403,7 +403,7 @@ LinkedIn, la plataforma profesional, también juega un papel clave en mi enfoque
 
 En última instancia, la evangelización de código abierto es una misión cercana a mi corazón.  Es una forma de contribuir a la difusión de valores esenciales como la libertad, la transparencia y la colaboración, y de garantizar que el código abierto encuentre su lugar en un mundo digital en constante evolución.
 
-#VIII.  Esto no es una conclusión <a name="continue"/>
+# VIII.  Esto no es una conclusión <a name="continue"/>
 
 Este artículo fue una oportunidad para compartir mi viaje hacia el uso exclusivo de herramientas de código abierto y adoptar un enfoque profundo del código abierto en mi vida diaria.  Es fundamental recordar que mi enfoque y este artículo son sobre todo informativos.  No estoy aquí para imponer dogmas, sino para fomentar la reflexión y el debate sobre los beneficios del código abierto, la transparencia y la filosofía detrás de ellos.
 
@@ -415,7 +415,7 @@ Si está interesado en una transformación de esta magnitud, tenga en cuenta que
 
 Por mi parte, en una lógica de aprendizaje e innovación continua, la aventura continúa y vuestros comentarios son bienvenidos para ayudar a que este pequeño mundo progrese 🤟
 
-#IX. Preguntas/Respuestas <a name="q&a"/>
+# IX. Preguntas/Respuestas <a name="q&a"/>
 
 No dude en hacerme preguntas en forma de Issues en GitHub o Reddit. Estaré encantado de responderlas y publicar nuestras discusiones en este artículo.
 
