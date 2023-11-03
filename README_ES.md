@@ -5,13 +5,13 @@ Mi vida 100% Open Source: una odisea digital hacia la libertad y la colaboració
 
 ## Resumen
 1. [Introducción](#introducción)
-2. [¿Por qué código abierto?](#por qué)
+2. [¿Por qué código abierto?](#why)
 3. [Configuración de la infraestructura de código abierto](#infra)
 4. [Sistemas operativos de código abierto](#os)
 5. [Colaboración abierta y el poder de la comunidad](#collab)
 6. [¡Difundamos el mensaje!](#message)
 7. [Esto no es una conclusión](#continuar)
-8. [Preguntas/Respuestas](#preguntas y respuestas)
+8. [Preguntas/Respuestas](#q&a)
 9. [Mi progreso](#progreso)
 
 # I. Introducción <a name="introducción"/>
@@ -43,7 +43,7 @@ Mi pasión por el código abierto y la colaboración abierta tiene sus raíces e
 
 Hoy aplico estos principios de apertura y colaboración en mi vida personal y profesional.  Mi compromiso con el código abierto y la colaboración abierta se basa en la creencia de que estos enfoques pueden transformar la forma en que trabajamos, innovamos y construimos un mejor futuro digital para todos.
 
-#II. ¿Por qué código abierto?  <un nombre="por qué"/>
+#II. ¿Por qué código abierto?  <a name="why"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/pinguin.png" ancho="1000" alto="250">
 
@@ -75,7 +75,7 @@ La transparencia es otro pilar del código abierto.  Dado que el código fuente 
 
 El software de código abierto suele estar disponible de forma gratuita, lo que puede reducir significativamente los costos para los usuarios y las organizaciones.  Puede utilizar un software potente sin tener que pagar costosas licencias.  Esto permite el acceso a herramientas de alta calidad, incluso con un presupuesto limitado.
 
-Es un terreno fértil para las ONG, el sector educativo o simplemente para las asociaciones cuyo objetivo es dar una segunda vida a los equipos obsoletos.  Eche un vistazo a distribuciones de Linux como [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) o [Edubuntu](https: //www.edubuntu.org/).
+Es un terreno fértil para las ONG, el sector educativo o simplemente para las asociaciones cuyo objetivo es dar una segunda vida a los equipos obsoletos.  Eche un vistazo a distribuciones de Linux como [Emmabuntüs](https://emmabuntus.org/la-distribution/), [AcademiX](https://academixproject.com/en/home/) o [Edubuntu](https://www.edubuntu.org/).
 
 ### 🦸 Comunidad y soporte activo
 
@@ -378,7 +378,7 @@ Durante el año 2023, hice modestamente alrededor de 200 contribuciones a estos 
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/GitHub%20contribs.PNG" width="1000" height="301">
 
-#VII. ¡Difundamos el mensaje!  <un nombre="mensaje"/>
+#VII. ¡Difundamos el mensaje!  <a name="message"/>
 
 Mi compromiso con el código abierto no se limita al uso personal o profesional, va mucho más allá.  Esta es una convicción profunda que mantengo con pasión, y una de mis misiones es informar, compartir y educar sobre los beneficios del código abierto y la filosofía que lo acompaña.
 
