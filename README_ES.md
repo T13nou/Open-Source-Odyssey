@@ -272,7 +272,7 @@ Recursos interesantes sobre el tema.
 [¿Cómo ahorrar energía en un Homelab?  ¡5 consejos!](https://www.youtube.com/watch?v=MDtbNxeHCYg)
 [¡Respondiendo a sus preguntas sobre eficiencia energética!  |  Preguntas y respuestas sobre la optimización de la energía de Homelab](https://www.youtube.com/watch?v=zE-COCPdyEY&t=465s)
 
-# IV. Sistemas operativos de código abierto <a name="os"/>
+# V. Sistemas operativos de código abierto <a name="os"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/bureau.png" width="1000" height="250">
 
@@ -304,7 +304,7 @@ Asistí con mucho interés a la [Entrevista a un empaquetador de Arch Linux](htt
 |  ------------- |  ------------- |  ------------- |
 |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122544.png" width="320" height="177"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122613.png" width="320" height="177"> |  <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/Screenshot_20231030_122639.png" width="320" height="177"> |
 
-# V. Colaboración abierta y el poder de la comunidad <a name="collab"/>
+# VI. Colaboración abierta y el poder de la comunidad <a name="collab"/>
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/community.png" width="1000" height="250">
 
