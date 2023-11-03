@@ -380,6 +380,8 @@ Durante el año 2023, hice modestamente alrededor de 200 contribuciones a estos 
 
 # VI. ¡Difundamos el mensaje!  <a name="message"/>
 
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/megaphone.png" width="1000" height="250">
+
 Mi compromiso con el código abierto no se limita al uso personal o profesional, va mucho más allá.  Esta es una convicción profunda que mantengo con pasión, y una de mis misiones es informar, compartir y educar sobre los beneficios del código abierto y la filosofía que lo acompaña.
 
 ## 📖 Información en lugar de conversión 
@@ -404,6 +406,8 @@ LinkedIn, la plataforma profesional, también juega un papel clave en mi enfoque
 En última instancia, la evangelización de código abierto es una misión cercana a mi corazón.  Es una forma de contribuir a la difusión de valores esenciales como la libertad, la transparencia y la colaboración, y de garantizar que el código abierto encuentre su lugar en un mundo digital en constante evolución.
 
 # VII.  Esto no es una conclusión <a name="continue"/>
+
+<img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/road.png" width="1000" height="250">
 
 Este artículo fue una oportunidad para compartir mi viaje hacia el uso exclusivo de herramientas de código abierto y adoptar un enfoque profundo del código abierto en mi vida diaria.  Es fundamental recordar que mi enfoque y este artículo son sobre todo informativos.  No estoy aquí para imponer dogmas, sino para fomentar la reflexión y el debate sobre los beneficios del código abierto, la transparencia y la filosofía detrás de ellos.
 
