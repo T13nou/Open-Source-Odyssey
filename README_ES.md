@@ -235,7 +235,7 @@ PhasedLogix tiene una excelente lista de reproducción para comenzar con la solu
 [Conozca el firewall OPNSense](https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc)
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/homelab/OPNsense.png" ancho="1000" alto="408">
 
-Para garantizar la confiabilidad y seguridad de mi red, elegí instalar OPNsense en hardware básico, lo que significa que el software se ejecuta directamente en hardware dedicado en lugar de en una máquina virtual.  Esta decisión fue crucial, porque el enrutador/firewall juega un papel esencial en la seguridad de mi red.  Entre las opciones disponibles, opté por hardware de la marca [ProtectLI](https://eu.protectli.com/), que ofrece productos de calidad con una BIOS de código abierto, [CoreBoot](https://www.coreboot. org/), en línea con mi filosofía de código abierto.
+Para garantizar la confiabilidad y seguridad de mi red, elegí instalar OPNsense en hardware básico, lo que significa que el software se ejecuta directamente en hardware dedicado en lugar de en una máquina virtual.  Esta decisión fue crucial, porque el enrutador/firewall juega un papel esencial en la seguridad de mi red.  Entre las opciones disponibles, opté por hardware de la marca [ProtectLI](https://eu.protectli.com/), que ofrece productos de calidad con una BIOS de código abierto, [CoreBoot](https://www.coreboot.org/), en línea con mi filosofía de código abierto.
 
 |  La vista frontal |  La vista trasera |
 |  ------------- |  ------------- |
@@ -284,7 +284,7 @@ Fue así como sentí el deseo de aprender más sobre este sistema operativo, sum
 
 Lo que más me llamó la atención de esta experiencia fue la mentalidad abierta, la voluntad de compartir y la dedicación de la comunidad de código abierto para ayudar a la mayor cantidad de personas posible a realizar esta transición.  Rápidamente me di cuenta de que la filosofía del código abierto estaba arraigada en el ADN de esta comunidad.  Todos estaban dispuestos a compartir sus conocimientos, resolver problemas y hacer que Linux fuera accesible para todos.
 
-Después de probar diferentes distribuciones de Linux, incluidas Debian, Fedora y OpenSUSE, finalmente encontré mi punto ideal con [Arch Linux] (https://archlinux.org/).  Este sistema operativo de código abierto satisfizo mis necesidades al 100%.  Me ofreció la flexibilidad y personalización que necesitaba para adaptar mi entorno de trabajo a mis preferencias.
+Después de probar diferentes distribuciones de Linux, incluidas Debian, Fedora y OpenSUSE, finalmente encontré mi punto ideal con [Arch Linux](https://archlinux.org/).  Este sistema operativo de código abierto satisfizo mis necesidades al 100%.  Me ofreció la flexibilidad y personalización que necesitaba para adaptar mi entorno de trabajo a mis preferencias.
 
 Si desea obtener una descripción general de las distribuciones existentes, ¡la referencia sigue siendo [DistroWatch](https://distrowatch.com/)!
 Desea probar las distribuciones sin instalarlas (o incluso iniciar en Live ISO) [DistroSea](https://distrosea.com/) le permitirá probar en una máquina virtual dentro de su navegador :)
