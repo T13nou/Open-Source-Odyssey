@@ -1,4 +1,4 @@
-# Odisea de código abierto
+# Open-Source-Odyssey
 Mi vida 100% Open Source: una odisea digital hacia la libertad y la colaboración
 
 <img src="https://github.com/T13nou/Open-Source-Odyssey/blob/main/pictures/banner.png" width="1000" height="434">
