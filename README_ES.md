@@ -10,9 +10,9 @@ Mi vida 100% Open Source: una odisea digital hacia la libertad y la colaboració
 4. [Sistemas operativos de código abierto](#os)
 5. [Colaboración abierta y el poder de la comunidad](#collab)
 6. [¡Difundamos el mensaje!](#message)
-7. [Esto no es una conclusión](#continuar)
+7. [Esto no es una conclusión](#continue)
 8. [Preguntas/Respuestas](#q&a)
-9. [Mi progreso](#progreso)
+9. [Mi progreso](#progress)
 
 # I. Introducción <a name="introducción"/>
 
